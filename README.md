@@ -9,7 +9,7 @@
 
 # 神经科学原理（第六版）翻译
 
-原始书籍电子版[百度网盘链接](链接：https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA) ，提取码：dong。
+原始书籍电子版[百度网盘链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA) ，提取码：dong。
 
 ## 感知
 * 21 Sensory Coding
