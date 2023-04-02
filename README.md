@@ -9,7 +9,7 @@
 
 # 神经科学原理（第六版）翻译
 
-ElegantBook is designed for writing books, created by [Dongsheng Deng](https://ddswhu.me/) and [Liam Huang](https://liam.page/). Just enjoy it! If you have any questions, suggestions or bug reports, you can create issues or contact us at elegantlatex2e@gmail.com.
+原始书籍电子版[百度网盘链接](链接：https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA) ，提取码：dong。
 
 ## 感知
 * 21 Sensory Coding
