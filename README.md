@@ -16,13 +16,9 @@
 
 [参考](https://www.dxy.cn/bbs/newweb/pc/post/40268362)
 
-For some reasons, __unauthorized__ pull requests are **UNACCEPTABLE** since May 20, 2019. For those who want to help revise the templates, submit issues or clone to your own repository to modify under the LPPL-1.3c.
+## 致谢
 
-## Acknowledgement
-
-Thank [sikouhjw](https://github.com/sikouhjw) for his quick response to Github issues and continuously support work for ElegantLaTeX.
-
-Thank ChinaTeX and [LaTeX Studio](http://www.latexstudio.net/) for their promotion. 
+感谢 ChinaTeX and [LaTeX Studio](http://www.latexstudio.net/) 的支持。 
 
 
 ## License
@@ -30,8 +26,3 @@ Thank ChinaTeX and [LaTeX Studio](http://www.latexstudio.net/) for their promoti
 This work is released under the LaTeX Project Public License, v1.3c or later.
 
 
-## Derivative Works
-
-+ [ElegantBookdown](https://github.com/XiangyunHuang/ElegantBookdown)：[XiangyunHuang](https://github.com/XiangyunHuang) developed a Bookdown template based on ElegantBook.
-+ [bookdownplus](https://github.com/pzhaonet/bookdownplus): maintained by [pzhaonet](https://github.com/pzhaonet).
-+ [PanBook](https://github.com/annProg/PanBook)：a markdown-based writing workflow Developed by [annProg](https://github.com/annProg).
