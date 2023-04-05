@@ -11,18 +11,16 @@
 
 原始书籍电子版[百度网盘链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA) ，提取码：dong。
 
-## 感知
-* 21 Sensory Coding
-
-[参考](https://www.dxy.cn/bbs/newweb/pc/post/40268362)
+## 参考
+* 21 [感知编码](https://www.dxy.cn/bbs/newweb/pc/post/40268362)
 
 ## 致谢
 
 感谢 Elegent 和 [TeX Studio](http://www.latexstudio.net/) 的支持。 
 
 
-## License
+## 许可证
 
-This work is released under the LaTeX Project Public License, v1.3c or later.
+该工作基于 LaTeX Project Public License, v1.3c 或者更新的许可证进行发布。
 
 
