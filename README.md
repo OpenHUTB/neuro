@@ -3,7 +3,7 @@
 
 [主页](https://elegantlatex.org/) | [Github](https://github.com/ElegantLaTeX/ElegantBook) | [CTAN](https://ctan.org/pkg/elegantbook) | [下载](https://github.com/ElegantLaTeX/ElegantBook/releases) | [Wiki](https://github.com/ElegantLaTeX/ElegantBook/wiki) | [微博](https://weibo.com/elegantlatex)
 
-![License](https://img.shields.io/ctan/l/elegantbook.svg) ![CTAN Version](https://img.shields.io/ctan/v/elegantbook.svg) ![Github Version](https://img.shields.io/github/release/ElegantLaTeX/ElegantBook.svg) ![Repo Size](https://img.shields.io/github/repo-size/ElegantLaTeX/ElegantBook.svg)
+![许可证](https://img.shields.io/ctan/l/elegantbook.svg) ![CTAN 版本](https://img.shields.io/ctan/v/elegantbook.svg) ![Github 版本](https://img.shields.io/github/release/ElegantLaTeX/ElegantBook.svg) ![仓库大小](https://img.shields.io/github/repo-size/ElegantLaTeX/ElegantBook.svg)
 
 -------
 
