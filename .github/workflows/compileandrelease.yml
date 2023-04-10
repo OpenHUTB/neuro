@@ -1,7 +1,7 @@
 
 name: Compile Latex
 
-on: [push]
+on: [push, pull_request]
     
 jobs:
   build_latex:
