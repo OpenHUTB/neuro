@@ -12,6 +12,7 @@
 原始书籍电子版[百度网盘链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA) ，提取码：dong。
 
 ## 参考
+* 4 [神经回路介导行为的神经解剖学基础](https://blog.csdn.net/qq_39318443/article/details/106892674)
 * 21 [感知编码](https://www.dxy.cn/bbs/newweb/pc/post/40268362)
 
 ## 致谢
