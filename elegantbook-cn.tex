@@ -1,11 +1,13 @@
-\documentclass[cn,10pt]{elegantbook}
+%!TEX program = xelatex 
+% !BIB program = biber
+\documentclass[cn,10pt,citestyle=gb7714-2015, bibstyle=gb7714-2015]{elegantbook}
 
 \title{神经科学原理（第六版）}
 \subtitle{Elegant\LaTeX{} 经典之作}
 
-\author{Ethan Deng \& Liam Huang}
+\author{王海东 \& 张三}
 \institute{Elegant\LaTeX{} Program}
-\date{May 2, 2021}
+\date{\today}
 \version{4.1}
 \bioinfo{自定义}{信息}
 
@@ -27,7 +29,7 @@
 \definecolor{customcolor}{RGB}{32,178,170}
 \colorlet{coverlinecolor}{customcolor}
 
-\addbibresource[location=local]{reference.bib} % 参考文献，不要删除
+\bibliography{reference}  % 关联参考文献文件 reference.bib
 
 \begin{document}
 

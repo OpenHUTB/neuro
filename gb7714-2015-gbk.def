@@ -1,0 +1,28 @@
+%%
+%% ---------------------------------------------------------------
+%% biblatex-gb7714-2015 --- A biblatex implementation of the
+%% GBT7714-2015  bibliography style, GBK supported file
+%% Maintained by huzhenzhen
+%% E-mail: hzzmail@163.com
+%% Released under the LaTeX Project Public License v1.3c or later
+%% ---------------------------------------------------------------
+%%
+
+    \def\str@bibliography{参考文献}
+    \def\str@references{参考文献}
+    \def\str@bytranslator{译}
+    \def\str@andotherscn{等}
+	\def\str@andcn{和}
+    \def\str@backrefpage{引用页}
+    \def\str@backrefpages{引用页}
+    \def\str@noaddress{出版地不详}
+    \def\str@nopublisher{出版者不详}
+    \def\str@edition{版}
+    \def\str@volumecn{卷}
+    \def\str@numbercn{册}
+    \def\str@serialcn{第}
+    \def\str@sameentry{同}
+    \def\str@incn{见}
+    \def\str@mathesiscn{硕士学位论文}
+    \def\str@phdthesiscn{博士学位论文}
+    \def\str@editorcn{主编}
