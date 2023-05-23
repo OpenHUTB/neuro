@@ -23,6 +23,9 @@
 \usepackage{amsmath}
 \numberwithin{figure}{section}
 
+% 化学符号
+\usepackage[version=4]{mhchem}
+
 
 \newcommand{\ccr}[1]{\makecell{{\color{#1}\rule{1cm}{1cm}}}}
 
@@ -40,7 +43,7 @@
 
 \markboth{Introduction}{前言}
 
-自 2019 年 Elegant\LaTeX{} 系列模板上线 GitHub、CTAN 以来，受到很多用户的喜爱 \cite{nieuwenhuys2007human}。
+自 2019 年 Elegant\LaTeX{} 系列模板上线 GitHub、CTAN 以来，受到很多用户的喜爱。
 
 2020 年，我打算做 Elegant\LaTeX{} 的最后一个版本，也就是原定计划 ElegantBook 4.x 版本为 Elegant\LaTeX{} 系列模板的终止符。基于我想把 4.x 做成一个最终版本，我计划了很多事情，包括将代码转为 dtx，将三个模板的文档打包进 dtx 里面，然后重新设计封面，补充各种页面，增加元素等等。我想的很多，但是做起来并不是很顺利，中间也发生了很多事情，不想解释。直至今年 4 月，我决定，不论如何，先把 4.1 发布出来。
 
@@ -62,6 +65,7 @@ May 2, 2021
 
 \mainmatter
 
+\include{chap0/preface}
 
 \include{chap01/chap01}
 \include{chap02/chap02}
