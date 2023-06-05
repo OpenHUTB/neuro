@@ -17,7 +17,7 @@
 
 ## 致谢
 
-感谢 Elegent 和 [TeX Studio](http://www.latexstudio.net/) 的支持。 
+感谢 Elegent 和 [TeX Studio](http://www.latexstudio.net/) 的支持。
 
 
 ## 许可证
