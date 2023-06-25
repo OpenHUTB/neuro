@@ -12,5 +12,10 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: elegantbook-cn.tex
+          root_file: neuro.tex
           latexmk_use_xelatex: true
+      - name: Upload PDF file
+        uses: softprops/action-gh-release
+        with:
+          name: PDF
+          path: neuro.pdf
