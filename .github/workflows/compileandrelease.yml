@@ -14,3 +14,8 @@ jobs:
         with:
           root_file: neuro.tex
           latexmk_use_xelatex: true
+      - name: Upload PDF file
+        uses: softprops/action-gh-release
+        with:
+          name: PDF
+          path: neuro.pdf
