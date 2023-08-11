@@ -1,3 +1,4 @@
+% !TeX document-id = {b62b4eee-1c13-4705-ad88-65d5fa91a903}
 %!TEX program = xelatex 
 % !BIB program = biber
 \documentclass[cn,10pt,citestyle=gb7714-2015, bibstyle=gb7714-2015]{elegantbook}
@@ -25,6 +26,9 @@
 
 % 化学符号
 \usepackage[version=4]{mhchem}
+
+% 长表格自动分页
+\usepackage{longtable}
 
 
 \newcommand{\ccr}[1]{\makecell{{\color{#1}\rule{1cm}{1cm}}}}
@@ -74,7 +78,7 @@
 
 \mainmatter
 
-\include{chap0/preface}
+
 
 \include{chap01/chap01}
 \include{chap02/chap02}
@@ -146,6 +150,8 @@
 \include{chap62/chap62}
 \include{chap63/chap63}
 \include{chap64/chap64}
+
+\include{chap0/preface}
 
 
 \nocite{*} 
