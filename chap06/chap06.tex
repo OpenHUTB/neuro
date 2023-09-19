@@ -36,22 +36,32 @@
 
 
 每台核磁共振成像机器的核心都是强大的磁铁。 
-磁场强度以特斯拉 (T) 为单位进行量化，大多数现代 MRI 机器都是 3T。 
-使用更高的场强，如 7T，提供了一些优势，包括对皮层进行更高分辨率成像的可能性。
-此类机器还没有普及，层特定成像还处于起步阶段，所以我们关注 3T 机器的能力和配置。
+磁场强度以\textit{特斯拉} (T) 为单位进行量化，大多数现代\textit{核磁共振成像}机器都是 3 \textit{特斯拉}。 
+使用更高的场强，如 7 \textit{特斯拉}，提供了一些优势，包括对皮层进行更高分辨率成像的可能性。
+此类机器还没有普及，层特定成像还处于起步阶段，所以我们关注 3 \textit{特斯拉}机器的能力和配置。
 
 
+% % The outside of an MRI machine looks like a tunnel, known as the “bore” of the magnet. 
 核磁共振成像仪的外部看起来像一条隧道，被称为磁铁的“孔”。
+% Subjects lie on a bed with their head in a helmet-like head coil, which receives signals from the brain. 
 受试者躺在床上，头戴头盔状的头部线圈，接收来自大脑的信号。
+% Visual stimuli are typically viewed through a mirror on the head coil angled toward a screen at the back of the bore.
 视觉刺激通常通过头部线圈上的镜子观察，镜子与孔后部的屏幕成一定角度。
+% Auditory stimuli are presented through headphones. 
 听觉刺激通过耳机呈现。
+% Behavior is typically measured in terms of manual responses with a button box and/or eye movements with an eye tracker.
 行为通常根据使用按钮框的手动响应和/或使用眼动仪的眼球运动来衡量。
+% This apparatus constrains which experimental tasks are possible. 
 该设备限制了哪些实验任务是可能的。
+% However, fMRI is flexible in other ways, including that it can be performed and repeated without harm in many different types of subjects, from children to the elderly, whether healthy or suffering from a disorder.
 然而，功能性核磁共振成像在其他方面也很灵活，包括它可以在许多不同类型的受试者身上进行和重复，而不会造成伤害，从儿童到老人，无论是健康的还是患有疾病的。
 
 
-功能性核磁共振成像测量什么？ 
+% What does fMRI measure? 
+功能性核磁共振成像测量什么？
+% There are two fundamental concepts that we will discuss in turn, first magnetic resonance and then neurovascular coupling (Figure 6–1).
 我们将依次讨论两个基本概念，首先是磁共振，然后是神经血管耦合（图~\ref{fig:6_1}）。
+
 
 \begin{figure}[htbp]
 	\centering
@@ -81,24 +91,40 @@
 
 
 
+% fMRI Depends on the Physics of Magnetic Resonance
 \subsection{功能性核磁共振成像取决于磁共振物理学}
 
+% In general, MRI exploits the magnetic properties of hydrogen atoms, the dominant source of protons in the body, specifically the way each atom’s proton interacts with a strong magnetic field. 
 一般来说，核磁共振成像利用氢原子的磁性，氢原子是体内质子的主要来源，特别是每个原子的质子与强磁场相互作用的方式。
+% A key property of protons is that they intrinsically rotate around an axis. 
 质子的一个关键特性是它们本质上围绕一个轴旋转。
-这种自旋给质子角动量和沿轴的磁偶极子，它们自己的北极和南极。
+% This spin gives protons angular momentum and a magnetic dipole along the axis, their own north and south poles. 
+这种自旋给质子提供了角动量和沿它们自己南北极轴的\textit{磁偶极子}。
+% Under normal circumstances, the directions of these dipoles are random for different protons.
 在正常情况下，这些偶极子的方向对于不同的质子是随机的。
+% When placed in a strong external magnetic field, however, a subset of the protons (how many is proportional to the field strength) align with the direction of this field, which extends from foot to head when lying in an MRI bore.
 然而，当置于强外部磁场中时，质子的子集（数量与场强成正比）与磁场方向对齐，当位于核磁共振成像孔中时，质子从脚延伸到头部。
 
 
-测量质子信号的一个重要步骤是将它们推离这个主场。 
-要理解其中的原因，不妨想想一个熟悉的物体，即陀螺仪。 
-如果一个静止的陀螺仪失去垂直平衡，它就会翻倒。 
-但是，如果在倾斜陀螺仪之前先旋转它，惯性力会防止它翻倒。 
-陀螺仪围绕其旋转的轴本身将开始围绕垂直轴旋转。 
+% In the case of a 3T magnet and hydrogen atoms, this speed is in the radiofrequency (RF) range.
+
+% An important step toward measuring a signal from protons is to push them out of alignment with this main field. 
+测量质子信号的一个重要步骤是将它们推离这个主场。
+% To understand why, it is helpful to think about a familiar object, the gyroscope. 
+要理解其中的原因，不妨想想一个熟悉的物体，即陀螺仪。
+% If a still gyroscope is tipped out of vertical balance, it will just fall over. 
+如果一个静止的陀螺仪失去垂直平衡，它就会翻倒。
+% However, if you spin the gyroscope before tipping it, inertial forces will prevent it from falling over. 
+但是，如果在倾斜陀螺仪之前先旋转它，惯性力会防止它翻倒。
+% The axis around which the gyroscope is spinning will itself begin to rotate around the vertical axis. 
+围绕自身轴旋转的陀螺仪将开始围绕垂直轴旋转。
+% This precession occurs because gravity exerts a vertical torque on the tilted gyroscope, pulling its center of mass down so that it pivots around its bottom point and traces out a circle in the transverse plane (looking from above).
 发生这种进动是因为重力对倾斜的陀螺仪施加垂直扭矩，将其质心拉下，使其围绕其底部点旋转并在横向平面（从上方看）中划出一个圆圈。 
-相对于强磁场倾斜的质子也会发生类似的情况：磁场施加扭矩，旋转轴的方向围绕磁场方向进动。 
-进动速度或共振频率由拉莫尔方程根据场强和每种原子特有的旋磁比确定。 
-对于 3T 磁体和氢原子，该速度处于射频 (RF) 范围内。
+% Something similar happens to a proton that is tilted with respect to the strong magnetic field: The field applies a torque and the orientation of the rotational axis precesses around the field direction. 
+相对于强磁场倾斜的质子也会发生类似的情况：磁场施加扭矩，旋转轴的方向围绕磁场方向进动。
+% The speed of precession, or the resonant frequency, is determined by the Larmor equation, according to the field strength and a gyromagnetic ratio specific to each type of atom. 
+进动速度或共振频率由\textit{拉莫尔方程}根据场强和每种原子特有的旋磁比确定。 
+对于 3 \textit{特斯拉}磁体和氢原子，该速度处于\textit{射频}范围内。
 
 
 但是，质子是如何从一开始就偏离排列以实现进动的呢？ 
@@ -145,13 +171,13 @@
 
 
 这些不同的衰变源很重要，因为 T1 和 T2 时间常数因组织类型而异。 
-因此，MRI 可以利用信号衰减来识别灰质、白质、脂肪和/或脑脊液。 
-根据 MRI 机器上设置的 RF 脉冲、梯度和其他参数（统称为脉冲序列）的配置和时间，从不同体素接收的信号可以突出具有不同 T1 值的组织之间的对比度（T1 加权图像 ) 和/或不同的 T2 值（T2 加权图像）。 
+因此，\textit{核磁共振成像}可以利用信号衰减来识别灰质、白质、脂肪和/或脑脊液。 
+根据\textit{核磁共振成像}机器上设置的 RF 脉冲、梯度和其他参数（统称为脉冲序列）的配置和时间，从不同体素接收的信号可以突出具有不同 T1 值的组织之间的对比度（T1 加权图像 ) 和/或不同的 T2 值（T2 加权图像）。 
 例如，在 T1 加权图像中，白质比灰质更亮，而 T2 加权图像则相反。
 
 
 测量脑功能的标准脉冲序列是平面回波成像 (EPI) 序列。 
-EPI 对\textit{功能性磁共振成像}有两个理想的特性：它非常快，允许在不到 100 毫秒的时间内从一个 RF 脉冲获取整个切片，并且它对 T2 * 敏感，我们稍后将看到，这就是 MRI 测量的方式 神经活动。 
+EPI 对\textit{功能性磁共振成像}有两个理想的特性：它非常快，允许在不到 100 毫秒的时间内从一个 RF 脉冲获取整个切片，并且它对 T2 * 敏感，我们稍后将看到，这就是\textit{核磁共振成像}测量的方式 神经活动。 
 在设计\textit{功能性磁共振成像}研究时，需要选择 EPI 序列的几个参数，包括在脑体积中获取多少切片（通常为 30-90）； 
 每卷多少时间（重复时间，通常为 1-2 秒）； 使用何种体素分辨率（每个维度通常为 2-3 毫米）； 
 以及是否使用并行采集（例如，一次采集切片的多个部分和/或多个切片）。 
@@ -206,14 +232,14 @@ EPI 对\textit{功能性磁共振成像}有两个理想的特性：它非常快�
 \begin{proposition}[神经解剖学导航术语] \label{box:6_1}
 	
 	\quad \quad 与许多科学领域相比，大脑成像的基本方法具有显著的标准化。
-	造成这种情况的一个主要原因是，自20世纪90年代中期fMRI问世以来，广泛采用的软件包就已经问世。
+	造成这种情况的一个主要原因是，自20世纪90年代中期\textit{功能性核磁共振成像}问世以来，广泛采用的软件包就已经问世。
 	这些软件包是由研究小组创建和发布的，在流行之前，大多数都是开源的。
 	
 	\quad \quad 起初，它们包括用于预处理、对齐、分析模型和统计校正的工具。
 	此后，他们引入了研究人员开发的新工具，包括非线性对齐、场图校正、非参数统计和并行化。
 	
-	\quad \quad 因此，几乎所有的fMRI研究人员都使用一个或多个这样的包，至少在他们的分析管道中是这样。
-	用于fMRI分析的流行免费软件包包括：\href{https://afni.nimh.nih.gov}{AFNI}、\href{https://fsl.fmrib.ox.ac.uk}{FSL}、\href{https://www.fil.ion.ucl.ac.uk/spm}{SPM}。
+	\quad \quad 因此，几乎所有的\textit{功能性核磁共振成像}研究人员都使用一个或多个这样的包，至少在他们的分析管道中是这样。
+	用于\textit{功能性核磁共振成像}分析的流行免费软件包包括：\href{https://afni.nimh.nih.gov}{AFNI}、\href{https://fsl.fmrib.ox.ac.uk}{FSL}、\href{https://www.fil.ion.ucl.ac.uk/spm}{SPM}。
 	
 	\quad \quad 除了这些专门的软件包，功能磁共振成像越来越多地被从数据科学的更普遍的角度来看待。
 	这有两个原因。
@@ -222,7 +248,7 @@ EPI 对\textit{功能性磁共振成像}有两个理想的特性：它非常快�
 	其次，数据非常复杂和嘈杂，感兴趣的认知信号很弱，很难找到。
 	这带来了一个数据挖掘挑战，激励了许多计算机科学家。
 	
-	\quad \quad 这一趋势最具体的表现是fMRI分析中机器学习的兴起。
+	\quad \quad 这一趋势最具体的表现是\textit{功能性核磁共振成像}分析中机器学习的兴起。
 	与数据科学的其他接触点包括与流数据的实时分析相关的挑战、网络分析和图论方法的应用、高性能计算集群和云系统的使用，以及研究人员公开共享数据的日益增长的实践（例如，https://openneuro.org）、代码（在GitHub等服务上）和教育材料（例如，https://brainiak.org/tutorials)。
 	因此，脑成像领域将继续受益于计算机科学、工程、应用数学和统计学的进步。
 	
@@ -238,7 +264,7 @@ EPI 对\textit{功能性磁共振成像}有两个理想的特性：它非常快�
 		2. 在任务期间，来自感兴趣区域的六个示例体素（不同颜色）中 BOLD 活动的时间进程。 
 		分析通常侧重于大脑中的感兴趣区域或其他体素子集，以减少执行的统计测试的数量。 
 		当分析大脑中的所有体素时，应用统计校正来减少误报的数量。 
-		此类分析的结果通常作为颜色编码的热图叠加在结构 MRI 上。 
+		此类分析的结果通常作为颜色编码的热图叠加在结构\textit{核磁共振成像}上。 
 		该图是广泛预处理和分析的结果，并不直接反映神经元活动甚至血液氧合。 
 		相反，体素是彩色的，以表明它们已经超过了在统计测试中被认为是重要的阈值。 
 		B. 功能性核磁共振成像实验中经常使用三种分析方法，例如 A 中描述的方法。
@@ -608,7 +634,7 @@ EPI 序列按顺序收集构成每个脑容量的切片，通常以交错顺序�
 	例如，患者可能表现为昏迷——无意识、非交流和对外部刺激不反应——但当被要求思考一个动作时，运动皮层或当被要求想象特定的视觉线索时，在特定类别的视觉区域表现出神经活动。
 	这些发现可能会影响临床医生对患者的预后和治疗。
 	
-	\quad \quad fMRI在现实世界中的另一个潜在应用是测谎。
+	\quad \quad \textit{功能性核磁共振成像}在现实世界中的另一个潜在应用是测谎。
 	根据大脑活动准确区分真相和谎言的能力在法庭上可能具有重要价值。
 	一些实验室研究报告称，当一组受试者被要求重复撒谎时，大脑活动会有所不同。
 	然而，为了有用，功能磁共振成像需要以一种不受策略或对策影响的方式，提供高度可靠的证据，证明一个人是否在特定事件上撒谎。
