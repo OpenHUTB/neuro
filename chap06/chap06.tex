@@ -127,30 +127,52 @@
 对于 3 \textit{特斯拉}磁体和氢原子，该速度处于\textit{射频}范围内。
 
 
+
+% But how do protons get tipped out of alignment in the first place to enable precession?
 但是，质子是如何从一开始就偏离排列以实现进动的呢？ 
+% The answer depends upon the same principle of torque. 
 答案取决于扭矩的相同原理。 
-第二个较弱的磁场在垂直方向（例如，从头部的前部到后部）施加，引入另一个扭矩，将质子拉离与强磁场对齐的位置。 
-这种未对准通过允许强场充当扭矩而导致围绕强场的方向的进动。 
+% A second, weaker magnetic field is applied in a perpendicular direction (eg, front to back of the head), introducing another torque that pulls protons away from alignment with the strong field. 
+第二个较弱的磁场在垂直方向（例如，从头部的前部到后部）施加，引入另一个扭矩，将质子拉离与强磁场对齐的位置。
+% This misalignment causes precession about the direction of the strong field by allowing the strong field to act as a torque. 
+这种未对准通过允许强场充当扭矩而导致围绕强场的方向的进动。
+% Complicating matters, this precession makes protons a moving target for the weaker magnetic field that is needed to cause misalignment in the first place. 
 使事情复杂化的是，这种进动使质子成为首先导致错位所需的较弱磁场的移动目标。
-这是通过使用核磁共振仪中的发射线圈生成第二个场来解决的，交流电通过该线圈以在质子的共振频率下传递射频脉冲。 
-这会产生一个垂直磁场，该磁场会随着进动同步旋转。 
-该射频脉冲的持续时间与产生质子自旋方向远离强场方向（例如 90°）的指定变化所需的时间一样长。 
+% This is solved by generating the second field using a transmit coil in the MRI machine, through which alternating current is passed to deliver an RF pulse at the resonant frequency of the protons. 
+这是通过使用核磁共振仪中的发射线圈生成第二个场来解决的，交流电通过该线圈以在质子的共振频率下传递射频脉冲。
+% This induces a perpendicular magnetic field that rotates in lockstep with the precession. 
+这会产生一个垂直磁场，该磁场会随着进动同步旋转。
+% This RF pulse is sustained as long as needed to generate a specified change in the spin orientation of protons away from the strong field direction (eg, 90°). 
+该射频脉冲的持续时间与产生质子自旋方向远离强场方向（例如 90°）的指定变化所需的时间一样长。
+% This change is known as the flip angle and is often chosen to maximize signal according to the Ernst equation.
 这种变化被称为翻转角，通常根据 Ernst 方程选择它来最大化信号。
 
 
+% Once the desired flip angle has been achieved, the RF pulse is stopped in order to measure the composition of tissue. 
 一旦达到所需的翻转角，射频脉冲就会停止以测量组织的成分。
-此时，质子在强磁场周围进动并严重倾斜到横向平面中。 
+% At this point, protons are precessing around the strong magnetic field and tilted heavily into the transverse plane. 
+此时，质子在强磁场周围进动并严重倾斜到横向平面中。
+% This is akin to a bar magnet spinning on a table, where the north and south poles take turns passing any given location. 
 这类似于在桌子上旋转的条形磁铁，北极和南极轮流经过任何给定位置。
+% If a coil is placed nearby, the spinning magnet induces a current in the wire that reverses as the poles alternate. 
 如果在附近放置一个线圈，旋转的磁铁会在电线中感应出电流，该电流会随着磁极交替而反转。
+% This is what the receiver head coil in an MRI machine measures: alternating current induced by protons precessing synchronously (note: this is the same principle as described earlier for how the transmit coil works, just reversed). 
 这就是核磁共振成像仪中的接收头线圈所测量的：由同步进动的质子感应的交流电（注意：这与前面描述的发射线圈的工作原理相同，只是相反）。
+% The amount of current indicates the concentration of precessing protons.
 电流量表示进动质子的浓度。
 
 
+% Critically, the frequency of these measured signals reflects the speed of precession, which in turn depends on the strength of the magnetic field experienced by the tissue. 
 至关重要的是，这些测量信号的频率反映了进动的速度，而进动的速度又取决于组织所经历的磁场强度。
+% This can be used to generate three-dimensional images by imposing different gradients on the magnetic field (think of a staircase from higher to lower strength) that cause the Larmor frequency to vary systematically over space in the brain. 
 这可用于通过在磁场上施加不同的梯度（想象从强度从高到低的阶梯）来生成三维图像，从而导致拉莫尔频率在大脑空间内系统地变化。
+% During fMRI, one gradient is applied in a specific direction to select a slice of brain tissue. 
 在功能性核磁共振成像期间，在特定方向上应用一个梯度以选择脑组织切片。
+% The RF pulse can be tailored to the resonant frequency for the exact field strength at this gradient step, such that only protons in this slice are excited. 
 可以针对此梯度步骤中的精确场强将射频脉冲调整为共振频率，以便仅激发该切片中的质子。
+% The same logic is used with additional gradients in orthogonal directions to impose a two-dimensional matrix on the selected slice, with each unit volume in the matrix or voxel having a unique frequency and phase. 
 相同的逻辑与正交方向上的附加梯度一起使用，以在所选切片上施加二维矩阵，矩阵或体素中的每个单位体积具有唯一的频率和相位。
+% The head coil receives a composite signal with a mixture of these frequencies, but the signal can be decomposed to identify protons at every voxel in the slice.
 头部线圈接收混合了这些频率的复合信号，但信号可以被分解以识别切片中每个体素处的质子。
 
 
