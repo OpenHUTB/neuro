@@ -17,6 +17,11 @@
 * 35 [眼科词汇中英对照](https://www.sohu.com/a/603321979_121124541)
 * 35 [斜视相关的术语](https://wenku.baidu.com/view/f07cd2aebad528ea81c758f5f61fb7360b4c2b30.html) 
 
+## 待做
+* 参考文献去重
+* 化学符号更新：Ca2+、K+、Na+、Cl-等；
+* 图中文字翻译；
+
 ## 致谢
 
 感谢 Elegent 和 [TeX Studio](http://www.latexstudio.net/) 的支持。
