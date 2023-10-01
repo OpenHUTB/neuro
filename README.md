@@ -18,7 +18,7 @@
 * 35 [斜视相关的术语](https://wenku.baidu.com/view/f07cd2aebad528ea81c758f5f61fb7360b4c2b30.html) 
 
 ## 待做
-* 化学符号更新：Ca2+、K+、Na+、Cl-等；
+* 化学符号更新：Mg+、Cl-等；
 * 图中文字翻译；
 * 人名英文名翻译和链接；
 * 专有名词斜体；
