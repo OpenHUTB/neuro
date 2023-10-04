@@ -12,6 +12,7 @@
 原始书籍电子版[网盘链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
 
 ## 参考
+* [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
 * 4 [神经回路介导行为的神经解剖学基础](https://blog.csdn.net/qq_39318443/article/details/106892674)
 * 21 [感知编码](https://www.dxy.cn/bbs/newweb/pc/post/40268362)
 * 35 [眼科词汇中英对照](https://www.sohu.com/a/603321979_121124541)
