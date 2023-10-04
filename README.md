@@ -1,15 +1,12 @@
-<!-- Author : Dongsheng Deng & Liam Huang-->
-<!-- Program Email: elegantlatex2e@gmail.com -->
 
-[主页](https://elegantlatex.org/) | [Github](https://github.com/ElegantLaTeX/ElegantBook) | [CTAN](https://ctan.org/pkg/elegantbook) | [下载](https://github.com/ElegantLaTeX/ElegantBook/releases) | [Wiki](https://github.com/ElegantLaTeX/ElegantBook/wiki) | [微博](https://weibo.com/elegantlatex)
-
-![许可证](https://img.shields.io/ctan/l/elegantbook.svg) ![CTAN 版本](https://img.shields.io/ctan/v/elegantbook.svg) ![Github 版本](https://img.shields.io/github/release/ElegantLaTeX/ElegantBook.svg) ![仓库大小](https://img.shields.io/github/repo-size/ElegantLaTeX/ElegantBook.svg)
-
--------
 
 # 神经科学原理（第六版）翻译
 
 原始书籍电子版[网盘链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
+
+## 内容
+总论、神经元（细胞）、突触（关系）；感知（输入）、运动（输出）、情感（内在）；发育、学习（改变）、疾病。
+
 
 ## 参考
 * [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
