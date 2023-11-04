@@ -1,6 +1,11 @@
 % !TeX document-id = {b62b4eee-1c13-4705-ad88-65d5fa91a903}
 %!TEX program = xelatex 
 % !BIB program = biber
+
+% 解决github action编译错误（本地编译没有错误）：Option clash for package xcolor
+% 参考：https://tex.stackexchange.com/questions/83101/option-clash-for-package-xcolor
+\PassOptionsToPackage{table}{xcolor}
+
 \documentclass[cn,10pt,citestyle=gb7714-2015, bibstyle=gb7714-2015]{elegantbook}
 
 \title{神经科学原理（第六版）}
