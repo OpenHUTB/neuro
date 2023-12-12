@@ -198,12 +198,23 @@
 
 由于 $RT/F$ 在 25 摄氏度（77°F，室温）时为 25 毫伏，并且从自然对数转换为基数为 10 的对数的常数是 2.3，因此\textit{能斯特方程}也可以写成如下形式：
 
+\begin{equation}\label{eq:9_Nernst_Equation_58}
+	E_x = \frac{58 mV}{z} 
+			log \frac{[X]_o}{[X]_i}.
+\end{equation}
 
-因此，对于 \ce{K+}，由于 z = +1 并给定表 9-1 中鱿鱼轴突内外的浓度：
+
+因此，对于 \ce{K+}，由于 $ z = \pm 1 $ 并给定表~\ref{tab:9_1} 中鱿鱼轴突内外的浓度：
+
+\begin{equation}\label{eq:9_axon_concentrations}
+	E_k = \frac{58 mV}{1} 
+			log \frac{[20]}{[400]}
+			= -75 mV.
+\end{equation}
 
 
-能斯特方程可用于找到存在于可渗透该离子的膜两侧的任何离子的平衡电位（该电位有时称为能斯特电位）。
-表 9-1 给出了 \ce{Na+}、\ce{K+} 和 \ce{Cl-} 离子在鱿鱼巨型轴突上的分布平衡电位。
+\textit{能斯特方程}可用于找到存在于可渗透该离子的膜两侧的任何离子的平衡电位（该电位有时称为能斯特电位）。
+表~\ref{tab:9_1}~给出了 \ce{Na+}、\ce{K+} 和 \ce{Cl-} 离子在鱿鱼巨型轴突上的分布平衡电位。
 
 
 到目前为止，在我们的讨论中，我们将静息电位的产生视为一种被动机制——离子沿其化学梯度扩散——一种不需要细胞消耗能量的机制。
@@ -487,7 +498,7 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 
 与静息 \ce{K+} 通道群一样，所有静息 \ce{Na+} 通道都可以由与单个细胞串联的单个导体表示，静息 \ce{Cl-} 通道也是如此。
-由于 \ce{K+}、\ce{Na+} 和 \ce{Cl-} 通道占静止细胞中通过细胞膜的大部分被动离子电流，我们可以通过将这三种途径合并到神经元的简单等效回路中来计算静息电位（图 9–7)。
+由于 \ce{K+}、\ce{Na+} 和 \ce{Cl-} 通道占静止细胞中通过细胞膜的大部分被动离子电流，我们可以通过将这三种途径合并到神经元的简单等效回路中来计算静息电位（图~\ref{fig:9_7})。
 
 
 为了完成这个回路，我们首先将代表每种类型通道的元素与代表细胞外液和细胞质的元素连接起来。
@@ -508,49 +519,95 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	我们也忽略了膜电容，因为$V_m$不变，所以电容上的电荷也没有变化。
 	
 	\quad \quad 由于\ce{K+}的静息通道比\ce{Na+}的静息通道多，因此\ce{K+}的膜电导远大于\ce{Na+}的膜电导。
-	在图~\ref{fig:9_8}的等效电路中，gK（10×10-6 S）比gNa（0.5×10-6 S）高20倍。
-	对于大多数神经细胞，gCl的值范围为gK的四分之一到一半。
-	在这个例子中，gCl等于4.0×10-6 S。给定这些值以及$E_K$，$E_{Cl}$和ENa的值，我们可以如下计算$V_m$。
+	在图~\ref{fig:9_8}的等效电路中，$ g_K $ ($ 10\times 10^{-6} S $) 比$ g_{Na} $ ($ 10 \times 10^{-6} S $)高20倍。
+	对于大多数神经细胞，$ g_{Cl} $的值范围为$ g_K $的四分之一到一半。
+	在这个例子中，$ g_{Cl} $等于 $ 4.0 \times 10^{-6} S $。
+	给定这些值以及$E_K$，$E_{Cl}$和$ E_{Na} $的值，我们可以如下计算$V_m$。
 	
 	\quad \quad 由于膜电位是恒定的，因此通过三组离子通道没有净电流：
 	
+	\begin{equation}\label{eq:9_three_sets}
+		I_K + I_{Cl} + I_{Na} = 0.
+	\end{equation}
+	
 	\quad \quad 我们可以很容易地分两步计算每个电流。
 	首先，我们将电路每个分支上的单独电位差相加。
-	例如，在\ce{K+}分支中，总电位差是细胞$E_K$和欧姆定律给出的跨越gK的压降之和（Vm=IK/gK）：*
+	例如，在\ce{K+}分支中，总电位差是细胞$E_K$和欧姆定律给出的跨越$ g_K $的压降之和（$ V_m = I_K / g_K $）：
+	\begin{equation}\label{eq:9_voltage_drop}
+		V_m = E_K + I_K / g_K
+	\end{equation}
 	
 	\quad \quad 同样，对于\ce{Na+}和\ce{Cl-}电导分支：
+	\begin{equation}\label{eq:9_Na_conductance}
+		V_m = E_{Cl} + I_{Cl} / g_{Cl}
+	\end{equation}
 	
-	\quad \quad 接下来，我们重新排列并求解每个分支中的离子电流I：
+	\begin{equation}\label{eq:9_Cl_conductance}
+		V_m = E_{Cl} + I_{Na} / g_{Na}
+	\end{equation}
 	
-	\quad \quad 这些方程类似于方程9-1，其中通过单个离子通道的净电流来自各个驱动力产生的电流。
+	\quad \quad 接下来，我们重新排列并求解每个分支中的离子电流$ I $：
+	
+	\begin{equation}\label{eq:9_ionic_current_Na}
+		I_{Na} = g_{Na} \times (V_m - E_{Na})
+	\end{equation}
+
+	\begin{equation}\label{eq:9_ionic_current_K}
+		I_K = g_K \times (V_m - E_k)
+	\end{equation}
+
+	\begin{equation}\label{eq:9_ionic_current_Cl}
+		I_{Cl} = g_{Cl} \times (V_m - E_{Cl}).
+	\end{equation}
+	
+	\quad \quad 这些方程类似于方程~\ref{eq:9_Nernst_Equation}，其中通过单个离子通道的净电流来自各个驱动力产生的电流。
 	如这些方程所示，通过每个电导分支的离子电流等于该分支的电导乘以净电化学驱动力。
 	因此，对于\ce{K+}电流，电导与开放\ce{K+}通道的数量成正比，驱动力等于$V_m$和$E_K$之间的差值。
 	如果$V_m$比$E_K$（-75 毫伏）更正，则驱动力为正，电流为向外；
 	如果$V_m$比$E_K$更负，则驱动力为负，电流向内。
 	
+	% Similar equations are
 	\quad \quad 在本书中，类似的方程被用于各种情况，以将特定离子电流的大小与其膜电导和驱动力联系起来。
 	
-	\quad \quad 正如我们在等式9-2中所看到的，I\ce{Na+}I\ce{K+}ICl=0。
-	如果我们现在用等式9-3a，b，c代替等式9-2中的INa，IK和ICl，乘以并重新排列，我们得到以下表达式：
+	% As we saw in
+	\quad \quad 正如我们在等式~\ref{eq:9_three_sets}~中所看到的，$ I_{Na} + I_{K} + I_{Cl} = 0 $。
+	如果我们现在用等式~\ref{eq:9_ionic_current_Na}、\ref{eq:9_ionic_current_K}、\ref{eq:9_ionic_current_Cl}代替等式~\ref{eq:9_three_sets}~中的$ I_{Na} $、$ I_{K} $ 和 $ I_{Cl} $，乘以并重新排列，我们得到以下表达式：
 	
-	\quad \quad 求解$V_m$，我们得到了静息膜电位的方程，该方程用膜电导g和细胞E表示：
+	\begin{equation}\label{eq:9_rearrange_three}
+		V_m \times (g_{Na} + g_K + G_{Cl}) = 
+		(E_{Na} \times g_{Na+}) + (E_K \times g_K) + (E_{Cl} \times g_{Cl}).
+	\end{equation}
+	
+	\quad \quad 求解$V_m$，我们得到了静息膜电位的方程，该方程用膜电导$ g $和细胞$ E $表示：
+	\begin{equation}\label{eq:9_resting_membrance_potential}
+		V_m = 
+		\frac{
+			(E_{Na} \times g_{Na}) + 
+			(E_K \times g_K) + 
+			(E_{Cl} \times g_{Cl})
+		}
+		{
+			g_{Na} + g_{K} + g_{Cl}
+		}.
+	\end{equation}
 	
 	\quad \quad 从这个方程中，使用等效电路中的值（图~\ref{fig:9_8}），我们计算出$V_m$=-70 毫伏。
 	
-	\quad \quad 等式9-4表明$V_m$接近电导较大的离子细胞的值。
+	\quad \quad 等式~\ref{eq:9_resting_membrance_potential}~表明$V_m$接近电导较大的离子细胞的值。
 	这个原理可以通过考虑动作电位期间发生的事情来说明。
-	在动作电位的峰值，gK和gCl与静息值基本不变，但gNa增加了500倍。
-	gNa的这种增加是由电压门控\ce{Na+}通道的开放引起的。
-	在图~\ref{fig:9_8}~中的等效电路中，增加500倍将使gNa从0.5×10-6 S变为250×10-6 S。
+	在动作电位的峰值，$ g_K $和$ g_{Cl} $与静息值基本不变，但$ g_{Na} $增加了500倍。
+	$ g_{Na} $的这种增加是由电压门控\ce{Na+}通道的开放引起的。
+	在图~\ref{fig:9_8}~中的等效电路中，增加500倍将使$ g_{Na} $从 $ 0.5\times 10^{-6} S$变为 $ 250 \times 10^{-6} S $。
 	
-	\quad \quad 如果我们将gNa的这个新值替换为等式9-4并求解$V_m$，则得到+48 mV。
-	在动作电位的峰值处，$V_m$比$E_K$更接近ENa，因为gNa现在比gK大25倍，比gCl大62.5倍，因此在确定$V_m$时，\ce{Na+}电池比\ce{K+}和\ce{Cl-}细胞重要得多。
+	\quad \quad 如果我们将$ g_{Na} $的这个新值替换为等式~\ref{eq:9_resting_membrance_potential}并求解$V_{m'}$，则得到+48 毫伏。
+	在动作电位的峰值处，$V_m$比$E_K$更接近$ E_{Na} $，因为$ g_{Na} $现在比$ g_K $大25倍，比$ g_{Cl} $大62.5倍，因此在确定$V_m$时，\ce{Na+}电池比\ce{K+}和\ce{Cl-}细胞重要得多。
 	
-	\quad \quad 方程9-4类似于\textit{戈德曼方程}，因为每个离子细胞对$V_m$的贡献与该特定离子的膜电导成比例加权。
+	\quad \quad 方程~\ref{eq:9_resting_membrance_potential}~类似于\textit{戈德曼方程}，因为每个离子细胞对$V_m$的贡献与该特定离子的膜电导成比例加权。
 	在极限范围内，如果一个离子的电导远大于其他离子的电导，则$V_m$接近该离子的能斯特势值。
 	
-	\quad \quad 通过将所有有助于静息电位的静息通道的电导集中为单个电导gr，并用单个电池Er替换每个电导通道的细胞，可以进一步简化等效电路，其值由等式9-4给出（图9-9）。
-	这里的下标r代表静息通道途径。由于静息通道为离子在膜上的稳定泄漏提供了途径，因此它们有时被称为泄漏通道（第~\ref{chap:chap10}~章）。
+	\quad \quad 通过将所有有助于静息电位的静息通道的电导集中为单个电导$ g_r $，并用单个电池$ E_r $替换每个电导通道的细胞，可以进一步简化等效电路，其值由等式~\ref{eq:9_resting_membrance_potential}~给出（图~\ref{fig:9_9}）。
+	这里的下标$ r $代表静息通道途径。
+	由于静息通道为离子在膜上的稳定泄漏提供了途径，因此它们有时被称为泄漏通道（第~\ref{chap:chap10}~章）。
 	当我们在后面的章节中考虑通过电压门控和配体门控通道的电流对膜电压的影响时，这种静息途径的巩固将证明是有用的。
 	
 \end{proposition}
@@ -560,12 +617,12 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	\centering
 	\includegraphics[width=0.5\linewidth]{chap09/fig_9_7}
 	\caption{静息神经元中被动电流和主动电流的等效回路。
-%		由符号 $ g_K $ 表示的总 \ce{K+} 电导是 $ \gamma_K \times N $（静息膜中开放的 \ce{K+} 通道总数）的乘积。
-%		\ce{Na+} 和 \ce{Cl-} 通道的总电导以类似的方式确定。
-%		在稳态条件下，被动 \ce{Na+} 和 \ce{K+} 电流由 \ce{Na-}和\ce{K+} 泵驱动的主动 \ce{Na+} 和 \ce{K+} 通量（$I^'_{Na}$ 和 $I^'_K$）平衡。
-%		活性 \ce{Na+} 通量（$I^'_{Na}$）活性 \ce{K+} 通量$I^'_{K}$高 50\%，因为 \ce{Na+}-\ce{K+} 泵每向细胞输送两个 \ce{K+} 离子，就会输送三个 \ce{Na+} 离子。
-%		因此，要使细胞保持稳定状态，$I_{Na}$ 必须比 $ I_K $ 大 50\%（箭头大小与电流大小成正比）。
-%		没有电流通过 \ce{Cl-} 通道，因为在此示例中 $ V_m $ 处于 $ E_{Cl} $，即 \ce{Cl-} 平衡电位。
+		由符号 $ g_K $ 表示的总 \ce{K+} 电导是 $ \gamma_K \times N $（静息膜中开放的 \ce{K+} 通道总数）的乘积。
+		\ce{Na+} 和 \ce{Cl-} 通道的总电导以类似的方式确定。
+		在稳态条件下，被动 \ce{Na+} 和 \ce{K+} 电流由 \ce{Na-}和\ce{K+} 泵驱动的主动 \ce{Na+} 和 \ce{K+} 通量（$I_{Na}'$ 和 $I_K'$）平衡。
+		活性 \ce{Na+} 通量（$I_{Na}'$）活性 \ce{K+} 通量 $I_K'$ 高 50\%，因为 \ce{Na+}-\ce{K+} 泵每向细胞输送两个 \ce{K+} 离子，就会输送三个 \ce{Na+} 离子。
+		因此，要使细胞保持稳定状态，$I_{Na}$ 必须比 $ I_K $ 大 50\%（箭头大小与电流大小成正比）。
+		没有电流通过 \ce{Cl-} 通道，因为在此示例中 $ V_m $ 处于 $ E_{Cl} $，即 \ce{Cl-} 平衡电位。
 	}
 	\label{fig:9_7}
 \end{figure}
@@ -580,6 +637,14 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	\label{fig:9_8}
 \end{figure}
 
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.5\linewidth]{chap09/fig_9_9}
+	\caption{\ce{Na+}、\ce{K+}和\ce{Cl-}静息通道可以简化为单个电导和电池。
+		对于静息膜的等效电路模型（如图~\ref{fig:9_8}），总膜电导（$ g_r $）由\ce{Na+}、\ce{K+}和\ce{Cl-}电导之和计算，静息电位电池（$ E_r $）的值由方程~\ref{eq:9_resting_membrance_potential}~计算。}
+	\label{fig:9_9}
+\end{figure}
 
 \section{神经元的被动电特性影响电信号}
 
@@ -611,7 +676,9 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	\includegraphics[width=0.5\linewidth]{chap09/fig_9_10}
 	\caption{膜电位的变化率因膜电容而减慢。
 		上图显示了膜电位 ($\Delta V_m$) 对阶跃电流脉冲 (Im) 的响应。
-		实际电压响应的形状（红线）结合了纯电阻元件（虚线 a）和纯电容元件（虚线 b）的特性。 达到最终电压的 63\% 所需的时间定义了膜时间常数 τ。 下图显示了电流脉冲期间总膜电流 (Im) 的两个元素：跨膜电阻元件（离子通道）的离子电流 (Ii) 和电容电流 (Ic)。}
+		实际电压响应的形状（红线）结合了纯电阻元件（虚线 a）和纯电容元件（虚线 b）的特性。
+		达到最终电压的 63\% 所需的时间定义了膜时间常数 τ。
+		下图显示了电流脉冲期间总膜电流 (Im) 的两个元素：跨膜电阻元件（离子通道）的离子电流 (Ii) 和电容电流 (Ic)。}
 	\label{fig:9_10}
 \end{figure}
 
@@ -712,7 +779,12 @@ rm 和 ra 都是给定半径的神经元过程单位长度的阻力测量值。
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.7\linewidth]{chap09/fig_9_12}
-	\caption{电紧张传导有助于动作电位的传播。 A. 从右向左传播的动作电位导致轴突两个相邻区域之间的膜电位差异。 这种差异会产生局部回路电流，导致去极化被动扩散。 电流从更积极的活动区域 (2) 传播到动作电位 (1) 之前的不太积极的静息区域，以及动作电位 (3) 后面的不太积极的区域。 然而，由于在动作电位之后膜 \ce{K+} 电导也增加（第 \ref{chap:chap10} 章），区域 3 中沿膜内侧的正电荷积累超过了局部 \ce{K+} 流出的平衡， 让这个膜区域重新极化。 B. 不久之后，动作电位沿轴突向下移动并重复该过程。}
+	\caption{电紧张传导有助于动作电位的传播。
+		\textbf{A.} 从右向左传播的动作电位导致轴突两个相邻区域之间的膜电位差异。
+		这种差异会产生局部回路电流，导致去极化被动扩散。
+		电流从更积极的活动区域 (2) 传播到动作电位 (1) 之前的不太积极的静息区域，以及动作电位 (3) 后面的不太积极的区域。
+		然而，由于在动作电位之后膜 \ce{K+} 电导也增加（第~\ref{chap:chap10}~章），区域 3 中沿膜内侧的正电荷积累超过了局部 \ce{K+} 流出的平衡， 让这个膜区域重新极化。
+		\textbf{B.} 不久之后，动作电位沿轴突向下移动并重复该过程。}
 	\label{fig:9_12}
 \end{figure}
 
