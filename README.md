@@ -155,6 +155,10 @@
 64. 大脑老化
 
 
+## 原则
+
+* 尽量不用英文缩写
+
 ## 参考
 * [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
 * 03 [大脑如何处理视觉信息？](https://zhuanlan.zhihu.com/p/273189834?utm_id=0)
