@@ -163,6 +163,7 @@
 * [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
 * 03 [大脑如何处理视觉信息？](https://zhuanlan.zhihu.com/p/273189834?utm_id=0)
 * 04 [神经回路介导行为的神经解剖学基础](https://blog.csdn.net/qq_39318443/article/details/106892674)
+* 17 [感觉信息编码](https://www.zhihu.com/people/lcp-1/following/columns)
 * 19 [触觉](https://blog.csdn.net/qq_39318443/article/details/106892674)
 * 21 [感知编码](https://www.dxy.cn/bbs/newweb/pc/post/40268362)
 * 35 [眼科词汇中英对照](https://www.sohu.com/a/603321979_121124541)
