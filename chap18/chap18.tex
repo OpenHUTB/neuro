@@ -278,7 +278,31 @@ II 类纤维支配对触觉有反应的皮肤机械感受器，III 类纤维介�
 		\toprule
 		受体类型 & 纤维组 & 纤维名称 & 受体 & 标记 & 模态\\
 		\midrule
-		皮肤机械受体 & A$\alpha$、$\beta$ & RA1 & Piezo2 & cRet/Npy2r/NFH & 轻抚、颤动 \\
+		\textit{皮肤机械受体} & &  &  &  & 触摸 \\
+		梅克尔盘受体 & A$\alpha$、$\beta$ & SA1 & Piezo2 & \makecell[l]{Troma1/\\Keratin8/\\Npy2r} & \makecell[l]{压力、\\纹理} \\
+		环层小体 & A$\alpha$、$\beta$ & RA2 & Piezo2 & \makecell[l]{cRet/\\Npy2r/\\\textit{神经丝重多肽}} & 振动 \\
+		鲁菲尼终末器 & A$\alpha$、$\beta$ & SA2 & Piezo2 &  & 皮肤拉伸 \\
+		毛发（保护） & A$\alpha$、$\beta$ & A$\beta$ RA-LTMR & Piezo2 & \makecell{cRet/\\Npy2r/\\\textit{神经丝重多肽}} & 毛发运动 \\
+		\makecell[l]{毛发(awl\\/auchene)} & A$\delta$ & \makecell[l]{A$\delta$-\\LTMR} & Piezo2 & TrkB & 轻抚、吹气 \\
+		\makecell[l]{域受体(\\圆周端)} & \makecell[l]{A$\beta$(\\Field\\-LTMR)} & A$\beta$ & Piezo2 & \textit{神经丝重多肽} & 皮肤拉伸 \\
+		毛发（锯齿形） & C & C-LTMR &  & TH & \makecell[l]{慢抚、轻柔\\的触碰} \\
+		温度感受器 &  &  &  &  & 温度 \\
+		冷感受器 & A$\delta$ & III & TRPM8 &  & \makecell[l]{皮肤冷却(<25°C)} \\
+		热感受器 & C & IV & TRPV3 &  & \makecell[l]{皮肤变暖\\(>35°C)} \\
+		热伤害感受器 & A$\delta$ & III & \makecell[l]{TRPV1/\\TRPV2} &  & 高温(>45°C) \\
+		冷伤害感受器 & C & IV & \makecell[l]{TRPA1/\\TRPM8} &  & 低温(<5°C) \\
+		\textit{疼痛感受器} &  &  & &  & 疼痛 \\
+		机械 & A$\delta$ & III & & \textit{降钙素基因相关肽} & \makecell[l]{锐利的\\东西、刺痛} \\
+		热机械（热） & A$\delta$ & III & TRPV2 &  & 灼痛 \\
+		热机械（冷） & C & IV & \makecell[l]{TRPV1/\\TRPA1} & IB4 & 冷痛 \\
+		多觉型 & C & IV & \makecell[l]{TRPV1/\\TRPA1} &  & \makecell[l]{缓慢、灼热\\的疼痛} \\
+		\textit{肌肉和骨骼} &  &  &  &  & 肢体本体感觉 \\
+		\textit{机械感受器} &  &  &  &  &  \\
+		肌梭原发性 & A$\alpha$ & 大直径 & Piezo2 & PV/NFH & \makecell[l]{肌肉长度\\和速度} \\
+		肌梭继发 & A$\beta$ & II & Piezo2 & PV/NFH & 肌肉伸展 \\
+		高尔基腱器官 & A$\alpha$ & Ib & Piezo2 & PV/NFH & 肌肉收缩 \\
+		关节囊受体 & A$\beta$ & II &  &  & 关节角度 \\
+		伸缩敏感自由端 & A$\delta$ & III &  &  & \makecell[l]{过度拉伸或用力} \\
 		\bottomrule
 	\end{tabular}
 \end{table}
@@ -644,7 +668,7 @@ TRPA1 受体结合辛辣物质，例如辣根（芥末）、大蒜、洋葱和�
 
 受 C 纤维支配的伤害感受器会产生弥漫性局限性且难以耐受的钝痛、灼痛。
 最常见的类型包括多模式伤害感受器，它们对各种有害的机械、热和化学刺激做出反应，例如捏或刺、有害的热和冷，以及应用于皮肤的刺激性化学物质。
-如第~\ref{chap:chap20}~章所述，大多数 C 多峰伤害感受器表达 TRPV1 和/或 TRPA1 受体。
+如第~\ref{chap:chap20}~章所述，大多数 C 多觉型伤害感受器表达 TRPV1 和/或 TRPA1 受体。
 人体对这些纤维的电刺激会引起长时间的灼痛感。
 在内脏中，伤害感受器被膨胀或肿胀激活，产生剧烈疼痛的感觉。
 
@@ -733,7 +757,7 @@ $Na_V$ 1.9 通道在相对负电位下激活并经历可忽略不计的失活，
 
 新的体内功能成像技术为标记、可视化和测量对各种类型的体感刺激的整体反应提供了有用的工具。
 例如，由感觉刺激诱发的 \ce{Ca^2+} 电流提供了单个神经元尖峰序列电生理记录的替代方法。
-在图~\ref{fig:18_12}~所示的实验中，基因编码的 \ce{Ca^2+} 传感器 GCaMP6f 在小鼠三叉神经节细胞中表达，该神经节还表达多峰 TRPV1 受体，使研究人员能够可视化和量化由各种神经元激活的神经元群的活动。 体感刺激。
+在图~\ref{fig:18_12}~所示的实验中，基因编码的 \ce{Ca^2+} 传感器 GCaMP6f 在小鼠三叉神经节细胞中表达，该神经节还表达多觉型 TRPV1 受体，使研究人员能够可视化和量化由各种神经元激活的神经元群的活动。 体感刺激。
 Nima Ghitani、Alexander Chesler 及其同事使用 William Willis 首先开发的一系列触觉、有害和热刺激来分析脊髓神经元的体感反应，同时记录了 213 个三叉神经元的反应。
 他们的发现非常了不起。
 如图~\ref{fig:18_12}B1~的热图所示，神经元反应多种多样，对相同刺激的放电模式的强度和持续时间差异很大。 
