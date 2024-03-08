@@ -59,9 +59,9 @@
 
 20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) 
 
-21. 视觉处理的构建本质（构建）
+21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-22. 低层视觉处理：视网膜（光电转换）
+22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
 
 23. 中层视觉处理和视觉元素（元素）
 
