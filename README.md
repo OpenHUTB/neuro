@@ -11,9 +11,9 @@
 
 一、总论（概述）
 
-1. 大脑与行为（大脑、结构）
+1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-2. 基因与行为（基因、进化）
+2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
 
 3. 神经细胞、神经回路和行为（细胞、回路） ---- [高卓航 gzhatsb](https://github.com/gzhatsb)
 
@@ -158,9 +158,9 @@
 
 62. 影响社会认知的障碍：孤独症谱系障碍
 
-63. 神经系统神经退行性疾病的遗传机制
+63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
 
-64. 大脑老化
+64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd)
 
 
 ## 参考
