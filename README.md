@@ -19,9 +19,9 @@
 
 4. 神经回路介导行为的神经解剖学基础（行为的回路）
  
-5. 行为调节神经回路的计算基础（回路的计算）---崔森forbruce(https://github.com/forbruce)
+5. 行为调节神经回路的计算基础（回路的计算）---崔森[forbruce](https://github.com/forbruce)
 
-6. 成像和行为（成像、方法）---崔森forbruce(https://github.com/forbruce)
+6. 成像和行为（成像、方法）---崔森[forbruce](https://github.com/forbruce)
 
 二、神经系统细胞的细胞生物学和分子生物学（细胞）
 
