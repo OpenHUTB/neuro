@@ -126,9 +126,9 @@
 
 49. 突触连接的经验和细化
 
-50. 修复受损的大脑
+50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
-51. 神经系统的性别分化
+51. 神经系统的性别分化----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
 
 八、学习（改变）
