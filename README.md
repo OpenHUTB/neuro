@@ -44,9 +44,9 @@
 
 14. 突触传递和神经元兴奋性的调节：第二信使（突触前）
 
-15. 递质释放（突触前末梢）王芷萱 akicn https://github.com/akicn/neural
+15. 递质释放（突触前末梢）
 
-16. 神经递质（化学性质）王芷萱 akicn https://github.com/akicn/neural
+16. 神经递质（化学性质）
 
 四、感知（输入）
 
@@ -120,9 +120,9 @@
 
 46. 神经细胞的分化与存活
 
-47. 轴突的生长和引导
+47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn/neural)
 
-48. 突触的形成和消除
+48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn/neural)
 
 49. 突触连接的经验和细化
 
