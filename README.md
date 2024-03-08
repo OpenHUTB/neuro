@@ -140,9 +140,9 @@
 
 54. 海马体和外显记忆存储的神经基础
 
-55. 语言（行为）
+55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
-56. 决策和意识（决策）
+56. 决策和意识（决策）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
 
 九、疾病（衰老）
