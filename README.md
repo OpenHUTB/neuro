@@ -59,9 +59,9 @@
 
 20. 痛觉（痛）
 
-21. 视觉处理的构建本质（构建）
+21. 视觉处理的构建本质（构建）    胡朵 huduo0  https://github.com/huduo0/neuro
 
-22. 低层视觉处理：视网膜（光电转换）
+22. 低层视觉处理：视网膜（光电转换）  胡朵  huduo0  https://github.com/huduo0/neuro
 
 23. 中层视觉处理和视觉元素（元素）
 
