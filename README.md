@@ -80,7 +80,7 @@
 
 五、运动（输出）
 
-30. 感觉运动控制原理（原理）----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
+30. 感觉运动控制原理（原理）
 
 31. 运动单元和肌肉动作（肌肉）----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
@@ -127,9 +127,9 @@
 
 49. 突触连接的经验和细化
 
-50. 修复受损的大脑
+50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
-51. 神经系统的性别分化
+51. 神经系统的性别分化----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
 
 八、学习（改变）
