@@ -11,17 +11,17 @@
 
 一、总论（概述）
 
-1. 大脑与行为（大脑、结构）
+1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-2. 基因与行为（基因、进化）
+2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-3. 神经细胞、神经回路和行为（细胞、回路）
+3. 神经细胞、神经回路和行为（细胞、回路） ---- [高卓航 gzhatsb](https://github.com/gzhatsb)
 
-4. 神经回路介导行为的神经解剖学基础（行为的回路）
+4. 神经回路介导行为的神经解剖学基础（行为的回路） --- [高卓航 gzhatsb](https://github.com/gzhatsb)
  
-5. 行为调节神经回路的计算基础（回路的计算）
+5. 行为调节神经回路的计算基础（回路的计算）---- 张智兵 [QJWSH](https://github.com/QJWSH)
 
-6. 成像和行为（成像、方法）
+6. 成像和行为（成像、方法）---- 张智兵 [QJWSH](https://github.com/QJWSH)
 
 二、神经系统细胞的细胞生物学和分子生物学（细胞）
 
@@ -36,17 +36,17 @@
 
 三、突触（关系）
 
-11. 突触传递概述（化学、电）
+11. 突触传递概述（化学、电）----宋金可[kkkkkke6](https://github.com/kkkkkke6)
 
-12. 直接门控传输：神经肌肉突触（肌肉）
+12. 直接门控传输：神经肌肉突触（肌肉）----宋金可 [kkkkkke6](https://github.com/kkkkkke6)
 
 13. 中枢神经系统的突触整合（突触后）
 
 14. 突触传递和神经元兴奋性的调节：第二信使（突触前）
 
-15. 递质释放（突触前末梢）
+15. 递质释放（突触前末梢）----彭洋[peng2023-ai]([https://github.com/peng2023-ai]
 
-16. 神经递质（化学性质）
+16. 神经递质（化学性质）----彭洋[peng2023-ai]([https://github.com/peng2023-ai]
 
 四、感知（输入）
 
@@ -54,46 +54,45 @@
 
 18. 体感系统的受体（受体）
 
-19. 触觉（机械）
+19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
 
-20. 痛觉（痛）
+20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) 
 
-21. 视觉处理的构建本质（构建）
+21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-22. 低层视觉处理：视网膜（光电转换）
+22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-23. 中层视觉处理和视觉元素（元素）
+23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-24. 高层视觉处理：从视觉到认知（认知）
+24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-25. 注意力和动作的视觉处理（注意力）
+25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
 
-26. 耳蜗的听觉处理（声电转换）
+26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
 
 27. 前庭系统（制导）
 
-28. 听觉处理的中枢神经系统（听觉认知）
+28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)
 
-29. 嗅觉和味觉：化学感觉（化学）
+29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)
 
 
 五、运动（输出）
 
 30. 感觉运动控制原理（原理）
 
-31. 运动单元和肌肉动作（肌肉）
-
+31. 运动单元和肌肉动作（肌肉）----万薇[12oneway](https://github.com/12oneway/neuro)
 32. 脊髓中的感觉-运动整合（脊髓）
 
-33. 运动（回路）
+33. 运动（回路）----万薇[12oneway](https://github.com/12oneway/neuro)
 
 34. 自发运动：运动皮层（皮层）
 
 35. 凝视的控制（凝视）
 
-36. 姿态（平衡、定向）
+36. 姿态（平衡、定向）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
-37. 小脑（控制）
+37. 小脑（控制）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
 38. 基底神经节（选择、决策、强化学习）
 
@@ -106,11 +105,11 @@
 
 41. 下丘脑：生存的自主、激素和行为控制（化学调控）
 
-42. 情感（情绪）
+42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK)
 
-43. 动机、奖励和上瘾状态（强化学习）
+43. 动机、奖励和上瘾状态（强化学习）----何远兴YuenHing
 
-44. 睡眠和清醒（节律）
+44. 睡眠和清醒（节律）----何远兴YuenHing
 
 规划：[前额叶皮层](https://github.com/OpenHUTB/PFC)
 
@@ -120,47 +119,47 @@
 
 46. 神经细胞的分化与存活
 
-47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn/neural)
+47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)
 
-48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn/neural)
+48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)
 
 49. 突触连接的经验和细化
 
-50. 修复受损的大脑
+50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
-51. 神经系统的性别分化
+51. 神经系统的性别分化----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
 
 八、学习（改变）
 
-52. 学习和记忆
+52. 学习和记忆  ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
-53. 内隐记忆的细胞机制和个性的生物基础
+53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
+
 
 54. 海马体和外显记忆存储的神经基础
 
-55. 语言（行为）
+55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
-56. 决策和意识（决策）
+56. 决策和意识（决策）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
 
 九、疾病（衰老）
 
-57. 周围神经和运动单位疾病
+57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)
 
 58. 癫痫发作和癫痫
 
-59. 有意识和无意识的心理过程障碍
+59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
+60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
 
-60. 精神分裂症的思想和意志障碍
+61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK)
 
-61. 情绪障碍和焦虑
+62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)
 
-62. 影响社会认知的障碍：孤独症谱系障碍
+63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
 
-63. 神经系统神经退行性疾病的遗传机制
-
-64. 大脑老化
+64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd)
 
 
 ## 参考
