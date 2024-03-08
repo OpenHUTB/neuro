@@ -80,9 +80,9 @@
 
 五、运动（输出）
 
-30. 感觉运动控制原理（原理）
+30. 感觉运动控制原理（原理）----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
-31. 运动单元和肌肉动作（肌肉）
+31. 运动单元和肌肉动作（肌肉）----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
 32. 脊髓中的感觉-运动整合（脊髓）
 
