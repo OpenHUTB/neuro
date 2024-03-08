@@ -134,9 +134,9 @@
 
 八、学习（改变）
 
-52. 学习和记忆
+52. 学习和记忆  ----黄兰芳[huanglanfang]https://github.com/huanglanfang/neuro/
 
-53. 内隐记忆的细胞机制和个性的生物基础
+53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang]https://github.com/huanglanfang/neuro/
 
 54. 海马体和外显记忆存储的神经基础
 
