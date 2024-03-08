@@ -188,4 +188,29 @@
 
 该工作基于 LaTeX Project Public License, v1.3c 或者更新的许可证进行发布。
 
+## 参与人
+
+总编辑 ---- 王海东、段金焱 [Duan359](https://github.com/Duan359)
+
+第一章  ---- 蔡海彬 [baifeng66](https://github.com/baifeng66)
+
+第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo) 
+
+第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT)
+
+第四章  ---- 陈艺琳 [chenyl111](https://github.com/chenyl111)
+
+第五章  ---- 刘家琪 [AwooDancer](https://github.com/AwooDancer)
+
+第六章  ---- 文沛然 [wpr123](https://github.com/wpr123)
+
+第七章  ---- 张洋铨 [Purpleashes](https://github.com/Purpleashes)
+
+第八章  ---- 谢恩坪 [half-white](https://github.com/half-white)
+
+第九章  ---- 
+
+第十章  ---- 
+
+
 
