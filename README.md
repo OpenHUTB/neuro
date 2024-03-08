@@ -91,9 +91,9 @@
 
 35. 凝视的控制（凝视）
 
-36. 姿态（平衡、定向）
+36. 姿态（平衡、定向）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
-37. 小脑（控制）
+37. 小脑（控制）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
 38. 基底神经节（选择、决策、强化学习）
 
