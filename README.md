@@ -140,9 +140,9 @@
 
 54. 海马体和外显记忆存储的神经基础
 
-55. 语言（行为）
+55. 语言（行为） ---崔森 forbruce (https://github.com/forbruce)
 
-56. 决策和意识（决策）
+56. 决策和意识（决策） ---崔森 forbruce (https://github.com/forbruce)
 
 
 九、疾病（衰老）
