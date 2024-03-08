@@ -96,9 +96,9 @@
 
 37. 小脑（控制）
 
-38. 基底神经节（选择、决策、强化学习）
+38. 基底神经节（选择、决策、强化学习）  ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
-39. 脑机接口（输出）
+39. 脑机接口（输出）    ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
 
 六、行为（认知）
