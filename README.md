@@ -44,9 +44,9 @@
 
 14. 突触传递和神经元兴奋性的调节：第二信使（突触前）
 
-15. 递质释放（突触前末梢）王芷萱 akicn
+15. 递质释放（突触前末梢）王芷萱 akicn https://github.com/akicn/neural
 
-16. 神经递质（化学性质）王芷萱 akicn
+16. 神经递质（化学性质）王芷萱 akicn https://github.com/akicn/neural
 
 四、感知（输入）
 
