@@ -63,9 +63,9 @@
 
 22. 低层视觉处理：视网膜（光电转换）
 
-23. 中层视觉处理和视觉元素（元素）
+23. 中层视觉处理和视觉元素（元素）刘茜 ChouBaoLiLi https://github.com/ChouBaoLiLi/neuro
 
-24. 高层视觉处理：从视觉到认知（认知）
+24. 高层视觉处理：从视觉到认知（认知）刘茜 ChouBaoLiLi https://github.com/ChouBaoLiLi/neuro
 
 25. 注意力和动作的视觉处理（注意力）
 
