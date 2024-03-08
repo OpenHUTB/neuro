@@ -55,9 +55,9 @@
 
 18. 体感系统的受体（受体）
 
-19. 触觉（机械）
+19. 触觉（机械）阮日青[ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
-20. 痛觉（痛）
+20. 痛觉（痛）阮日青[ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
 21. 视觉处理的构建本质（构建）
 
