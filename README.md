@@ -55,9 +55,9 @@
 
 18. 体感系统的受体（受体）
 
-19. 触觉（机械）  颜舒琪 yanshuqiiii
+19. 触觉（机械）  颜舒琪 yanshuqiiii https://github.com/yanshuqiiii/neuro/
 
-20. 痛觉（痛）    颜舒琪 yanshuqiiii
+20. 痛觉（痛）    颜舒琪 yanshuqiiii https://github.com/yanshuqiiii/neuro/
 
 21. 视觉处理的构建本质（构建）
 
