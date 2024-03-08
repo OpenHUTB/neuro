@@ -55,9 +55,9 @@
 
 18. 体感系统的受体（受体）
 
-19. 触觉（机械）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
+19. 触觉（机械）
 
-20. 痛觉（痛）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
+20. 痛觉（痛）
 
 21. 视觉处理的构建本质（构建）
 
@@ -92,9 +92,9 @@
 
 35. 凝视的控制（凝视）
 
-36. 姿态（平衡、定向）
+36. 姿态（平衡、定向）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
-37. 小脑（控制）
+37. 小脑（控制）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
 38. 基底神经节（选择、决策、强化学习）
 
