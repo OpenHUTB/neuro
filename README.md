@@ -51,9 +51,9 @@
 
 四、感知（输入）
 
-17. 感觉编码（编码）
+17. 感觉编码（编码）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro)
 
-18. 体感系统的受体（受体）
+18. 体感系统的受体（受体）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro)
 
 19. 触觉（机械）
 
@@ -63,9 +63,9 @@
 
 22. 低层视觉处理：视网膜（光电转换）
 
-23. 中层视觉处理和视觉元素（元素）刘茜 ChouBaoLiLi https://github.com/ChouBaoLiLi/neuro
+23. 中层视觉处理和视觉元素（元素）
 
-24. 高层视觉处理：从视觉到认知（认知）刘茜 ChouBaoLiLi https://github.com/ChouBaoLiLi/neuro
+24. 高层视觉处理：从视觉到认知（认知）
 
 25. 注意力和动作的视觉处理（注意力）
 
