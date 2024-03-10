@@ -51,9 +51,9 @@
 
 四、感知（输入）
 
-17. 感觉编码（编码）----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
+17. 感觉编码（编码）
 
-18. 体感系统的受体（受体）----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
+18. 体感系统的受体（受体）
 
 19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
 
@@ -102,9 +102,9 @@
 
 六、行为（认知）
 
-40. 脑干
+40. 脑干 ----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
 
-41. 下丘脑：生存的自主、激素和行为控制（化学调控）
+41. 下丘脑：生存的自主、激素和行为控制（化学调控）----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
 
 42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK)
 
