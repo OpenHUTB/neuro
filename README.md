@@ -100,9 +100,9 @@
 
 六、行为（认知）
 
-40. 脑干 ----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
+40. 脑干 ----卿海伦[Qqqqhl](https://github.com/Qqqqhl)
 
-41. 下丘脑：生存的自主、激素和行为控制（化学调控）----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
+41. 下丘脑：生存的自主、激素和行为控制（化学调控）----卿海伦[Qqqqhl](https://github.com/Qqqqhl)
 
 42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK)
 
