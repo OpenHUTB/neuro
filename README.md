@@ -51,9 +51,9 @@
 
 四、感知（输入）
 
-17. 感觉编码（编码）
+17. 感觉编码（编码）----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
 
-18. 体感系统的受体（受体）
+18. 体感系统的受体（受体）----卿海伦[Qqqqhl]((https://github.com/Qqqqhl)) 
 
 19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
 
