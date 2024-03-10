@@ -29,9 +29,8 @@
 
 8. 离子通道（通道）
 
-9. 膜电位和神经元的被动电特性（膜电位）
-
-10. 传播信号：动作电位（电位传播）
+9. 膜电位和神经元的被动电特性（膜电位）----杨万莲[valerie-prog](https://github.com/valerie-prog)
+10. 传播信号：动作电位（电位传播）----杨万莲[valerie-prog](https://github.com/valerie-prog)
 
 
 三、突触（关系）
