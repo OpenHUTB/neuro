@@ -149,8 +149,8 @@
 
 58. 癫痫发作和癫痫
 
-59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
-60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
+59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
+60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
 
 61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK)
 
