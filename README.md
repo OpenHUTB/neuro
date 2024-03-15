@@ -118,9 +118,9 @@
 
 46. 神经细胞的分化与存活 —————颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
-47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)
+47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)   ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
-48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)
+48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)    ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
 49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
 
