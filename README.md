@@ -80,10 +80,10 @@
 
 30. 感觉运动控制原理（原理）----付姣娟[fu293024](https://github.com/fu293024/neuro)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro
 
-31. 运动单元和肌肉动作（肌肉）----万薇[12oneway](https://github.com/12oneway/neuro)
+31. 运动单元和肌肉动作（肌肉）----万薇[12oneway](https://github.com/12oneway/neuro)  ----付姣娟[fu293024] https://github.com/fu293024/neuro
 32. 脊髓中的感觉-运动整合（脊髓）----付姣娟[fu293024](https://github.com/fu293024/neuro)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro
 
-33. 运动（回路）----万薇[12oneway](https://github.com/12oneway/neuro)
+33. 运动（回路）----万薇[12oneway](https://github.com/12oneway/neuro)  ----付姣娟[fu293024] https://github.com/fu293024/neuro
 
 34. 自发运动：运动皮层（皮层）---盛日森[srssrs0618](https://github.com/srssrs0618)
 
