@@ -122,7 +122,7 @@
 
 48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)
 
-49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
+49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
 
 50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
@@ -136,7 +136,7 @@
 53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
 
-54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
+54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
 
 55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
