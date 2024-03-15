@@ -104,7 +104,7 @@
 
 41. 下丘脑：生存的自主、激素和行为控制（化学调控）----卿海伦[Qqqqhl](https://github.com/Qqqqhl)
 
-42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK)
+42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
 43. 动机、奖励和上瘾状态（强化学习）----何远兴[YuenHing](https://github.com/YuenHin)
 
@@ -152,7 +152,7 @@
 59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
 60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
 
-61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK)
+61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
 62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)
 
