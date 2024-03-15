@@ -15,13 +15,13 @@
 
 2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-3. 神经细胞、神经回路和行为（细胞、回路） ---- 高卓航 [gzhatsb](https://github.com/gzhatsb)
+3. 神经细胞、神经回路和行为（细胞、回路） ---- 高卓航 [gzhatsb](https://github.com/gzhatsb) 张智兵 [QJWSH](https://github.com/QJWSH)
 
-4. 神经回路介导行为的神经解剖学基础（行为的回路） --- 高卓航 [gzhatsb](https://github.com/gzhatsb)
+4. 神经回路介导行为的神经解剖学基础（行为的回路） --- 高卓航 [gzhatsb](https://github.com/gzhatsb) 张智兵 [QJWSH](https://github.com/QJWSH)
  
-5. 行为调节神经回路的计算基础（回路的计算）---- 张智兵 [QJWSH](https://github.com/QJWSH)高卓航 [gzhatsb](https://github.com/gzhatsb)
+5. 行为调节神经回路的计算基础（回路的计算）---- 张智兵 [QJWSH](https://github.com/QJWSH) 高卓航 [gzhatsb](https://github.com/gzhatsb)
 
-6. 成像和行为（成像、方法）---- 张智兵 [QJWSH](https://github.com/QJWSH)高卓航 [gzhatsb](https://github.com/gzhatsb)
+6. 成像和行为（成像、方法）---- 张智兵 [QJWSH](https://github.com/QJWSH) 高卓航 [gzhatsb](https://github.com/gzhatsb)
 
 二、神经系统细胞的细胞生物学和分子生物学（细胞）
 
