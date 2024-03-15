@@ -145,7 +145,7 @@
 
 九、疾病（衰老）
 
-57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)
+57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)     ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
 58. 癫痫发作和癫痫
 
@@ -154,7 +154,7 @@
 
 61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
-62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)
+62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)    ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
 63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
 
