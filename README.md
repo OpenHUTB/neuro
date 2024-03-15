@@ -131,9 +131,9 @@
 
 八、学习（改变）
 
-52. 学习和记忆  ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
+52. 学习和记忆  ----黄兰芳[huanglanfang](https://github.com/huanglanfang)王小月[ll274676399](https://github.com/ll274676399)
 
-53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
+53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang)王小月[ll274676399](https://github.com/ll274676399)
 
 
 54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
