@@ -43,9 +43,9 @@
 
 14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
 
-15. 递质释放（突触前末梢）----彭洋[peng2023-ai]([https://github.com/peng2023-ai]
+15. 递质释放（突触前末梢）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
 
-16. 神经递质（化学性质）----彭洋[peng2023-ai]([https://github.com/peng2023-ai]
+16. 神经递质（化学性质）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
 
 四、感知（输入）
 
@@ -104,7 +104,7 @@
 
 41. 下丘脑：生存的自主、激素和行为控制（化学调控）----卿海伦[Qqqqhl](https://github.com/Qqqqhl)
 
-42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK)
+42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
 43. 动机、奖励和上瘾状态（强化学习）----何远兴[YuenHing](https://github.com/YuenHin)
 
@@ -145,16 +145,16 @@
 
 九、疾病（衰老）
 
-57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)
+57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)     ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
 58. 癫痫发作和癫痫---盛日森[srssrs0618](https://github.com/srssrs0618)
 
-59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
-60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
+59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
+60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
 
-61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK)
+61. 情绪障碍和焦虑----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
-62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)
+62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)    ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
 63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
 
