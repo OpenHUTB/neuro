@@ -106,9 +106,9 @@
 
 42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
-43. 动机、奖励和上瘾状态（强化学习）----何远兴[YuenHing](https://github.com/YuenHin)
+43. 动机、奖励和上瘾状态（强化学习）----何远兴[YuenHing](https://github.com/YuenHin) 李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
 
-44. 睡眠和清醒（节律）----何远兴[YuenHing](https://github.com/YuenHin)
+44. 睡眠和清醒（节律）----何远兴[YuenHing](https://github.com/YuenHin) 李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
 
 规划：[前额叶皮层](https://github.com/OpenHUTB/PFC)
 
