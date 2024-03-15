@@ -35,9 +35,9 @@
 
 三、突触（关系）
 
-11. 突触传递概述（化学、电）----宋金可[kkkkkke6](https://github.com/kkkkkke6)
+11. 突触传递概述（化学、电）----宋金可[kkkkkke6](https://github.com/kkkkkke6)  ----李碧霞[iiarachel](https://github.com/iiarachel)
 
-12. 直接门控传输：神经肌肉突触（肌肉）----宋金可 [kkkkkke6](https://github.com/kkkkkke6)
+12. 直接门控传输：神经肌肉突触（肌肉）----宋金可 [kkkkkke6](https://github.com/kkkkkke6)  ----李碧霞[iiarachel](https://github.com/iiarachel)
 
 13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
 
