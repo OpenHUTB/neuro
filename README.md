@@ -49,9 +49,9 @@
 
 四、感知（输入）
 
-17. 感觉编码（编码）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro)
+17. 感觉编码（编码）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro) --王芷萱[akicn](https://github.com/akicn)
 
-18. 体感系统的受体（受体）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro)
+18. 体感系统的受体（受体）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro) --王芷萱[akicn](https://github.com/akicn)
 
 19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
 
