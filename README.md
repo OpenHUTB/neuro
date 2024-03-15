@@ -85,7 +85,7 @@
 
 33. 运动（回路）----万薇[12oneway](https://github.com/12oneway/neuro)
 
-34. 自发运动：运动皮层（皮层）
+34. 自发运动：运动皮层（皮层）---盛日森[srssrs0618](https://github.com/srssrs0618)
 
 35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce)
 
@@ -122,7 +122,7 @@
 
 48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)
 
-49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
+49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
 
 50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
@@ -136,7 +136,7 @@
 53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
 
-54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
+54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
 
 55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
@@ -147,7 +147,7 @@
 
 57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)     ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
-58. 癫痫发作和癫痫
+58. 癫痫发作和癫痫---盛日森[srssrs0618](https://github.com/srssrs0618)
 
 59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
 60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
