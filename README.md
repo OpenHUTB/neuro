@@ -124,9 +124,9 @@
 
 49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
 
-50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
+50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) ---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
-51. 神经系统的性别分化----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
+51. 神经系统的性别分化----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) ---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
 
 八、学习（改变）
