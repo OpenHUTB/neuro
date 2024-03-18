@@ -61,9 +61,9 @@
 
 22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)
+23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
 
-24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)
+24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
 
 25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
 
