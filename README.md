@@ -53,9 +53,9 @@
 
 18. 体感系统的受体（受体）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro) --王芷萱[akicn](https://github.com/akicn)
 
-19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
+19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
-20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) 
+20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
 21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21)
 
