@@ -25,9 +25,9 @@
 
 二、神经系统细胞的细胞生物学和分子生物学（细胞）
 
-7. 神经系统的细胞（细胞）----王小月[ll274676399](https://github.com/ll274676399)宋金可[kkkkkke6](https://github.com/kkkkkke6)
+7. 神经系统的细胞（细胞）----王小月[ll274676399](https://github.com/ll274676399) 宋金可[kkkkkke6](https://github.com/kkkkkke6)
 
-8. 离子通道（通道）----王小月[ll274676399](https://github.com/ll274676399)宋金可[kkkkkke6](https://github.com/kkkkkke6)
+8. 离子通道（通道）----王小月[ll274676399](https://github.com/ll274676399) 宋金可[kkkkkke6](https://github.com/kkkkkke6)
 
 9. 膜电位和神经元的被动电特性（膜电位）----杨万莲[valerie-prog](https://github.com/valerie-prog)
 10. 传播信号：动作电位（电位传播）----杨万莲[valerie-prog](https://github.com/valerie-prog)
@@ -53,17 +53,17 @@
 
 18. 体感系统的受体（受体）----刘茜[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro) --王芷萱[akicn](https://github.com/akicn)
 
-19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
+19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
-20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) 
+20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
 21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21)
 
 22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)
+23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
 
-24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)
+24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
 
 25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
 
@@ -78,14 +78,14 @@
 
 五、运动（输出）
 
-30. 感觉运动控制原理（原理）----付姣娟[fu293024](https://github.com/fu293024/neuro)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro
+30. 感觉运动控制原理（原理）----付姣娟[fu293024](https://github.com/fu293024/neuro)  ---尹璐 [lulu7795](https://github.com/lulu7795/neuro)
 
-31. 运动单元和肌肉动作（肌肉）----万薇[12oneway](https://github.com/12oneway/neuro)  ----付姣娟[fu293024] https://github.com/fu293024/neuro
-32. 脊髓中的感觉-运动整合（脊髓）----付姣娟[fu293024](https://github.com/fu293024/neuro)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro
+31. 运动单元和肌肉动作（肌肉）----万薇[12oneway](https://github.com/12oneway/neuro)  ----付姣娟[fu293024](https://github.com/fu293024/neuro)
+32. 脊髓中的感觉-运动整合（脊髓）----付姣娟[fu293024](https://github.com/fu293024/neuro)  ---尹璐 [lulu7795](https://github.com/lulu7795/neuro)
 
-33. 运动（回路）----万薇[12oneway](https://github.com/12oneway/neuro)  ----付姣娟[fu293024] https://github.com/fu293024/neuro
+33. 运动（回路）----万薇[12oneway](https://github.com/12oneway/neuro)  ----付姣娟[fu293024](https://github.com/fu293024/neuro)
 
-34. 自发运动：运动皮层（皮层）---盛日森[srssrs0618](https://github.com/srssrs0618)
+34. 自发运动：运动皮层（皮层）---盛日森[srssrs0618](https://github.com/srssrs0618)  ----何远兴[YuenHing](https://github.com/YuenHin)
 
 35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce)
 
@@ -106,23 +106,23 @@
 
 42. 情感（情绪）----陈康[OopsCCK](https://github.com/OopsCCK) 李俊强[cooleqqq](https://github.com/cooleqqq)
 
-43. 动机、奖励和上瘾状态（强化学习）----何远兴[YuenHing](https://github.com/YuenHin)
+43. 动机、奖励和上瘾状态（强化学习）----何远兴[YuenHing](https://github.com/YuenHin) 李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
 
-44. 睡眠和清醒（节律）----何远兴[YuenHing](https://github.com/YuenHin)
+44. 睡眠和清醒（节律）----何远兴[YuenHing](https://github.com/YuenHin) 李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
 
 规划：[前额叶皮层](https://github.com/OpenHUTB/PFC)
 
 七、发育（成长）
 
-45. 塑造神经系统 —————颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
-46. 神经细胞的分化与存活 —————颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
 47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)   ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
 48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)    ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
-49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
+49. 突触连接的经验和细化  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y) 盛日森[srssrs0618](https://github.com/srssrs0618)
 
 50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) ---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
@@ -131,12 +131,12 @@
 
 八、学习（改变）
 
-52. 学习和记忆  ----黄兰芳[huanglanfang](https://github.com/huanglanfang)王小月[ll274676399](https://github.com/ll274676399)
+52. 学习和记忆  ----黄兰芳[huanglanfang](https://github.com/huanglanfang) 王小月[ll274676399](https://github.com/ll274676399)
 
-53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang)王小月[ll274676399](https://github.com/ll274676399)
+53. 内隐记忆的细胞机制和个性的生物基础   ----黄兰芳[huanglanfang](https://github.com/huanglanfang) 王小月[ll274676399](https://github.com/ll274676399)
 
 
-54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)盛日森[srssrs0618](https://github.com/srssrs0618)
+54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y) 盛日森[srssrs0618](https://github.com/srssrs0618)
 
 55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
@@ -147,7 +147,7 @@
 
 57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)     ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
-58. 癫痫发作和癫痫---盛日森[srssrs0618](https://github.com/srssrs0618)
+58. 癫痫发作和癫痫---盛日森[srssrs0618](https://github.com/srssrs0618)  ----何远兴[YuenHing](https://github.com/YuenHin)
 
 59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
 60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq) 陈康[OopsCCK](https://github.com/OopsCCK)
