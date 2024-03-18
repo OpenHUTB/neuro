@@ -15,3 +15,11 @@ jobs:
           root_file: neuro.tex
           texlive_version: 2023
           latexmk_use_xelatex: true
+          
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: neuro.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
