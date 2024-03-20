@@ -114,9 +114,9 @@
 
 七、发育（成长）
 
-45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) ----冯颖[fengying1107](https://github.com/fengying1107) 
 
-46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) ----冯颖[fengying1107](https://github.com/fengying1107) 
 
 47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)   ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
