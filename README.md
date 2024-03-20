@@ -11,9 +11,9 @@
 
 一、总论（概述）
 
-1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx] (https://github.com/perfectwlx)
+1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
-2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx] (https://github.com/perfectwlx)
+2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
 3. 神经细胞、神经回路和行为（细胞、回路） ---- 高卓航 [gzhatsb](https://github.com/gzhatsb) 张智兵 [QJWSH](https://github.com/QJWSH)
 
@@ -114,9 +114,9 @@
 
 七、发育（成长）
 
-45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) ----冯颖[fengying1107](https://github.com/fengying1107) 
 
-46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) ----冯颖[fengying1107](https://github.com/fengying1107) 
 
 47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)   ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
