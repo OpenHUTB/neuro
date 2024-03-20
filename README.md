@@ -11,9 +11,9 @@
 
 一、总论（概述）
 
-1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx] (https://github.com/perfectwlx)
+1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
-2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx] (https://github.com/perfectwlx)
+2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
 3. 神经细胞、神经回路和行为（细胞、回路） ---- 高卓航 [gzhatsb](https://github.com/gzhatsb) 张智兵 [QJWSH](https://github.com/QJWSH)
 
