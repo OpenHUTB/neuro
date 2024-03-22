@@ -39,9 +39,9 @@
 
 12. 直接门控传输：神经肌肉突触（肌肉）----宋金可 [kkkkkke6](https://github.com/kkkkkke6)  ----李碧霞[iiarachel](https://github.com/iiarachel)
 
-13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
+13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
-14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
+14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
 15. 递质释放（突触前末梢）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
 
