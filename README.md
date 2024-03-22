@@ -65,9 +65,9 @@
 
 24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
 
-25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
+25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
+26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
 27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
 
