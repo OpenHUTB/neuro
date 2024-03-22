@@ -1,5 +1,4 @@
 
-
 # 神经科学原理（第六版）翻译
 
 中文翻译版 [链接](https://github.com/OpenHUTB/neuro/releases) 和英文书籍电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
@@ -156,9 +155,9 @@
 
 62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)    ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
-63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
+63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd) 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd)
+64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd) 蔡海彬[baifeng66](https://github.com/baifeng66)
 
 
 ## 参考
