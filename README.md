@@ -1,5 +1,4 @@
 
-
 # 神经科学原理（第六版）翻译
 
 中文翻译版 [链接](https://github.com/OpenHUTB/neuro/releases) 和英文书籍电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
@@ -39,9 +38,9 @@
 
 12. 直接门控传输：神经肌肉突触（肌肉）----宋金可 [kkkkkke6](https://github.com/kkkkkke6)  ----李碧霞[iiarachel](https://github.com/iiarachel)
 
-13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
+13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
-14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
+14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
 15. 递质释放（突触前末梢）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
 
@@ -61,13 +60,13 @@
 
 22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
+23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)   吴彬琪[wubinq147](https://github.com/wubinq147)
 
-24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
+24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  吴彬琪[wubinq147](https://github.com/wubinq147)
 
-25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
+25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
+26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
 27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
 
@@ -156,9 +155,9 @@
 
 62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)    ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
-63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
+63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd) 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd)
+64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd) 蔡海彬[baifeng66](https://github.com/baifeng66)
 
 
 ## 参考
