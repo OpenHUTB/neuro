@@ -1,5 +1,4 @@
 
-
 # 神经科学原理（第六版）翻译
 
 中文翻译版 [链接](https://github.com/OpenHUTB/neuro/releases) 和英文书籍电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
@@ -11,9 +10,9 @@
 
 一、总论（概述）
 
-1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
+1. 大脑与行为（大脑、结构）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
-2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66)
+2. 基因与行为（基因、进化）---- 蔡海彬[baifeng66](https://github.com/baifeng66) 王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
 3. 神经细胞、神经回路和行为（细胞、回路） ---- 高卓航 [gzhatsb](https://github.com/gzhatsb) 张智兵 [QJWSH](https://github.com/QJWSH)
 
@@ -39,9 +38,9 @@
 
 12. 直接门控传输：神经肌肉突触（肌肉）----宋金可 [kkkkkke6](https://github.com/kkkkkke6)  ----李碧霞[iiarachel](https://github.com/iiarachel)
 
-13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
+13. 中枢神经系统的突触整合（突触后）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
-14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/)
+14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
 15. 递质释放（突触前末梢）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
 
@@ -61,19 +60,19 @@
 
 22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
 
-23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
+23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)   吴彬琪[wubinq147](https://github.com/wubinq147)
 
-24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  --- 王海东[donghaiwang](https://github.com/donghaiwang)
+24. 高层视觉处理：从视觉到认知（认知）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)  吴彬琪[wubinq147](https://github.com/wubinq147)
 
-25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
+25. 注意力和动作的视觉处理（注意力）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147)
+26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
 27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
 
-28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)
+28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
-29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)
+29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
 
 五、运动（输出）
@@ -114,9 +113,9 @@
 
 七、发育（成长）
 
-45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+45. 塑造神经系统 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) ----冯颖[fengying1107](https://github.com/fengying1107) 
 
-46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
+46. 神经细胞的分化与存活 ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) ----冯颖[fengying1107](https://github.com/fengying1107) 
 
 47. 轴突的生长和引导 ----王芷萱[akicn](https://github.com/akicn)   ----颜舒琪[yanshuqiiii](https://github.com/yanshuqiiii/neuro/)
 
@@ -138,9 +137,9 @@
 
 54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y) 盛日森[srssrs0618](https://github.com/srssrs0618)
 
-55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
+55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909) ----张汉[zhanghan217](https://github.com/zhanghan21)
 
-56. 决策和意识（决策）----吴超伟[feicheng0909](https://github.com/feicheng0909)
+56. 决策和意识（决策）----吴超伟[feicheng0909](https://github.com/feicheng0909) ----张汉[zhanghan217](https://github.com/zhanghan21)
 
 
 九、疾病（衰老）
@@ -156,9 +155,9 @@
 
 62. 影响社会认知的障碍：孤独症谱系障碍 ----冯颖[fengying1107](https://github.com/fengying1107)    ----胡朵[huduo0](https://github.com/huduo0/neuro)
 
-63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd)
+63. 神经系统神经退行性疾病的遗传机制  ----邹捷频[fighd](https://github.com/fighd) 蔡海彬[baifeng66](https://github.com/baifeng66)
 
-64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd)
+64. 大脑老化 ----邹捷频[fighd](https://github.com/fighd) 蔡海彬[baifeng66](https://github.com/baifeng66)
 
 
 ## 参考
