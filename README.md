@@ -70,9 +70,9 @@
 
 27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
 
-28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)
+28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
-29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)
+29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
 
 五、运动（输出）
@@ -137,9 +137,9 @@
 
 54. 海马体和外显记忆存储的神经基础   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y) 盛日森[srssrs0618](https://github.com/srssrs0618)
 
-55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909)
+55. 语言（行为）----吴超伟[feicheng0909](https://github.com/feicheng0909) ----张汉[zhanghan217](https://github.com/zhanghan21)
 
-56. 决策和意识（决策）----吴超伟[feicheng0909](https://github.com/feicheng0909)
+56. 决策和意识（决策）----吴超伟[feicheng0909](https://github.com/feicheng0909) ----张汉[zhanghan217](https://github.com/zhanghan21)
 
 
 九、疾病（衰老）
