@@ -70,9 +70,9 @@
 
 27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
 
-28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)
+28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
-29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)
+29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
 
 五、运动（输出）
