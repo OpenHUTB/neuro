@@ -56,9 +56,9 @@
 
 20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
-21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21)
+21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21) ----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
-22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
+22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21) ----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
 23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)   吴彬琪[wubinq147](https://github.com/wubinq147)
 
