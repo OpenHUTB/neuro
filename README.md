@@ -28,8 +28,8 @@
 
 8. 离子通道（通道）----王小月[ll274676399](https://github.com/ll274676399) 宋金可[kkkkkke6](https://github.com/kkkkkke6)
 
-9. 膜电位和神经元的被动电特性（膜电位）----杨万莲[valerie-prog](https://github.com/valerie-prog)
-10. 传播信号：动作电位（电位传播）----杨万莲[valerie-prog](https://github.com/valerie-prog)
+9. 膜电位和神经元的被动电特性（膜电位）----杨万莲[valerie-prog](https://github.com/valerie-prog) 彭洋[peng2023-ai](https://github.com/peng2023-ai)
+10. 传播信号：动作电位（电位传播）----杨万莲[valerie-prog](https://github.com/valerie-prog) 彭洋[peng2023-ai](https://github.com/peng2023-ai)
 
 
 三、突触（关系）
