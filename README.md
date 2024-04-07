@@ -42,9 +42,9 @@
 
 14. 突触传递和神经元兴奋性的调节：第二信使（突触前）----张言波 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) ----邹捷频[fighd](https://github.com/fighd)
 
-15. 递质释放（突触前末梢）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
+15. 递质释放（突触前末梢）----彭洋[peng2023-ai](https://github.com/peng2023-ai)----杨万莲[valerie-prog](https://github.com/valerie-prog)
 
-16. 神经递质（化学性质）----彭洋[peng2023-ai](https://github.com/peng2023-ai)
+16. 神经递质（化学性质）----彭洋[peng2023-ai](https://github.com/peng2023-ai)----杨万莲[valerie-prog](https://github.com/valerie-prog)
 
 四、感知（输入）
 
