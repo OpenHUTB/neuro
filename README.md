@@ -56,9 +56,9 @@
 
 20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) ----黄兰芳[huanglanfang](https://github.com/huanglanfang)
 
-21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21)
+21. 视觉处理的构建本质（构建）----张汉[zhanghan217](https://github.com/zhanghan21) ----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
-22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21)
+22. 低层视觉处理：视网膜（光电转换）----张汉[zhanghan217](https://github.com/zhanghan21) ----吴超伟[feicheng0909](https://github.com/feicheng0909)
 
 23. 中层视觉处理和视觉元素（元素）--- 潘瑾铭[jm-pan](https://github.com/jm-pan)   吴彬琪[wubinq147](https://github.com/wubinq147)
 
@@ -68,7 +68,7 @@
 
 26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
+27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)----吴裕强[BookName123](https://github.com/BookName123)
 
 28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
@@ -86,7 +86,7 @@
 
 34. 自发运动：运动皮层（皮层）---盛日森[srssrs0618](https://github.com/srssrs0618)  ----何远兴[YuenHing](https://github.com/YuenHin)
 
-35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce)
+35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce)----吴裕强[BookName123](https://github.com/BookName123)
 
 36. 姿态（平衡、定向）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
@@ -171,9 +171,10 @@
 * 35 [斜视相关的术语](https://wenku.baidu.com/view/f07cd2aebad528ea81c758f5f61fb7360b4c2b30.html) 
 
 
-## 待做
-* 专有名词斜体；
-* 原书中最后index章节翻译；
+## 约定
+* 专有名词使用其他字体显示，用`\textit{}`圈起来，并在中英文对照表中列出来，所有章节保持一致。
+* 为了对比方便，多句话不要在一行，尽量每句话都在一行。
+* 尽量不用英文缩写，都用中文全称。
 
 ## 致谢
 
