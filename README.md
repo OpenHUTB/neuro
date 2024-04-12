@@ -68,11 +68,11 @@
 
 26. 耳蜗的听觉处理（声电转换）--- 吴彬琪[wubinq147](https://github.com/wubinq147) --- 潘瑾铭[jm-pan](https://github.com/jm-pan)
 
-27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
+27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce) ----吴裕强[BookName123](https://github.com/BookName123)
 
-28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)
+28. 听觉处理的中枢神经系统（听觉认知）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
-29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)
+29. 嗅觉和味觉：化学感觉（化学）----吴裕强[BookName123](https://github.com/BookName123)  ---崔森[forbruce](https://github.com/forbruce)
 
 
 五、运动（输出）
@@ -86,7 +86,7 @@
 
 34. 自发运动：运动皮层（皮层）---盛日森[srssrs0618](https://github.com/srssrs0618)  ----何远兴[YuenHing](https://github.com/YuenHin)
 
-35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce)
+35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce) ----吴裕强[BookName123](https://github.com/BookName123)
 
 36. 姿态（平衡、定向）---阮日青 [ruanriqing](https://github.com/ruanriqing?tab=repositories)
 
