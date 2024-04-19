@@ -71,7 +71,7 @@
 
 26. 耳蜗的听觉处理（声电转换）
 
-27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce)
+27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce) 
 
 28. 听觉处理的中枢神经系统（听觉认知）
 
@@ -90,7 +90,7 @@
 
 34. 自发运动：运动皮层（皮层）
 
-35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce)
+35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce) 
 
 36. 姿态（平衡、定向）
 
