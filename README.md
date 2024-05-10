@@ -55,9 +55,9 @@
 
 18. 体感系统的受体（受体）
 
-19. 触觉（机械）----李碧霞[iiarachel](https://github.com/iiarachel) 
+19. 触觉（机械）
 
-20. 痛觉（痛）----李碧霞[iiarachel](https://github.com/iiarachel) 
+20. 痛觉（痛）
 
 21. 视觉处理的构建本质（构建）
 
@@ -71,7 +71,7 @@
 
 26. 耳蜗的听觉处理（声电转换）
 
-27. 前庭系统（制导） ---崔森[forbruce](https://github.com/forbruce) 
+27. 前庭系统（制导） 
 
 28. 听觉处理的中枢神经系统（听觉认知）
 
@@ -90,7 +90,7 @@
 
 34. 自发运动：运动皮层（皮层）
 
-35. 凝视的控制（凝视） ---崔森[forbruce](https://github.com/forbruce) 
+35. 凝视的控制（凝视） 
 
 36. 姿态（平衡、定向）
 
