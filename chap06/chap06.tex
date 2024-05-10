@@ -95,7 +95,7 @@
 \subsection{功能性核磁共振成像取决于磁共振物理学}
 
 % In general, MRI exploits the magnetic properties of hydrogen atoms, the dominant source of protons in the body, specifically the way each atom’s proton interacts with a strong magnetic field. 
-一般来说，核磁共振成像利用氢原子的磁性，氢原子是体内质子的主要来源，特别是每个原子的质子与强磁场相互作用的方式。
+一般来说，核磁共振成像利用氢原子的磁性，特别是每个原子的质子与强磁场相互作用的方式。氢原子是人体内质子的主要来源。
 % A key property of protons is that they intrinsically rotate around an axis. 
 质子的一个关键特性是它们本质上围绕一个轴旋转。
 % This spin gives protons angular momentum and a magnetic dipole along the axis, their own north and south poles. 
@@ -109,7 +109,7 @@
 % In the case of a 3T magnet and hydrogen atoms, this speed is in the radiofrequency (RF) range.
 
 % An important step toward measuring a signal from protons is to push them out of alignment with this main field. 
-测量质子信号的一个重要步骤是将它们推离这个主场。
+测量质子信号的一个重要步骤是将它们推离这个主磁场。
 % To understand why, it is helpful to think about a familiar object, the gyroscope. 
 要理解其中的原因，不妨想想一个熟悉的物体，即陀螺仪。
 % If a still gyroscope is tipped out of vertical balance, it will just fall over. 
@@ -129,17 +129,17 @@
 
 
 % But how do protons get tipped out of alignment in the first place to enable precession?
-但是，质子是如何从一开始就偏离排列以实现进动的呢？ 
+但是，质子是如何从一开始就偏离直线以实现进动的呢？ 
 % The answer depends upon the same principle of torque. 
-答案取决于扭矩的相同原理。 
+答案取决于同样的扭矩原理。 
 % A second, weaker magnetic field is applied in a perpendicular direction (eg, front to back of the head), introducing another torque that pulls protons away from alignment with the strong field. 
-第二个较弱的磁场在垂直方向（例如，从头部的前部到后部）施加，引入另一个扭矩，将质子拉离与强磁场对齐的位置。
+第二个较弱的磁场在垂直方向（例如，从头部的前部到后部）施加，引入另一种扭矩，将质子拉离与强磁场对齐的方向。
 % This misalignment causes precession about the direction of the strong field by allowing the strong field to act as a torque. 
 这种未对准通过允许强场充当扭矩而导致围绕强场的方向的进动。
 % Complicating matters, this precession makes protons a moving target for the weaker magnetic field that is needed to cause misalignment in the first place. 
-使事情复杂化的是，这种进动使质子成为首先导致错位所需的较弱磁场的移动目标。
+更复杂的是，这种进动使质子成为弱磁场的移动目标，而弱磁场首先需要引起不对准。
 % This is solved by generating the second field using a transmit coil in the MRI machine, through which alternating current is passed to deliver an RF pulse at the resonant frequency of the protons. 
-这是通过使用核磁共振仪中的发射线圈生成第二个场来解决的，交流电通过该线圈以在质子的共振频率下传递射频脉冲。
+这个问题的解决方法是利用核磁共振成像仪中的发射线圈产生第二个磁场，交流电通过线圈产生与质子共振频率相同的射频脉冲。
 % This induces a perpendicular magnetic field that rotates in lockstep with the precession. 
 这会产生一个垂直磁场，该磁场会随着进动同步旋转。
 % This RF pulse is sustained as long as needed to generate a specified change in the spin orientation of protons away from the strong field direction (eg, 90°). 
@@ -149,7 +149,7 @@
 
 
 % Once the desired flip angle has been achieved, the RF pulse is stopped in order to measure the composition of tissue. 
-一旦达到所需的翻转角，射频脉冲就会停止以测量组织的成分。
+一旦达到所需的翻转角，射频脉冲就会停止以便测量组织的成分。
 % At this point, protons are precessing around the strong magnetic field and tilted heavily into the transverse plane. 
 此时，质子在强磁场周围进动并严重倾斜到横向平面中。
 % This is akin to a bar magnet spinning on a table, where the north and south poles take turns passing any given location. 
@@ -178,17 +178,17 @@
 
 进动质子还有另一个有助于核磁共振成像的重要特性：
 在射频脉冲之后，头部线圈中感应的交流电开始衰减。
-腐烂有不同的来源。
+衰减有不同的来源。
 一个来源是进动质子向周围组织释放热力学能量（热量），就像陀螺仪最终会因摩擦而失去能量并翻倒。
-当这种情况发生时，质子的自旋方向逐渐放松回到强磁场的方向，导致它们在横向平面内的进动减少，从而产生较少的信号。
+当这种情况发生时，质子的自旋方向逐渐放松回到强磁场的方向，导致它们在横向平面内的进动减少，从而产生更少的信号。
 这称为纵向弛豫并以时间常数 T1 发生。
 第二种类型的衰变发生在质子仍在横向平面内进动时。
 单个质子被其他原子的可变邻域包围，这些原子带有自己的弱磁场。
 这会微妙地改变质子所经历的场强，导致其拉莫尔频率发生不可预测的变化。
 而在\textit{射频}脉冲质子同步进动之后，这些局部相互作用会导致一些质子进动得更快或更慢。
 由于它们越来越不同步，感应电流交替的可靠性降低，信号丢失。
-这称为横向弛豫并以时间常数 T2 发生。 
-质子的这种去相位也可能是强磁场本身的不均匀性造成的，包括它如何被置于磁场中的组织扭曲。 
+这被称为横向弛豫并以时间常数 T2 发生。 
+质子的失相也可能是强磁场本身的不均匀性造成的，包括被放置在磁场中的组织扭曲的方式。
 来自局部相互作用和场失真的信号衰减具有时间常数 T2 *（发音为“T2-星”）。
 
 
@@ -199,7 +199,7 @@
 
 
 测量脑功能的标准脉冲序列是\textit{平面回波成像}序列。 
-\textit{平面回波成像}对\textit{功能性磁共振成像}有两个理想的特性：它非常快，允许在不到 100 毫秒的时间内从一个\textit{射频}脉冲获取整个切片，并且它对 T2 * 敏感，我们稍后将看到，这就是\textit{核磁共振成像}测量的方式 神经活动。 
+\textit{平面回波成像}对\textit{功能性磁共振成像}有两个理想的特性：它非常快，允许在不到 100 毫秒的时间内从一个\textit{射频}脉冲获取整个切片，并且它对 T2 * 敏感，我们稍后将看到，这就是\textit{核磁共振成像}测量神经活动的方式。 
 在设计\textit{功能性磁共振成像}研究时，需要选择\textit{平面回波成像}序列的几个参数，包括在脑体积中获取多少切片（通常为 30-90）； 
 每卷多少时间（重复时间，通常为 1-2 秒）； 使用何种体素分辨率（每个维度通常为 2-3 毫米）； 
 以及是否使用并行采集（例如，一次采集切片的多个部分和/或多个切片）。
@@ -211,7 +211,7 @@
 
 我们已经描述了磁共振的一般原理，但是故事的第二部分，神经血管耦合呢？
 活跃的神经元消耗从血液中的氧气中获得的能量。 
-因此，当大脑区域活跃时，血液中的氧合作用会在那一刻下降。
+因此，当大脑某个区域活跃时，血液中的含氧量会在那一刻下降。
 为了补充这些代谢资源，在接下来的几秒钟内流向局部的血液会增加。
 供应超过需求，因此，与直觉相反，活跃的大脑区域中含氧（相对于脱氧）血液的比例更高。
 
@@ -220,11 +220,11 @@
 血液具有不同的磁性，具体取决于氧合作用：脱氧血液与磁场相互作用，因为血红蛋白中的铁是未结合的，而铁与氧结合的含氧血液则不会。
 因此，脱氧血液会导致更快的 T2 * 衰减，并降低相对于含氧血液的信号。
 这种信号差异称为血氧水平依赖性对比度。 
-综上所述，用\textit{平面回波成像}序列测量的体素信号增加表明最近的神经元活动，因为伴随这种活动的局部血液氧合相对增加。
+综上所述，用\textit{平面回波成像}序列测量的体素信号增加表明最近的神经元活动，因为伴随这种活动的局部血液氧相对增加。
 这种血氧水平依赖反应的时间曲线，称为血液动力学反应函数，看起来像一条长尾巴的钟形曲线，在局部神经活动后约 4 到 5 秒达到峰值，并在 12 到 15 秒后返回基线。
 关于功能性核磁共振成像的物理学和生物学还有更多细节。 
 此外，我们对这一切如何运作的理解仍在不断发展。 
-例如，目前尚不清楚血氧水平依赖是否与单个神经元的放电或神经群体的活动更密切相关。 
+例如，目前尚不清楚血氧水平依赖是与单个神经元的放电更紧密地联系在一起，还是与神经群的活动更紧密地联系在一起。
 同样，可能难以区分血液氧合作用增加是由局部兴奋或抑制增加引起的。 
 更一般地说，神经血管耦合的机制（大脑如何知道何时何地输送含氧血液）仍然是个谜，人们越来越关注星形胶质细胞的功能作用。 
 通过测量神经元活动精确部位的初始耗氧量（“初始下降”），也有可能获得更好的时间和空间分辨率，反映在脱氧血液中立即和局部上升，而不是延迟和更多弥漫性供氧过剩的血液。 
@@ -235,9 +235,9 @@
 \section{可以通过多种方式分析功能性核磁共振成像数据}
 
 在进行功能性核磁共振成像实验时，研究人员将前面描述的神经血管测量与编程到人类受试者执行的计算机脚本中的认知任务联系起来。
-该脚本通常会生成一系列运行，这些运行对应于连续的数据收集周期（即，连续的几个功能性核磁共振成像体积），通常持续 5 到 10 分钟。 
+该脚本通常会生成一系列运行，这些运行对应于连续的数据收集周期（即，连续的几个功能性核磁共振成像卷），通常持续 5 到 10 分钟。 
 在每次运行中，通常通过显示视觉刺激或播放听觉刺激来向受试者展示几个试验。 
-根据任务的不同，受试者可能会，例如，被动地查看或聆听刺激，对其做出决定，或将其存储在记忆中。 
+例如，根据任务的不同，受试者可能会被动地观看或倾听刺激物，并就此做出决定，或将其存储在记忆中。 
 按钮按下或眼球运动反应通常被收集为该试验中认知处理的行为指标。 
 这些试验通常来自两个或多个任务条件，这些条件决定了刺激类型、任务难度或其他实验参数。 
 在基本的减法设计中，试验分为实验条件和控制条件，它们是相同的，但有一个关键差异，其神经基础正在研究中。 
@@ -329,13 +329,13 @@
 即使是最好的受试者也会在扫描过程中将头部移动几毫米，这样横跨三维脑体积的体素就会变得有些错位。
 可以使用空间插值算法纠正此移动，该算法在每次运行中排列所有卷。
 该算法量化扫描期间每个点的移动量，包括 $x$、$y$ 和 $z$ 维度的平移，以及围绕这些轴（分别为俯仰、滚动和偏航）的旋转量。
-这六个时间课程稍后可以作为回归器包含在数据分析中，以进一步消除运动伪影。
+这六个时间过程稍后可以作为回归器包含在数据分析中，以进一步消除运动伪影。
 
 
-应用\textit{切片时间校正}来处理跨不同切片的样本采集时间的差异。
+采用\textit{切片时间校正}来处理跨不同切片的样本采集时间的差异。
 \textit{平面回波成像}序列按顺序收集构成每个脑容量的切片，通常以交错顺序进行，以避免相邻切片的污染。
-因此，同一体积的第一个和最后一个采集切片的时间存在很大差异，它们在时间上分别更接近于前一个体积和后一个体积，而不是相互之间。
-可以通过时间插值来完成对切片时间差异的校正，以估计如果同时获取所有切片时信号会是什么。
+因此，同一体积的第一个和最后一个采集切片的时间存在很大差异，它们分别在时间上更接近于前一个体积和后一个体积，而不是相互之间。
+可以通过时间插值来完成对切片时间差异的校正，以估计如果同时获取所有切片时信号会是多少。
 
 
 \textit{时间滤波}和\textit{空间平滑}旨在提高信噪比。
