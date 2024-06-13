@@ -10,7 +10,7 @@
 
 | 0   | 1                  | 2               | 3                   |
 |-----|--------------------|-----------------|---------------------|
-| **微观**  | [概述](#perspective) | [细胞](#cell)     | [联系](#transmission) |
+| **微观**  | [概述](#perspective) | [细胞](#cell)     | [连接](#transmission) |
 | **介观**  | [感知](#perception)  | [规划](#planning) | [控制](#control)      |
 | **宏观**  | [发育](#development) | [学习](#learning) | [衰老](#desease)      |
 
