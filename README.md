@@ -178,6 +178,8 @@
 * 35 [眼科词汇中英对照](https://www.sohu.com/a/603321979_121124541)
 * 35 [斜视相关的术语](https://wenku.baidu.com/view/f07cd2aebad528ea81c758f5f61fb7360b4c2b30.html) 
 
+## 实现
+* 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
 
 ## 约定
 * 专有名词使用其他字体显示，用`\textit{}`圈起来，并在中英文对照表中列出来，所有章节保持一致。
