@@ -168,6 +168,10 @@
 64. 大脑老化
 
 
+## 待做
+
+* 专用名词跳转到表格指定行的引用；
+
 ## 参考
 * [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
 * 03 [大脑如何处理视觉信息？](https://zhuanlan.zhihu.com/p/273189834?utm_id=0)
