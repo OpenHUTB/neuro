@@ -31,35 +31,35 @@
 
 二、神经系统细胞的细胞生物学和分子生物学（细胞）<span id="cell"></span>
 
-7. 神经系统的细胞（细胞）
+7. 神经系统的细胞（细胞、[呼吸神经元模型](https://github.com/ModelDBRepository/2016216) 、[拉伸敏感结肠直肠传入末梢](https://github.com/ModelDBRepository/2017006) 、[秀丽隐杆线虫神经元](https://github.com/ModelDBRepository/267187) 、[细胞分裂](https://github.com/ModelDBRepository/97917) 、[切向细胞](https://github.com/ModelDBRepository/155727) 、[中枢神经系统神经元胞体的兴奋性](https://github.com/ModelDBRepository/62266) 、[单极刷状细胞](https://github.com/ModelDBRepository/2015953) 、[电扩散神经元](https://github.com/ModelDBRepository/267116) ）
 
-8. 离子通道（通道）
+8. 离子通道（通道、[辣椒素激活 TRPV1 通道](https://github.com/ModelDBRepository/2016995) 、[T 通道电流](https://github.com/ModelDBRepository/53965) ）
 
-9. 膜电位和神经元的被动电特性（膜电位）
-10. 传播信号：动作电位（电位传播）
+9. 膜电位和神经元的被动电特性（膜电位、[亚阈值电导](https://github.com/ModelDBRepository/2016996) ）
+10. 传播信号：动作电位（电位传播、[生理振荡频率](https://github.com/ModelDBRepository/138379) ）
 
 
 三、突触（关系）<span id="transmission"></span>
 
-11. 突触传递概述（化学、电）
+11. 突触传递概述（化学、电、[校正树突中的空间钳位](https://github.com/ModelDBRepository/22203) 、[BK 通道的动力学](https://github.com/ModelDBRepository/2015410) 、[轴突起始段钠通道](https://github.com/ModelDBRepository/267088) ）
 
-12. 直接门控传输：神经肌肉突触（肌肉）
+12. 直接门控传输：神经肌肉突触（肌肉、[无髓鞘周围轴突](https://github.com/ModelDBRepository/266498) ）
 
-13. 中枢神经系统的突触整合（突触后）
+13. 中枢神经系统的突触整合（突触后、[谷氨酸](https://github.com/ModelDBRepository/2017143) 、[神经元谷氨酸转运体](https://github.com/ModelDBRepository/267267) 、[动力学的 NMDA 受体模型](https://github.com/ModelDBRepository/50207)  ）
 
-14. 突触传递和神经元兴奋性的调节：第二信使（突触前）
+14. 突触传递和神经元兴奋性的调节：第二信使（突触前、[等效兴奋性](https://github.com/ModelDBRepository/2016663) 、[周期性抑制](https://github.com/ModelDBRepository/33728) ）
 
-15. 递质释放（突触前末梢）
+15. 递质释放（突触前末梢、[树突棘](https://github.com/ModelDBRepository/2016666) ）
 
-16. 神经递质（化学性质）
+16. 神经递质（化学性质、[胆碱能调节静息状态网络](https://github.com/ModelDBRepository/2016670) ）
 
 四、输入（感知） <span id="perception"></span>
 
 17. 感觉编码（编码）
 
-18. 体感系统的受体（受体）
+18. 体感系统的受体（受体、[体感 L2/3 锥体细胞](https://github.com/ModelDBRepository/261460) 、[果蝇幼虫感觉神经元](https://github.com/ModelDBRepository/2015412) 、[果蝇感觉神经元编码有害低温的瞬态和稳态特性](https://github.com/ModelDBRepository/2015413) ）
 
-19. 触觉（机械）
+19. 触觉（机械、[关节虚拟手臂伸展的感觉运动皮层强化学习](https://github.com/ModelDBRepository/150245) ）
 
 20. 痛觉（痛）
 
@@ -77,30 +77,30 @@
 
 27. 前庭系统（制导） 
 
-28. 听觉处理的中枢神经系统（听觉认知）
+28. 听觉处理的中枢神经系统（听觉认知、[听觉丘脑皮层回路](https://github.com/ModelDBRepository/2014832) ）
 
 29. 嗅觉和味觉：化学感觉（化学）
 
 
 五、输出（控制） <span id="control"></span>
 
-30. 感觉运动控制原理（原理）
+30. 感觉运动控制原理（原理、[秀丽隐杆线虫运动行为的最佳突触分配](https://github.com/ModelDBRepository/238985) ）
 
-31. 运动单元和肌肉动作（肌肉）
+31. 运动单元和肌肉动作（肌肉、[运动神经元](https://github.com/ModelDBRepository/53425) ）
 
-32. 脊髓中的感觉-运动整合（脊髓）
+32. 脊髓中的感觉-运动整合（脊髓、[触摸运动回路](https://github.com/ModelDBRepository/2015411) 、[背柱纤维刺激模型](https://github.com/ModelDBRepository/267728) ）
 
-33. 移动（控制）
+33. 移动（控制、[节律发生器](https://github.com/ModelDBRepository/2015954) ）
 
-34. 自发运动：运动皮层（皮层）
+34. 自发运动：运动皮层（皮层、[运动神经元和中间神经元](https://github.com/ModelDBRepository/2017403) 、[镜像神经元](https://github.com/ModelDBRepository/229276) 、[运动皮层微电路](https://github.com/ModelDBRepository/146949) ）
 
 35. 凝视的控制（凝视）
 
 36. 姿态（平衡、定向）
 
-37. 小脑（调制）
+37. 小脑（调制、[浦肯野细胞](https://github.com/ModelDBRepository/267694) 、[异质性浦肯野细胞](https://github.com/ModelDBRepository/2016138) 、[小脑分子层中间神经元编码联想学习](https://github.com/ModelDBRepository/266578) 、[小脑苔藓纤维颗粒细胞突触中的 LTP](https://github.com/ModelDBRepository/51196) 、[小脑皮层颗粒层](https://github.com/ModelDBRepository/50219) ）
 
-38. 基底神经节（选择、决策、强化学习） 
+38. [基底神经节](https://github.com/ModelDBRepository/262046) （选择、决策、强化学习、[丘脑苍白球底网络](https://github.com/ModelDBRepository/182758) 、[海马和背侧纹状体学习和决策](https://github.com/ModelDBRepository/266836) ） 
 
 39. 脑机接口（人造输出）
 
@@ -115,7 +115,7 @@
 
 43. 动机、奖励和上瘾状态（强化学习）
 
-44. 睡眠和觉醒（节律）
+44. 睡眠和觉醒（节律、[丘脑皮质睡眠模型](https://github.com/ModelDBRepository/2016601) 、[吸气和叹息节律的 ODE 模型](https://github.com/ModelDBRepository/267252) 、[小鼠昼夜节律](https://github.com/ModelDBRepository/267250) ）
 
 规划：[前额叶皮层](https://github.com/OpenHUTB/PFC)
 
@@ -143,11 +143,11 @@
 53. 内隐记忆的细胞机制和个性的生物基础
 
 
-54. 海马体和外显记忆存储的神经基础
+54. 海马体和外显记忆存储的神经基础（[网格细胞](https://github.com/ModelDBRepository/144006) 、[海马苔藓纤维](https://github.com/ModelDBRepository/2015571) 、[CA1 海马锥体神经元](https://github.com/ModelDBRepository/2015423) 、[CA1 锥体神经元突触整合](https://github.com/ModelDBRepository/71312) 、[海马位置场形成](https://github.com/ModelDBRepository/2016659) 、[海马生长抑素中间神经元](https://github.com/ModelDBRepository/2016137) 、[CA1 锥体神经元：突触缩放](https://github.com/ModelDBRepository/7485) 、[海马颞隔印痕转移模型](https://github.com/ModelDBRepository/7400) 、[齿状回](https://github.com/ModelDBRepository/2014998) 、[位置细胞形成背后的树突机制](https://github.com/ModelDBRepository/267613) ）
 
 55. 语言（行为）
 
-56. 决策和意识（决策）
+56. 决策和意识（决策、[数学焦虑的神经网络模型：注意力的作用](https://github.com/ModelDBRepository/2014833) ）
 
 
 九、疾病（衰老） <span id="desease"></span>
@@ -159,7 +159,7 @@
 59. 有意识和无意识的心理过程障碍
 60. 精神分裂症的思想和意志障碍
 
-61. 情绪障碍和焦虑
+61. 情绪障碍和焦虑（[帕金森病的深部脑刺激](https://github.com/ModelDBRepository/247310) 、[帕金森病运动网络](https://github.com/ModelDBRepository/2017405) ）
 
 62. 影响社会认知的障碍：孤独症谱系障碍
 
@@ -183,6 +183,7 @@
 * 35 [斜视相关的术语](https://wenku.baidu.com/view/f07cd2aebad528ea81c758f5f61fb7360b4c2b30.html) 
 
 ## 实现
+* [计算神经科学模型](https://github.com/ModelDBRepository)
 * 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
 
 ## 约定
