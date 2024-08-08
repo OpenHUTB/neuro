@@ -191,7 +191,8 @@
 * 为了对比方便，多句话不要在一行，尽量每句话都在一行。
 * 尽量不用英文缩写，都用中文全称。
 * 两个破折号`——`之间的内容约定用括号表示。
-* `皮质` 约定一般翻译为 `皮层`。
+* 正文中名词的翻译统一参照 [中文英对照表](https://github.com/OpenHUTB/neuro/blob/main/chap0/preface.tex) 。
+* 中英文对照表中专用名词的英文链接为[维基百科](https://en.wikipedia.org/) ，中文链接为[百度百科](https://baike.baidu.com/) 。
 
 ## 贡献者列表
 
