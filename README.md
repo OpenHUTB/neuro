@@ -119,6 +119,7 @@
 
 规划：[前额叶皮层](https://github.com/OpenHUTB/PFC)
 
+
 七、发育（成长） <span id="development"></span>
 
 45. 神经系统的塑造
@@ -141,7 +142,6 @@
 52. 学习和记忆
 
 53. 内隐记忆的细胞机制和个性的生物基础
-
 
 54. 海马体和外显记忆存储的神经基础（[网格细胞](https://github.com/ModelDBRepository/144006) 、[海马苔藓纤维](https://github.com/ModelDBRepository/2015571) 、[CA1 海马锥体神经元](https://github.com/ModelDBRepository/2015423) 、[CA1 锥体神经元突触整合](https://github.com/ModelDBRepository/71312) 、[海马位置场形成](https://github.com/ModelDBRepository/2016659) 、[海马生长抑素中间神经元](https://github.com/ModelDBRepository/2016137) 、[CA1 锥体神经元：突触缩放](https://github.com/ModelDBRepository/7485) 、[海马颞隔印痕转移模型](https://github.com/ModelDBRepository/7400) 、[齿状回](https://github.com/ModelDBRepository/2014998) 、[位置细胞形成背后的树突机制](https://github.com/ModelDBRepository/267613) ）
 
