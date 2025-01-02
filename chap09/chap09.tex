@@ -589,7 +589,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	给定这些值以及$E_K$，$E_{Cl}$和$ E_{Na} $的值，我们可以如下计算$V_m$。
 	
 	\quad \quad 由于膜电位是恒定的，因此通过三组离子通道没有净电流：
-	
 	\begin{equation}\label{eq:9_three_sets}
 		I_K + I_{Cl} + I_{Na} = 0.
 	\end{equation}
@@ -605,21 +604,17 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	\begin{equation}\label{eq:9_Na_conductance}
 		V_m = E_{Cl} + I_{Cl} / g_{Cl}
 	\end{equation}
-	
 	\begin{equation}\label{eq:9_Cl_conductance}
 		V_m = E_{Cl} + I_{Na} / g_{Na}
 	\end{equation}
 	
 	\quad \quad 接下来，我们重新排列并求解每个分支中的离子电流$ I $：
-	
 	\begin{equation}\label{eq:9_ionic_current_Na}
 		I_{Na} = g_{Na} \times (V_m - E_{Na})
 	\end{equation}
-
 	\begin{equation}\label{eq:9_ionic_current_K}
 		I_K = g_K \times (V_m - E_k)
 	\end{equation}
-
 	\begin{equation}\label{eq:9_ionic_current_Cl}
 		I_{Cl} = g_{Cl} \times (V_m - E_{Cl}).
 	\end{equation}
@@ -636,7 +631,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	% As we saw in
 	\quad \quad 正如我们在等式~\ref{eq:9_three_sets}~中所看到的，$ I_{Na} + I_{K} + I_{Cl} = 0 $。
 	如果我们现在用等式~\ref{eq:9_ionic_current_Na}、\ref{eq:9_ionic_current_K}、\ref{eq:9_ionic_current_Cl}代替等式~\ref{eq:9_three_sets}~中的$ I_{Na} $、$ I_{K} $ 和 $ I_{Cl} $，乘以并重新排列，我们得到以下表达式：
-	
 	\begin{equation}\label{eq:9_rearrange_three}
 		V_m \times (g_{Na} + g_K + G_{Cl}) = 
 		(E_{Na} \times g_{Na+}) + (E_K \times g_K) + (E_{Cl} \times g_{Cl}).
@@ -679,7 +673,7 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=0.55\linewidth]{chap09/fig_9_7}
+	\includegraphics[width=0.57\linewidth]{chap09/fig_9_7}
 	\caption{静息神经元中被动电流和主动电流的等效回路。
 		由符号 $ g_K $ 表示的总 \ce{K+} 电导是 $ \gamma_K \times N $（静息膜中开放的 \ce{K+} 通道总数）的乘积。
 		\ce{Na+} 和 \ce{Cl-} 通道的总电导以类似的方式确定。
@@ -694,7 +688,7 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=0.7\linewidth]{chap09/fig_9_8}
+	\includegraphics[width=0.73\linewidth]{chap09/fig_9_8}
 	\caption{用于计算静息膜电位的等效回路。
 		在本例中，假设~\ce{Cl-}~协同转运蛋白将细胞内~\ce{Cl-}~维持在相对较低的值。
 		因此，\ce{Cl-}~平衡电位比静息电位更负。}
