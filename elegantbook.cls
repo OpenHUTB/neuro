@@ -383,7 +383,7 @@
   \newcommand{\axiomname}{公理}
   \newcommand{\postulatename}{公设}
   \newcommand{\lemmaname}{引理}
-  \newcommand{\propositionname}{命题}
+  \newcommand{\propositionname}{图文框} % 原来是“命题”
   \newcommand{\corollaryname}{推论}
   \newcommand{\examplename}{例题} %
   \newcommand{\instancename}{示例} %
