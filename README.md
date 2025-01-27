@@ -193,6 +193,7 @@
 * 两个破折号`——`之间的内容约定用括号表示。
 * 正文中名词的翻译统一参照 [中文英对照表](https://github.com/OpenHUTB/neuro/blob/main/chap0/preface.tex) 。
 * 中英文对照表中专用名词的英文链接为[维基百科](https://en.wikipedia.org/) ，中文链接为[百度百科](https://baike.baidu.com/) 。
+* 只有第一、第二、第三保留中文汉字，其余数字都用阿拉伯数字。
 
 ## 贡献者列表
 
