@@ -203,6 +203,6 @@
 
 ## 许可证
 
-该工作基于 LaTeX Project Public License, v1.3c 或者更新的许可证进行发布。
+该工作基于 CC-BY-NC 4.0 License 或者更新的许可证进行发布，该许可证仅允许个人和研究使用。
 
 
