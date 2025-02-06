@@ -170,8 +170,8 @@
 
 一旦 \ce{K+} 扩散进行到某个点，\ce{K+} 上的电驱动力恰好平衡了化学驱动力。
 也就是说，\ce{K+} 的向外运动（由其浓度梯度驱动）等于 \ce{K+} 的向内运动（由跨膜电势差驱动）。
-如图~\ref{fig:9_3}~所示，该电位称为 \ce{K+} 平衡电位 $E_K$。
-在仅可渗透 \ce{K+} 的细胞中，$E_K$ 决定静息膜电位，在大多数神经胶质细胞中约为 -75 毫伏。
+如图~\ref{fig:9_3}~所示，该电位称为 \ce{K+} 平衡电位 $E_\text{K}$。
+在仅可渗透 \ce{K+} 的细胞中，$E_\text{K}$ 决定静息膜电位，在大多数神经胶质细胞中约为 -75 毫伏。
 
 
 \begin{figure}[htbp]
@@ -232,7 +232,7 @@
 
 要回答这些问题，首先只检查 \ce{K+} 和 \ce{Na+} 的扩散是最简单的。
 让我们回到只有 \ce{K+} 通道的细胞的简单示例，\ce{K+}、\ce{Na+}、\ce{Cl-} 和 \ce{A-} 的浓度梯度如表~\ref{tab:9_1}~所示。
-如图~\ref{fig:9_4}A~所示，在这些条件下，静息膜电位 $V_r$ 仅由 \ce{K+} 浓度梯度决定，等于 $E_K$（−75 毫伏）。
+如图~\ref{fig:9_4}A~所示，在这些条件下，静息膜电位 $V_r$ 仅由 \ce{K+} 浓度梯度决定，等于 $E_\text{K}$（−75 毫伏）。
 
 
 \begin{figure}[htbp]
@@ -243,7 +243,7 @@
 		通道内箭头的长度表示作用于 \ce{Na+} 或 \ce{K+} 的电（红色）和化学（蓝色）驱动力的相对振幅。
 		右图中箭头的长度表示 \ce{Na+} 和 \ce{K+} 的净驱动力（电驱动力和化学驱动力的总和）和净离子电流的相对大小。
 		说明了 3 种假设情况。
-		A. 在仅存在 \ce{K+} 通道的静息细胞中，\ce{K+} 处于平衡状态且 $V_m = E_K$。
+		A. 在仅存在 \ce{K+} 通道的静息细胞中，\ce{K+} 处于平衡状态且 $V_m = E_\text{K}$。
 		B. 向静息膜添加一些 \ce{Na+} 通道可使 \ce{Na+} 扩散到细胞中，这种流入开始使膜去极化。
 		C. 静息电位稳定在一个新水平（$V_r$），此时 \ce{Na+} 的流入与 \ce{K+} 的流出平衡。
 		在此示例中，\ce{K+} 通道的总电导远大于 \ce{Na+} 通道的总电导，因为 \ce{K+} 通道数量更多。
@@ -401,14 +401,14 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 
 
-然而，膜电位永远不会完全达到 $E_{Na}$，因为 \ce{K+} 流出在整个去极化过程中持续进行。 
+然而，膜电位永远不会完全达到 $E_\text{Na}$，因为 \ce{K+} 流出在整个去极化过程中持续进行。 
 少量 \ce{Cl-} 流入细胞也会抵消 \ce{Na+} 流入的去极化作用。
 然而，在动作电位的上升阶段，许多电压门控 \ce{Na+} 通道打开，以至于细胞膜的 \ce{Na+} 电导远大于 \ce{Cl-} 或 \ce{K+} 的电导。 
 因此，在动作电位的峰值处，膜电位接近 \ce{Na+} 平衡电位，就像在静止时（当对 \ce{K+} 的渗透性占主导地位时）一样，膜电位趋于接近 \ce{K+} 平衡电位。
 
 
 \section{不同离子对静息膜电位的贡献可以通过\textit{戈德曼方程}量化}
-尽管 \ce{K+}、\ce{Na+} 和 \ce{Cl-} 通量设定了静息电位值，但$V_m$不等于 $E_K$、$E_{Na}$ 或 $E_\text{Cl}$，而是处于某个中间值。 
+尽管 \ce{K+}、\ce{Na+} 和 \ce{Cl-} 通量设定了静息电位值，但$V_m$不等于 $E_\text{K}$、$E_\text{Na}$ 或 $E_\text{Cl}$，而是处于某个中间值。 
 作为一般规则，当$V_m$由 2 种或多种离子决定时，一种物质的贡献不仅取决于细胞内外的离子浓度，还取决于离子穿过膜的难易程度。
 
 
@@ -467,8 +467,8 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 \end{equation}
 
 
-因此，在动作电位的峰值处，当膜对 \ce{Na+} 的渗透性远高于对任何其他离子的渗透性时，$V_m$接近 $E_{Na}$。 
-然而，膜对 \ce{K+} 和 \ce{Cl-} 的有限渗透性导致 \ce{K+} 流出和 \ce{Cl-} 流入，部分抵消了 \ce{Na+} 流入，从而阻止$V_m$完全达到 $E_{Na}$。
+因此，在动作电位的峰值处，当膜对 \ce{Na+} 的渗透性远高于对任何其他离子的渗透性时，$V_m$接近 $E_\text{Na}$。 
+然而，膜对 \ce{K+} 和 \ce{Cl-} 的有限渗透性导致 \ce{K+} 流出和 \ce{Cl-} 流入，部分抵消了 \ce{Na+} 流入，从而阻止$V_m$完全达到 $E_\text{Na}$。
 
 
 
@@ -511,16 +511,16 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 如图~\ref{fig:9_6}A~所示，在等效回路中，我们可以将每个 \ce{K+} 通道表示为具有单通道电导 $\gamma_K$ 的电阻器或离子电流导体（记住，电导 = 1/电阻）。 
 如果没有 \ce{K+} 浓度梯度，通过单个 \ce{K+} 通道的电流将由欧姆定律给出：$i_K = \gamma_K \times V_m$。
 然而，通常存在 \ce{K+} 浓度梯度，因此也存在驱动 \ce{K+} 跨膜的化学力，在等效回路中由细胞表示（电势源称为\textit{电动势}，由化学势差产生的电动势称为蓄电池）。
-如图~\ref{fig:9_6}~所示，该细胞的电动势由 $E_K$ 给出，即 \ce{K+} 的能斯特电势。
+如图~\ref{fig:9_6}~所示，该细胞的电动势由 $E_\text{K}$ 给出，即 \ce{K+} 的能斯特电势。
 
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.5\linewidth]{chap09/fig_9_6}
 	\caption{化学力和电力有助于电流通过离子通道。
-		A. \ce{K+} 的浓度梯度会产生电动势，其值等于 $E_K$，即 \ce{K+} 的能斯特电势。
+		A. \ce{K+} 的浓度梯度会产生电动势，其值等于 $E_\text{K}$，即 \ce{K+} 的能斯特电势。
 		这可以用细胞来表示。
-		在该回路中，细胞$E_K$与导体$\gamma_K$串联，代表\ce{K+}通道的电导。
+		在该回路中，细胞$E_\text{K}$与导体$\gamma_K$串联，代表\ce{K+}通道的电导。
 		B. 在电驱动力和化学驱动力同时存在的情况下，\ce{K+} 通道的电流-电压关系。
 		电流为 0 时的膜电位等于 \ce{K+} 能斯特电位。}
 	\label{fig:9_6}
@@ -531,7 +531,7 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 在跨膜电压不存在的情况下，正常的 \ce{K+} 浓度梯度会导致向外的 \ce{K+} 电流。
 根据我们对电流的约定，正电荷跨膜向外移动对应于正电流。
 根据\textit{能斯特方程}，当带正电的离子（例如 \ce{K+}）的浓度梯度向外（即细胞内的 \ce{K+} 浓度高于细胞外）时，该离子的平衡电位为负。
-因此，仅由于其浓度梯度而流动的 \ce{K+} 电流由 $i_k = -\gamma_K \times E_K$ 给出（负号是必需的，因为负平衡电位在 0 毫伏时产生正电流）。
+因此，仅由于其浓度梯度而流动的 \ce{K+} 电流由 $i_k = -\gamma_K \times E_\text{K}$ 给出（负号是必需的，因为负平衡电位在 0 毫伏时产生正电流）。
 
 
 % Finally, for a real neuron that 
@@ -539,28 +539,28 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 \begin{equation}
 	i_K = (\gamma_K \times V_m) - 
-		(\gamma_K \times E_K) =
-		\gamma_K \times (V_m - E_K).
+		(\gamma_K \times E_\text{K}) =
+		\gamma_K \times (V_m - E_\text{K}).
 \end{equation}
 
 
 % The factor
-因子（$V_m - E_K$）称为电化学驱动力。
+因子（$V_m - E_\text{K}$）称为电化学驱动力。
 它决定了离子电流的方向和（连同电导）它的大小。
 该方程式是欧姆定律的一种修改形式，它考虑了这样一个事实，即通过膜的离子电流不仅取决于跨膜电压，还取决于离子浓度梯度。
 
 
 % A cell membrane has many
 细胞膜有许多静止的 \ce{K+} 通道，所有这些通道都可以组合成一个由与细胞串联的导体组成的等效回路元件。
-在这个等效回路中，所有 \ce{K+} 通道的总电导（$g_K$），即细胞膜在静息状态下的 \ce{K+} 电导，等于静息 \ce{K+} 通道数（$N_K$）乘以个体的电导 \ce{K+}通道（$\gamma_K$）：
+在这个等效回路中，所有 \ce{K+} 通道的总电导（$g_\text{K}$），即细胞膜在静息状态下的 \ce{K+} 电导，等于静息 \ce{K+} 通道数（$N_\text{K}$）乘以个体的电导 \ce{K+}通道（$\gamma_K$）：
 
 \begin{equation}
-	g_K = N_K \times \gamma_K.
+	g_\text{K} = N_\text{K} \times \gamma_K.
 \end{equation}
 
 
 % Because the battery in this
-由于此等效回路中的细胞仅取决于 \ce{K+} 的浓度梯度，而与 \ce{K+} 通道的数量无关，因此其值为 \ce{K+} 的平衡电位 $E_K$。
+由于此等效回路中的细胞仅取决于 \ce{K+} 的浓度梯度，而与 \ce{K+} 通道的数量无关，因此其值为 \ce{K+} 的平衡电位 $E_\text{K}$。
 
 
 % Like the population of resting
@@ -587,70 +587,70 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	为了简化计算，我们忽略了\ce{Na+}-\ce{K+}泵的产电影响，因为它很小。
 	我们也忽略了膜电容，因为$V_m$不变，所以电容上的电荷也没有变化。
 	
-	\quad \quad 由于\ce{K+}的静息通道比\ce{Na+}的静息通道多，因此\ce{K+}的膜电导远大于\ce{Na+}的膜电导。
-	在图~\ref{fig:9_8}的等效回路中，$ g_K $ ($ 10\times 10^{-6} S $) 比$ g_\text{Na} $（$ 10 \times 10^{-6} S $）高20倍。
-	对于大多数神经细胞，$ g_{Cl} $的值范围为$ g_K $的 1/4 到一半。
-	在这个例子中，$ g_{Cl} $等于 $ 4.0 \times 10^{-6} S $。
-	给定这些值以及$E_K$，$E_\text{Cl}$和$ E_{Na} $的值，我们可以如下计算$V_m$。
+	\quad \quad 由于~\ce{K+} 的静息通道比~\ce{Na+} 的静息通道多，因此\ce{K+}的膜电导远大于~\ce{Na+}的膜电导。
+	在图~\ref{fig:9_8}的等效回路中，$ g_\text{K} $ ($ 10\times 10^{-6} S $) 比$ g_\text{Na} $（$ 10 \times 10^{-6} S $）高20倍。
+	对于大多数神经细胞，$ g_\text{Cl} $的值范围为$ g_\text{K} $的 1/4 到一半。
+	在这个例子中，$ g_\text{Cl} $等于 $ 4.0 \times 10^{-6} S $。
+	给定这些值以及$E_\text{K}$，$E_\text{Cl}$和$ E_\text{Na} $的值，我们可以如下计算$V_m$。
 	
 	\quad \quad 由于膜电位是恒定的，因此通过三组离子通道没有净电流：
 	\begin{equation}\label{eq:9_three_sets}
-		I_K + I_{Cl} + I_{Na} = 0.
+		I_\text{K} + I_\text{Cl} + I_\text{Na} = 0.
 	\end{equation}
 	
 	\quad \quad 我们可以很容易地分 2 步计算每个电流。
 	首先，我们将回路每个分支上的单独电位差相加。
-	例如，在\ce{K+}分支中，总电位差是细胞$E_K$和欧姆定律给出的跨越$ g_K $的压降之和（$ V_m = I_K / g_K $）：
+	例如，在\ce{K+}分支中，总电位差是细胞$E_\text{K}$和欧姆定律给出的跨越$ g_\text{K} $的压降之和（$ V_m = I_\text{K} / g_\text{K} $）：
 	\begin{equation}\label{eq:9_voltage_drop}
-		V_m = E_K + I_K / g_K
+		V_m = E_\text{K} + I_\text{K} / g_\text{K}
 	\end{equation}
 	
-	\quad \quad 同样，对于\ce{Na+}和\ce{Cl-}电导分支：
+	\quad \quad 同样，对于~\ce{Na+}和~\ce{Cl-}电导分支：
 	\begin{equation}\label{eq:9_Na_conductance}
-		V_m = E_\text{Cl} + I_{Cl} / g_{Cl}
+		V_m = E_\text{Cl} + I_\text{Cl} / g_\text{Cl}
 	\end{equation}
 	\begin{equation}\label{eq:9_Cl_conductance}
-		V_m = E_\text{Cl} + I_{Na} / g_\text{Na}
+		V_m = E_\text{Cl} + I_\text{Na} / g_\text{Na}
 	\end{equation}
 	
 	\quad \quad 接下来，我们重新排列并求解每个分支中的离子电流$ I $：
 	\begin{equation}\label{eq:9_ionic_current_Na}
-		I_{Na} = g_\text{Na} \times (V_m - E_{Na})
+		I_\text{Na} = g_\text{Na} \times (V_m - E_\text{Na})
 	\end{equation}
 	\begin{equation}\label{eq:9_ionic_current_K}
-		I_K = g_K \times (V_m - E_k)
+		I_\text{K} = g_\text{K} \times (V_m - E_k)
 	\end{equation}
 	\begin{equation}\label{eq:9_ionic_current_Cl}
-		I_{Cl} = g_{Cl} \times (V_m - E_\text{Cl}).
+		I_\text{Cl} = g_\text{Cl} \times (V_m - E_\text{Cl}).
 	\end{equation}
 	
 	\quad \quad 这些方程类似于方程~\ref{eq:9_Nernst_Equation}，其中通过单个离子通道的净电流来自各个驱动力产生的电流。
 	如这些方程所示，通过每个电导分支的离子电流等于该分支的电导乘以净电化学驱动力。
-	因此，对于\ce{K+}电流，电导与开放\ce{K+}通道的数量成正比，驱动力等于$V_m$和$E_K$之间的差值。
-	如果$V_m$比$E_K$（-75 毫伏）更正，则驱动力为正，电流为向外；
-	如果$V_m$比$E_K$更负，则驱动力为负，电流向内。
+	因此，对于\ce{K+}电流，电导与开放\ce{K+}通道的数量成正比，驱动力等于$V_m$和$E_\text{K}$之间的差值。
+	如果$V_m$比$E_\text{K}$（-75 毫伏）更正，则驱动力为正，电流为向外；
+	如果$V_m$比$E_\text{K}$更负，则驱动力为负，电流向内。
 	
 	% Similar equations are
 	\quad \quad 在本书中，类似的方程被用于各种情况，以将特定离子电流的大小与其膜电导和驱动力联系起来。
 	
 	% As we saw in
-	\quad \quad 正如我们在等式~\ref{eq:9_three_sets}~中所看到的，$ I_{Na} + I_{K} + I_{Cl} = 0 $。
-	如果我们现在用等式~\ref{eq:9_ionic_current_Na}、\ref{eq:9_ionic_current_K}、\ref{eq:9_ionic_current_Cl}代替等式~\ref{eq:9_three_sets}~中的$ I_{Na} $、$ I_{K} $ 和 $ I_{Cl} $，乘以并重新排列，我们得到以下表达式：
+	\quad \quad 正如我们在等式~\ref{eq:9_three_sets}~中所看到的，$ I_\text{Na} + I_{K} + I_\text{Cl} = 0 $。
+	如果我们现在用等式~\ref{eq:9_ionic_current_Na}、\ref{eq:9_ionic_current_K}、\ref{eq:9_ionic_current_Cl}代替等式~\ref{eq:9_three_sets}~中的$ I_\text{Na} $、$ I_{K} $ 和 $ I_\text{Cl} $，乘以并重新排列，我们得到以下表达式：
 	\begin{equation}\label{eq:9_rearrange_three}
-		V_m \times (g_\text{Na} + g_K + G_{Cl}) = 
-		(E_{Na} \times g_{Na+}) + (E_K \times g_K) + (E_\text{Cl} \times g_{Cl}).
+		V_m \times (g_\text{Na} + g_\text{K} + G_{Cl}) = 
+		(E_\text{Na} \times g_{Na+}) + (E_\text{K} \times g_\text{K}) + (E_\text{Cl} \times g_\text{Cl}).
 	\end{equation}
 	
 	\quad \quad 求解$V_m$，我们得到了静息膜电位的方程，该方程用膜电导$ g $和细胞$ E $表示：
 	\begin{equation}\label{eq:9_resting_membrance_potential}
 		V_m = 
 		\frac{
-			(E_{Na} \times g_\text{Na}) + 
-			(E_K \times g_K) + 
-			(E_\text{Cl} \times g_{Cl})
+			(E_\text{Na} \times g_\text{Na}) + 
+			(E_\text{K} \times g_\text{K}) + 
+			(E_\text{Cl} \times g_\text{Cl})
 		}
 		{
-			g_\text{Na} + g_{K} + g_{Cl}
+			g_\text{Na} + g_{K} + g_\text{Cl}
 		}.
 	\end{equation}
 	
@@ -658,12 +658,12 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	
 	\quad \quad 等式~\ref{eq:9_resting_membrance_potential}~表明$V_m$接近电导较大的离子细胞的值。
 	这个原理可以通过考虑动作电位期间发生的事情来说明。
-	在动作电位的峰值，$ g_K $和$ g_{Cl} $与静息值基本不变，但$ g_\text{Na} $增加了500倍。
+	在动作电位的峰值，$ g_\text{K} $和$ g_\text{Cl} $与静息值基本不变，但$ g_\text{Na} $增加了500倍。
 	$ g_\text{Na} $的这种增加是由电压门控\ce{Na+}通道的开放引起的。
 	在图~\ref{fig:9_8}~中的等效回路中，增加500倍将使$ g_\text{Na} $从 $ 0.5\times 10^{-6} S$变为 $ 250 \times 10^{-6} S $。
 	
 	\quad \quad 如果我们将$ g_\text{Na} $的这个新值替换为等式~\ref{eq:9_resting_membrance_potential}并求解$V_{m'}$，则得到+48 毫伏。
-	在动作电位的峰值处，$V_m$比$E_K$更接近$ E_{Na} $，因为$ g_\text{Na} $现在比$ g_K $大25倍，比$ g_{Cl} $大62.5倍，因此在确定$V_m$时，\ce{Na+}细胞比\ce{K+}和\ce{Cl-}细胞重要得多。
+	在动作电位的峰值处，$V_m$比$E_\text{K}$更接近$ E_\text{Na} $，因为$ g_\text{Na} $现在比$ g_\text{K} $大25倍，比$ g_\text{Cl} $大62.5倍，因此在确定$V_m$时，\ce{Na+}细胞比\ce{K+}和\ce{Cl-}细胞重要得多。
 	
 	\quad \quad 方程~\ref{eq:9_resting_membrance_potential}~类似于\textit{戈德曼方程}，因为每个离子细胞对$V_m$的贡献与该特定离子的膜电导成比例加权。
 	在极限范围内，如果一个离子的电导远大于其他离子的电导，则$V_m$接近该离子的能斯特势值。
@@ -680,11 +680,11 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	\centering
 	\includegraphics[width=0.57\linewidth]{chap09/fig_9_7}
 	\caption{静息神经元中被动电流和主动电流的等效回路。
-		由符号 $ g_K $ 表示的总 \ce{K+} 电导是 $ \gamma_K \times N $（静息膜中开放的 \ce{K+} 通道总数）的乘积。
+		由符号 $ g_\text{K} $ 表示的总 \ce{K+} 电导是 $ \gamma_K \times N $（静息膜中开放的 \ce{K+} 通道总数）的乘积。
 		\ce{Na+} 和 \ce{Cl-} 通道的总电导以类似的方式确定。
-		在稳态条件下，被动 \ce{Na+} 和 \ce{K+} 电流由 \ce{Na-}和\ce{K+} 泵驱动的主动 \ce{Na+} 和 \ce{K+} 通量（$I_{Na}'$ 和 $I_K'$）平衡。
-		活性 \ce{Na+} 通量（$I_{Na}'$）活性 \ce{K+} 通量 $I_K'$ 高 50\%，因为 \ce{Na+}-\ce{K+} 泵每向细胞输送 2 个 \ce{K+}，就会输送 3 个 \ce{Na+}。
-		因此，要使细胞保持稳定状态，$I_{Na}$ 必须比 $ I_K $ 大 50\%（箭头大小与电流大小成正比）。
+		在稳态条件下，被动 \ce{Na+} 和 \ce{K+} 电流由 \ce{Na-}和\ce{K+} 泵驱动的主动 \ce{Na+} 和 \ce{K+} 通量（$I_\text{Na}'$ 和 $I_\text{K}'$）平衡。
+		活性 \ce{Na+} 通量（$I_\text{Na}'$）活性 \ce{K+} 通量 $I_\text{K}'$ 高 50\%，因为 \ce{Na+}-\ce{K+} 泵每向细胞输送 2 个 \ce{K+}，就会输送 3 个 \ce{Na+}。
+		因此，要使细胞保持稳定状态，$I_\text{Na}$ 必须比 $ I_\text{K} $ 大 50\%（箭头大小与电流大小成正比）。
 		没有电流通过 \ce{Cl-} 通道，因为在此示例中 $ V_m $ 处于 $ E_\text{Cl} $，即 \ce{Cl-} 平衡电位。
 	}
 	\label{fig:9_7}

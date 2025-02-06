@@ -286,25 +286,25 @@
 \begin{proposition}[终板电位的反转电位] \label{box:12_1}
 	
 	\quad \quad 由一种以上离子物种携带的膜电流的反转电位，例如通过\textit{乙酰胆碱}受体通道的终板电流，由 2 个因素决定：
-	（1） 渗透离子的相对电导（ 在终板电流的情况下为$g_\text{Na}$和$g_K$）和（2）离子的平衡电位（$E_{Na}$和$E_K$）。
+	（1） 渗透离子的相对电导（ 在终板电流的情况下为$g_\text{Na}$和$g_\text{K}$）和（2）离子的平衡电位（$E_\text{Na}$和$E_\text{K}$）。
 	
 	\quad \quad 在\textit{乙酰胆碱}受体通道电流的反转电位下，\ce{Na+}携带的内向电流与\ce{K+}携带的外向电流平衡：
 	\begin{equation}\label{eq:12_inward_current}
-		I_{Na} + I_K = 0.
+		I_\text{Na} + I_\text{K} = 0.
 	\end{equation}
 	
 	\quad \quad 单个\ce{Na+}和\ce{K+}电流可以从以下 2 个方程获得：
 	\begin{equation}\label{eq:12_Na_current}
-		I_{Na} = g_\text{Na} \times (V_m - E_{Na})
+		I_\text{Na} = g_\text{Na} \times (V_m - E_\text{Na})
 	\end{equation}
 	\begin{equation}\label{eq:12_K_current}
-		I_K = g_K \times (V_m - E_K).
+		I_\text{K} = g_\text{K} \times (V_m - E_\text{K}).
 	\end{equation}
 	
-	\quad \quad 我们可以用等式~\ref{eq:12_inward_current}~中的$ I_{Na} $和$ I_K $替换等式~\ref{eq:12_Na_current}~和~\ref{eq:12_K_current}，用$E_{\text{EPSP}}$替换$V_m$（因为在反转电位$V_m = E_{\text{EPSP}}$时）：
+	\quad \quad 我们可以用等式~\ref{eq:12_inward_current}~中的$ I_\text{Na} $和$ I_\text{K} $替换等式~\ref{eq:12_Na_current}~和~\ref{eq:12_K_current}，用$E_{\text{EPSP}}$替换$V_m$（因为在反转电位$V_m = E_{\text{EPSP}}$时）：
 	\begin{equation}\label{eq:12_substitude_inward_current}
-		g_\text{Na} \times (E_{\text{EPSP}} - E_{Na}) + 
-		g_K \times (E_{\text{EPSP}} - E_K)
+		g_\text{Na} \times (E_{\text{EPSP}} - E_\text{Na}) + 
+		g_\text{K} \times (E_{\text{EPSP}} - E_\text{K})
 		= 0.
 	\end{equation}
 	
@@ -312,22 +312,22 @@
 	\begin{equation}\label{eq:12_solving_EPSP}
 		E_{\text{EPSP}} = 
 			\frac{
-				g_\text{Na} \times E_{Na} + (g_K \times E_K)
+				g_\text{Na} \times E_\text{Na} + (g_\text{K} \times E_\text{K})
 			}
 			{
-				g_\text{Na} + g_K
+				g_\text{Na} + g_\text{K}
 			}.
 	\end{equation}
 	
-	\quad \quad 如果知道$E_{\text{EPSP}}$、$E_K$和$E_{Na}$，该方程也可用于求解$g_\text{Na} / g_K$/比。
+	\quad \quad 如果知道$E_{\text{EPSP}}$、$E_\text{K}$和$E_\text{Na}$，该方程也可用于求解$g_\text{Na} / g_\text{K}$/比。
 	因此，重新排列方程式~\ref{eq:12_solving_EPSP}~产生：
 	\begin{equation}\label{eq:12:rearranging_EPSP}
-		\frac{g_\text{Na}}{g_K} = 
-		\frac{E_{\text{EPSP}} - E_{K}}{E_{Na} - E_{\text{EPSP}}}.
+		\frac{g_\text{Na}}{g_\text{K}} = 
+		\frac{E_{\text{EPSP}} - E_{K}}{E_\text{Na} - E_{\text{EPSP}}}.
 	\end{equation}
 	
-	\quad \quad 在神经肌肉接头处，$E_{\text{EPSP}}$=0 毫伏，$E_K$=-100 毫伏，$E_{Na}$=+55 毫伏。
-	因此，从等式~\ref{eq:12:rearranging_EPSP}~可以看出，$g_\text{Na} / g_K$的值约为1.8，表明\textit{乙酰胆碱}受体通道对\ce{Na+}的电导略高于对\ce{K+}的电导。
+	\quad \quad 在神经肌肉接头处，$E_{\text{EPSP}}$=0 毫伏，$E_\text{K}$=-100 毫伏，$E_\text{Na}$=+55 毫伏。
+	因此，从等式~\ref{eq:12:rearranging_EPSP}~可以看出，$g_\text{Na} / g_\text{K}$的值约为1.8，表明\textit{乙酰胆碱}受体通道对\ce{Na+}的电导略高于对\ce{K+}的电导。
 	一种可比较的方法可用于分析中枢神经元兴奋性和抑制性突触电位期间的反转电位和离子运动（第~\ref{chap:chap13}~章）。
 	
 \end{proposition}
@@ -789,7 +789,7 @@
 \end{equation}
 
 
-\textit{兴奋性突触后电位}的峰值振幅为
+\textit{兴奋性突触后电位}的峰值振幅为：
 
 \begin{equation}\label{peak_amplitude}
 	\delta = V_m - E_1 = -15 \textit{mV} - (-90\textit{mV}) = 75.
