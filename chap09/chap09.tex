@@ -420,13 +420,13 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	V_m = \frac{RT}{F}
 		ln \frac{
 			P_k [K^+]_o + 
-			P_{Na}[Na^+]_o + 
-			P_{Cl}[Cl^-]_i
+			P_\text{Na}[Na^+]_o + 
+			P_\text{Cl}[Cl^-]_i
 		}
 		{
-			P_K [K^+]_o + 
-			P_{Na}[Na^+]_i + 
-			P_{Cl}[Cl^-]_o
+			P_\text{K} [K^+]_o + 
+			P_\text{Na}[Na^+]_i + 
+			P_\text{Cl}[Cl^-]_o
 		}.
 \end{equation}
 
@@ -434,7 +434,7 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 该等式仅在$V_m$不变时适用。
 它指出离子种类的浓度越大，其膜渗透性越大，其对确定膜电位的贡献就越大。
 在极限情况下，当对一种离子的渗透性异常高时，\textit{戈德曼方程}简化为该离子的\textit{能斯特方程}。 
-例如，如果 $P_K \gg P_{Cl}$ 或 $P_{Na}$，如在神经胶质细胞中，方程变为如下：
+例如，如果 $P_\text{K} \gg P_\text{Cl}$ 或 $P_\text{Na}$，如在神经胶质细胞中，方程变为如下：
 
 \begin{equation} \label{eq:9_glial_cell_equation}
 	V_m = \frac{RT}{F}
@@ -447,14 +447,14 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 他们发现，如果在细胞外浓度改变后不久（在内部离子浓度改变之前）测量$V_m$，[\ce{K+}]$_o$ 对静息电位有很强的影响，[\ce{Cl-}]$_o$ 有中等影响，[\ce{Na+}]$_o$ 影响不大。 
 使用以下渗透率比率，可以通过\textit{戈德曼方程}精准拟合静止膜的数据：
 \begin{equation}
-	P_K : P_{Na} : P_{Cl} = 1.0 : 0.04 : 0.45.
+	P_\text{K} : P_\text{Na} : P_\text{Cl} = 1.0 : 0.04 : 0.45.
 \end{equation}
 
 在动作电位的峰值处，有一个瞬间$V_m$没有变化，\textit{戈德曼方程}适用。 
 在这一点上，如果假设一组完全不同的渗透率比，则$V_m$随外部离子浓度的变化最合适：
 
 \begin{equation}
-	P_K : P_{Na} : P_{Cl} = 1.0 : 20 : 0.45.
+	P_\text{K} : P_\text{Na} : P_\text{Cl} = 1.0 : 20 : 0.45.
 \end{equation}
 
 
@@ -462,7 +462,7 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 \begin{equation}
 	V_m \approx \frac{RT}{F} 
-			ln \frac{[Na^+]_o}{[Na^+]_i} =
+			ln \frac{[\text{Na}^+]_o}{[\text{Na}^+]_i} =
 			+ 55 mV.
 \end{equation}
 
@@ -634,8 +634,8 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 	\quad \quad 在本书中，类似的方程被用于各种情况，以将特定离子电流的大小与其膜电导和驱动力联系起来。
 	
 	% As we saw in
-	\quad \quad 正如我们在等式~\ref{eq:9_three_sets}~中所看到的，$ I_\text{Na} + I_{K} + I_\text{Cl} = 0 $。
-	如果我们现在用等式~\ref{eq:9_ionic_current_Na}、\ref{eq:9_ionic_current_K}、\ref{eq:9_ionic_current_Cl}代替等式~\ref{eq:9_three_sets}~中的$ I_\text{Na} $、$ I_{K} $ 和 $ I_\text{Cl} $，乘以并重新排列，我们得到以下表达式：
+	\quad \quad 正如我们在等式~\ref{eq:9_three_sets}~中所看到的，$ I_\text{Na} + I_\text{K} + I_\text{Cl} = 0 $。
+	如果我们现在用等式~\ref{eq:9_ionic_current_Na}、\ref{eq:9_ionic_current_K}、\ref{eq:9_ionic_current_Cl}代替等式~\ref{eq:9_three_sets}~中的$ I_\text{Na} $、$ I_\text{K} $ 和 $ I_\text{Cl} $，乘以并重新排列，我们得到以下表达式：
 	\begin{equation}\label{eq:9_rearrange_three}
 		V_m \times (g_\text{Na} + g_\text{K} + G_{Cl}) = 
 		(E_\text{Na} \times g_{Na+}) + (E_\text{K} \times g_\text{K}) + (E_\text{Cl} \times g_\text{Cl}).
