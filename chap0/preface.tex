@@ -11,8 +11,15 @@
 \renewcommand\arraystretch{1.0}	%设置表格内行间距
 %\setlength{\tabcolsep}{4.5mm}{
 \begin{longtable}{lll}
+% 参考：https://blog.csdn.net/weixin_43849277/article/details/115249293
+% 设置标题的字体
+% 字体设为small（对应五号字体，还有其他选择\tiny\scriptsize\footnotesize\small\normalsize\large\Large\LARGE\huge\Huge）
+% bf表示加粗显示
+% stretch=1.25表示1.25倍行距
+% justification=raggedright设置左对齐，默认情况应该就是左对齐，不齐可能是设置了首部缩进。
+\captionsetup{font={large,bf,stretch=1.25}}
 % https://blog.csdn.net/maths_girl/article/details/107030167
-\caption{专用名词中英对照表 \label{tab:0_1}} \\
+\caption*{专用名词中英对照表 \label{tab:0_1}} \\
 	\toprule 
  英文（缩略词）   && 中文 \\
  
