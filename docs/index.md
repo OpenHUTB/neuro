@@ -53,7 +53,7 @@ title: 主页
 
 16.<a href="pdf/16.pdf" class="image fit">神经**递质**（化学性质）</a>
 
-四、输入（ [感知](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#perception) ） <span id="perception"></span>
+四、感知（[输入](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#perception) ） <span id="perception"></span>
 
 17.<a href="pdf/17.pdf" class="image fit">感觉**编码**</a>
 
@@ -82,7 +82,7 @@ title: 主页
 29.<a href="pdf/29.pdf" class="image fit">嗅觉和味觉：**化学**感觉</a>
 
 
-五、输出（ [控制](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#control) 、执行） <span id="control"></span>
+五、控制（ [输出](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#control) 、执行） <span id="control"></span>
 
 30.<a href="pdf/30.pdf" class="image fit">感觉运动控制**原理**</a>
 
@@ -105,7 +105,7 @@ title: 主页
 39.<a href="pdf/39.pdf" class="image fit">**脑机**接口（人造输出）</a>
 
 
-六、行为（规划、决策） <span id="planning"></span>
+六、规划（决策） <span id="planning"></span>
 
 40.<a href="pdf/40.pdf" class="image fit">脑干</a>
 
@@ -168,7 +168,7 @@ title: 主页
 
 64.<a href="pdf/64.pdf" class="image fit">大脑**老化**（衰老）</a>
 
-附：<a href="pdf/65.pdf" class="image fit">专用名词中英对照表</a>、<a href="pdf/65.pdf" class="image fit">参考文献</a>。
+附：<a href="pdf/65.pdf" class="image fit">专用名词中英对照表</a>、<a href="pdf/66.pdf" class="image fit">参考文献</a>。
 
 ## 参考
 
