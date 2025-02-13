@@ -197,8 +197,21 @@
 * 中英文对照表中专用名词的英文链接为[维基百科](https://en.wikipedia.org/) ，中文链接为[百度百科](https://baike.baidu.com/) 。
 * 只有第一、第二、第三保留中文汉字，其余数字都用阿拉伯数字。
 
+## 网页部署
+1. 生成 neuro.pdf 后，运行脚本 `src/split_pdf_with_index.py` 将在 `docs/pdf`目录下生成每个章节的 PDF 文件。
+2. 编译并本地部署网页：
+```shell
+mkdocs serve 
+```
+使用浏览器打开 [http://127.0.0.1:8000](http://127.0.0.1:8000)，查看文档页面能否正常显示。
 
-## pdf转html
+3. 部署到`github`：
+```shell
+mkdocs gh-deploy
+```
+该命令会自动将相应内容推送到项目的`gh-pages`分支上，然后在 `Github` 项目设置中选择好对应 `GitPage` 的分支，目录选择`/(root)`（注意不要是`/(docs)`，然后通过 [`https://openhutb.github.io/neuro/`](https://openhutb.github.io/neuro/) 访问即可。
+
+### pdf转html（可选）
 打开 `Microsoft Store`，搜索 Ubuntu，安装Ubuntu 20.04 子系统，然后配置环境：
 ```shell
 wsl --set-default-version 2
