@@ -36,7 +36,8 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install --upgrade pip requests gitpython numpy PyPDF2
       - name: Split PDF with index
-        run: python src/split_pdf_with_index.py  # 执行
+        working-directory: ./src
+        run: python split_pdf_with_index.py  # 执行
 
 
       - name: Build
