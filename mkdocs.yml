@@ -9,7 +9,7 @@ site_name: 神经科学原理
 repo_url: https://github.com/OpenHUTB/neuro
 
 # 页面右上角添加直接编辑页面的按钮
-edit_uri: edit/master/
+edit_uri: edit/main/docs
 
 theme:
   name: readthedocs
@@ -36,9 +36,17 @@ extra:
   generator: false
 
 nav:
-- 首页: 'index.md'
-#- 入门: '#_1'
-#- 主题: '#_2'
+- 框架: '#content'
+- 一、总论: '#perspective'
+- 二、细胞: '#cell'
+- 三、突触: '#transmission'
+- 四、输入: '#perception'
+- 五、输出: '#control'
+- 六、行为: '#planning'
+- 七、发育: '#development'
+- 八、学习: '#learning'
+- 九、疾病: '#desease'
+
 #- 交通: '#_3'
 #- 行人: "#_4"
 #- 高级概念: '#_5'

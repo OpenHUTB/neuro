@@ -2,7 +2,7 @@ title: 主页
 
 # [神经科学原理](https://carla.readthedocs.io/en/latest/)
 
-## <a href="pdf/00.pdf" class="image fit">内容</a>
+## <a href="pdf/00.pdf" class="image fit">内容</a> <span id="content"></span>
 
 | 0   | 1                  | 2               | 3                   |
 |-----|--------------------|-----------------|---------------------|
@@ -16,9 +16,9 @@ title: 主页
 
 一、总论 <span id="perspective"></span>
 
-1.<a href="pdf/01.pdf" class="image fit">**大脑**与行为</a>（结构）
+1.<a href="pdf/01.pdf" class="image fit">**大脑**与行为</a>（结构） <span id="brain_behavior"></span>
 
-2.<a href="pdf/02.pdf" class="image fit">**基因**与行为</a>（进化）
+2.<a href="pdf/02.pdf" class="image fit">**基因**与行为</a>（进化） <span id="genes_behavior"></span>
 
 3.<a href="pdf/03.pdf" class="image fit">神经**细胞**、神经**回路**和行为</a>
 
@@ -122,51 +122,53 @@ title: 主页
 
 七、**发育**（成长） <span id="development"></span>
 
-45.<a href="pdf/12.pdf" class="image fit">神经系统的**塑造**</a>
+45.<a href="pdf/45.pdf" class="image fit">神经系统的**塑造**</a>
 
-46.<a href="pdf/12.pdf" class="image fit">神经细胞的**分化**与存活</a>
+46.<a href="pdf/46.pdf" class="image fit">神经细胞的**分化**与存活</a>
 
-47.<a href="pdf/12.pdf" class="image fit">**轴突**的生长和引导</a>
+47.<a href="pdf/47.pdf" class="image fit">**轴突**的生长和引导</a>
 
-48.<a href="pdf/12.pdf" class="image fit">**突触**的形成和消除</a>
+48.<a href="pdf/48.pdf" class="image fit">**突触**的形成和消除</a>
 
-49.<a href="pdf/12.pdf" class="image fit">突触**连接**的经验和细化</a>
+49.<a href="pdf/49.pdf" class="image fit">突触**连接**的经验和细化</a>
 
-50.<a href="pdf/12.pdf" class="image fit">受损大脑的修复</a>
+50.<a href="pdf/50.pdf" class="image fit">受损大脑的修复</a>
 
-51.<a href="pdf/12.pdf" class="image fit">神经系统的性别分化</a>
+51.<a href="pdf/51.pdf" class="image fit">神经系统的性别分化</a>
 
 
 八、学习（ [**改变**](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#learning) ） <span id="learning"></span>
 
-52.<a href="pdf/12.pdf" class="image fit">**学习**和记忆</a>
+52.<a href="pdf/52.pdf" class="image fit">**学习**和记忆</a>
 
-53.<a href="pdf/12.pdf" class="image fit">**内隐**记忆的细胞机制和个性的生物基础</a>
+53.<a href="pdf/53.pdf" class="image fit">**内隐**记忆的细胞机制和个性的生物基础</a>
 
-54.<a href="pdf/12.pdf" class="image fit">海马体和**外显**记忆存储的神经基础</a>
+54.<a href="pdf/54.pdf" class="image fit">海马体和**外显**记忆存储的神经基础</a>
 
-55.<a href="pdf/12.pdf" class="image fit">语言（记忆）</a>
+55.<a href="pdf/55.pdf" class="image fit">语言（记忆）</a>
 
-56.<a href="pdf/12.pdf" class="image fit">决策和意识（决策）</a>
+56.<a href="pdf/56.pdf" class="image fit">决策和意识（决策）</a>
 
 
 九、疾病（**衰老**） <span id="desease"></span>
 
-57.<a href="pdf/12.pdf" class="image fit">周围神经和**运动**单位疾病（运动）</a>
+57.<a href="pdf/57.pdf" class="image fit">周围神经和**运动**单位疾病（运动）</a>
 
-58.<a href="pdf/12.pdf" class="image fit">癫痫发作和**癫痫**（运动）</a>
+58.<a href="pdf/58.pdf" class="image fit">癫痫发作和**癫痫**（运动）</a>
 
-59.<a href="pdf/12.pdf" class="image fit">有意识和无意识的**心理**过程障碍（个体）</a>
+59.<a href="pdf/59.pdf" class="image fit">有意识和无意识的**心理**过程障碍（个体）</a>
 
-60.<a href="pdf/12.pdf" class="image fit">精神分裂症的思想和**意志**障碍（个体）</a>
+60.<a href="pdf/60.pdf" class="image fit">精神分裂症的思想和**意志**障碍（个体）</a>
 
-61.<a href="pdf/12.pdf" class="image fit">**情绪**障碍和焦虑（个体）</a>
+61.<a href="pdf/61.pdf" class="image fit">**情绪**障碍和焦虑（个体）</a>
 
-62.<a href="pdf/12.pdf" class="image fit">影响**社会**认知的障碍：孤独症谱系障碍（社会）</a>
+62.<a href="pdf/62.pdf" class="image fit">影响**社会**认知的障碍：孤独症谱系障碍（社会）</a>
 
-63.<a href="pdf/12.pdf" class="image fit">神经系统神经**退行**性疾病的遗传机制（衰老）</a>
+63.<a href="pdf/63.pdf" class="image fit">神经系统神经**退行**性疾病的遗传机制（衰老）</a>
 
-64.<a href="pdf/12.pdf" class="image fit">大脑**老化**（衰老）</a>
+64.<a href="pdf/64.pdf" class="image fit">大脑**老化**（衰老）</a>
+
+附：<a href="pdf/65.pdf" class="image fit">专用名词中英对照表</a>、<a href="pdf/65.pdf" class="image fit">参考文献</a>。
 
 ## 参考
 
