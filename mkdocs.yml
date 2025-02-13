@@ -1,0 +1,61 @@
+site_name: 神经科学原理
+
+#repo_url: https://github.com/carla-simulator/carla
+#docs_dir: Docs
+#edit_uri: 'edit/master/Docs/'
+
+
+# 设置编译页面的链接的前缀
+repo_url: https://github.com/OpenHUTB/neuro
+
+# 页面右上角添加直接编辑页面的按钮
+edit_uri: edit/master/
+
+theme:
+  name: readthedocs
+  sticky_navigation: True
+  navigation_depth: 3
+extra_css: [extra.css]
+
+
+
+# mathjax用于单独公式展示
+extra_javascript:
+  - extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+plugins:
+#  - mkdocs-video
+  - mkdocs-pdf
+  - search:
+      lang: ja
+      separator: '[\s\-\.]+'
+      min_search_length: 2
+
+extra:
+  generator: false
+
+nav:
+- 首页: 'index.md'
+#- 入门: '#_1'
+#- 主题: '#_2'
+#- 交通: '#_3'
+#- 行人: "#_4"
+#- 高级概念: '#_5'
+#- 自定义地图: '#_6'
+#- 自定义开发: '#_7'
+#- 基准测试: "#_8"
+#- 生态系统: '#_9'
+#- 源代码编译: '#_10'
+#- 贡献: '#_11'
+#- 其他: '#_12'
+#- 参考: '#_13'
+
+
+
+# - mdx_math 用于行内公式显示
+markdown_extensions:
+  - admonition
+  - attr_list
+  # - mdx_math
+
