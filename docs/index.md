@@ -1,6 +1,6 @@
 title: 主页
 
-# [神经科学原理](https://carla.readthedocs.io/en/latest/)
+# [神经科学原理（第六版）](https://github.com/OpenHUTB/neuro)
 
 ## <a href="pdf/00.pdf" class="image fit">内容</a> <span id="content"></span>
 
