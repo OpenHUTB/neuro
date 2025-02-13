@@ -132,5 +132,6 @@ if __name__ == '__main__':
                 os.mkdir(output_dir)
             save_pdf(pdf_writer, "%s/%02d.pdf" % (output_dir, chap_i))
             pass
+    print('Split PDF success!')
 
 
