@@ -24,3 +24,34 @@ jobs:
           files: neuro.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 任务名称：设置Python环境
+      - name: Set up Python
+        # This is the version of the action for setting up Python, not the Python version.
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9' # 指定python版本
+          # Optional - x64 or x86 architecture, defaults to x64
+          architecture: 'x64'
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip requests gitpython numpy PyPDF2
+      - name: Split PDF with index
+        working-directory: ./src
+        run: python split_pdf_with_index.py  # 执行
+
+
+      - name: Build
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          mkdocs_version: 'latest' # option
+          #mkdocs_version: '1.1' # option
+          # 安装行内公式渲染的依赖(python-markdown-math)
+          requirements: 'requirements.txt' # option
+          configfile: 'mkdocs.yml' # option
+      # 报错：remote: Permission to donghaiwang/neuro.git denied to github-actions[bot].
+      # 解决：启用 Settings -> Actions -> General -> Workflow permissions 中的 "Read and write permissions"
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

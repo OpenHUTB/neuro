@@ -1,1 +1,2 @@
 mkdocs-pdf
+python-markdown-math

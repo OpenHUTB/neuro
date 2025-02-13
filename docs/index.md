@@ -170,6 +170,7 @@ title: 主页
 
 附：<a href="pdf/65.pdf" class="image fit">专用名词中英对照表</a>、<a href="pdf/66.pdf" class="image fit">参考文献</a>。
 
-## 参考
+## 其他
 
 * [页面添加PDF](https://stackoverflow.com/questions/69237778/how-to-embed-a-local-pdf-file-in-mkdocs-generated-website-on-github-pages)
+* [书籍内容的建议反馈和修改](https://github.com/OpenHUTB/neuro/issues)
