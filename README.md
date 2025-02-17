@@ -205,14 +205,20 @@ mkdocs serve
 ```
 使用浏览器打开 [http://127.0.0.1:8000](http://127.0.0.1:8000)，查看文档页面能否正常显示。
 
-3. 部署到`github`：
+3. 部署到`github`（可选）：
 ```shell
 mkdocs gh-deploy
 ```
 该命令会自动将相应内容推送到项目的`gh-pages`分支上，然后在 `Github` 项目设置中选择好对应 `GitPage` 的分支，目录选择`/(root)`（注意不要是`/(docs)`，然后通过 [`https://openhutb.github.io/neuro/`](https://openhutb.github.io/neuro/) 访问即可。
 
+
+
 ### pdf转html（可选）
-打开 `Microsoft Store`，搜索 Ubuntu，安装Ubuntu 20.04 子系统，然后配置环境：
+可以使页面打开每一章节的html文件，而不需要浏览器支持阅读PDF，但有些图片为黑色背景。
+```text
+1.[**大脑**与行为](html/01.html)（结构） <span id="brain_behavior"></span>
+```
+步骤：打开 `Microsoft Store`，搜索 Ubuntu，安装Ubuntu 20.04 子系统，然后配置环境：
 ```shell
 wsl --set-default-version 2
 # 安装ssh服务，便于本地和 Ubuntu 子系统之间交互
