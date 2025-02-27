@@ -51,6 +51,7 @@ jobs:
       # 报错：remote: Permission to donghaiwang/neuro.git denied to github-actions[bot].
       # 解决：启用 Settings -> Actions -> General -> Workflow permissions 中的 "Read and write permissions"
       - name: Deploy
+        if: ${{ github.event_name == 'push' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
