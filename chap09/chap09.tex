@@ -195,7 +195,6 @@
 
 
 由于 $RT/F$ 在 25 摄氏度（77°F，室温）时为 25 毫伏，并且从自然对数转换为基数为 10 的对数的常数是 2.3，因此\textit{能斯特方程}也可以写成如下形式：
-
 \begin{equation}\label{eq:9_Nernst_Equation_58}
 	E_x = \frac{58 \, \text{mV}}{z} 
 			log \frac{[X]_o}{[X]_i}.
@@ -203,7 +202,6 @@
 
 
 因此，对于 \ce{K+}，由于 $ z = \pm 1 $ 并给定表~\ref{tab:9_1} 中鱿鱼轴突内外的浓度：
-
 \begin{equation}\label{eq:9_axon_concentrations}
 	E_k = \frac{58 \, \text{mV}}{1} 
 			log \frac{[20]}{[400]}
@@ -400,7 +398,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 
 这种再生的正反馈循环呈爆炸式发展，将膜电位快速推向 +55 毫伏的 \ce{Na+} 平衡电位：
-
 \begin{equation} \label{eq:9_equilibrium_potential}
 	E_{\text{Na}} = \frac{RT}{F} ln\frac{[\text{Na}]_o}{[\text{Na}]_i}
 		   = 58 \, \text{mV} \times log\frac{[440]}{[50]}
@@ -423,7 +420,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 衡量离子穿过膜的容易程度的一种方便的测量方法是膜对该离子的\textit{渗透率}（P），其单位是速度 （厘米每秒）。 
 该度量类似于扩散常数的度量，它决定了由局部浓度梯度驱动的溶液中溶质运动的速率。
 膜电位对离子渗透性和浓度的依赖性由\textit{戈德曼方程}给出：
-
 \begin{equation} \label{eq:9_Goldman_Equation}
 	V_m = \frac{RT}{F}
 		ln \frac{
@@ -443,7 +439,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 它指出离子种类的浓度越大，其膜渗透性越大，其对确定膜电位的贡献就越大。
 在极限情况下，当对一种离子的渗透性异常高时，\textit{戈德曼方程}简化为该离子的\textit{能斯特方程}。 
 例如，如果 $P_\text{K} \gg P_\text{Cl}$ 或 $P_\text{Na}$，如在神经胶质细胞中，方程变为如下：
-
 \begin{equation} \label{eq:9_glial_cell_equation}
 	V_m = \frac{RT}{F}
 		ln \frac{[\text{K}^+]_o}{[\text{K}^+]_i}.
@@ -460,14 +455,12 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 在动作电位的峰值处，有一个瞬间$V_m$没有变化，\textit{戈德曼方程}适用。 
 在这一点上，如果假设一组完全不同的渗透率比，则$V_m$随外部离子浓度的变化最合适：
-
 \begin{equation}
 	P_\text{K} : P_\text{Na} : P_\text{Cl} = 1.0 : 20 : 0.45.
 \end{equation}
 
 
 对于这些渗透率值，\textit{戈德曼方程}接近于 \ce{Na+} 的\textit{能斯特方程}：
-
 \begin{equation}
 	V_m \approx \frac{RT}{F} 
 			ln \frac{[\text{Na}^+]_o}{[\text{Na}^+]_i} =
@@ -544,7 +537,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 % Finally, for a real neuron that 
 最后，对于同时具有膜电位和 \ce{K+} 浓度梯度的真实神经元，净 \ce{K+} 电流由电驱动力和化学驱动力引起的电流之和给出：
-
 \begin{equation}
 	i_K = (\gamma_K \times V_m) - 
 		(\gamma_K \times E_\text{K}) =
@@ -561,7 +553,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 % A cell membrane has many
 细胞膜有许多静止的 \ce{K+} 通道，所有这些通道都可以组合成一个由与细胞串联的导体组成的等效回路元件。
 在这个等效回路中，所有 \ce{K+} 通道的总电导（$g_\text{K}$），即细胞膜在静息状态下的 \ce{K+} 电导，等于静息 \ce{K+} 通道数（$N_\text{K}$）乘以个体的电导 \ce{K+}通道（$\gamma_K$）：
-
 \begin{equation}
 	g_\text{K} = N_\text{K} \times \gamma_K.
 \end{equation}
@@ -763,7 +754,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 要了解电容如何减慢电压响应，请回想一下电容器两端的电压与电容器上存储的电荷成正比。 
 要改变电压，电荷 $Q$ 必须添加到电容器 $C$ 或从电容器 $C$ 中移除：
-
 \begin{equation}
 	\Delta V = \Delta Q/C.
 \end{equation}
@@ -772,7 +762,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 % To change the charge across
 要改变电容器（膜脂双层）上的电荷，电容器（$I_c$）上必须有电流。
 由于电流是每单位时间的电荷流量（$I_c = \Delta Q/ \Delta t $），因此电容器两端的电压变化是电流大小和持续时间的函数：
-
 \begin{equation}
 	\Delta V = I_c \cdot \Delta t / C.
 \end{equation}
@@ -789,7 +778,6 @@ ATP1A2 的突变会导致家族性偏瘫性偏头痛，这是一种与先兆和�
 
 % In the simple case of the
 在神经元的球形细胞体的简单情况下，电势变化的时间过程由以下等式描述：
-
 \begin{equation}
 	\Delta V_m (t) = I_m R_m (1 - e^{-t/\tau}),
 \end{equation}
@@ -843,7 +831,6 @@ $\Delta V_0$ 是电流在注入点（$x = 0$）处产生的膜电位变化。
 
 膜的绝缘性越好（即 $r_m$ 越大）和内核的导电性能越好（$r_a$ 越低），树突的长度常数越大。
 这是因为电流能够沿着树突的内部导电核心扩散得更远，然后在某个点 $x$ 处泄漏穿过膜以改变局部膜电位：
-
 \begin{equation}
 	\Delta V(x) = i(x) \cdot r_m.
 \end{equation}
