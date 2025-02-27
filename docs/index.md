@@ -168,7 +168,6 @@ title: 主页
 
 64.<a href="pdf/64.pdf" class="image fit">大脑**老化**（衰老）</a>
 
-附：<a href="pdf/65.pdf" class="image fit">专用名词中英对照表</a>、<a href="pdf/66.pdf" class="image fit">参考文献</a>。
 
 ## 其他
 
