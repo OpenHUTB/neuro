@@ -1,0 +1,8 @@
+\RequirePackage{tikz}
+\def\CFfromsty{}
+\input chemfig.tex
+\ProvidesPackage\CFname[\CFdate\space v\CFver\space Draw molecule with an easy syntax (CT)]
+\def\printatom#1{\ensuremath{\mathrm{#1}}}% \printatom pour LaTeX.
+\expandafter\def\csname CF\string_begintikzpicture\endcsname{\begin{tikzpicture}}%
+\expandafter\def\csname CF\string_endtikzpicture\endcsname{\end{tikzpicture}}%
+\endinput

@@ -182,6 +182,9 @@
 * [计算神经科学模型](https://github.com/ModelDBRepository)
 * 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
 
+## 依赖
+* 化学符号包[chemfig.sty](https://ctan.org/pkg/chemfig) ，苯的使用方法请参考[有机物化学式的写法](https://zhuanlan.zhihu.com/p/163532914) 。
+
 ## 约定
 * 专有名词使用其他字体显示，用`\textit{}`圈起来，并在中英文对照表中列出来，所有章节保持一致。
 * 为了对比方便，多句话不要在一行，尽量每句话都在一行。
