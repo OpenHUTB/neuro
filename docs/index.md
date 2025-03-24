@@ -28,7 +28,7 @@ title: 主页
 
 6.<a href="pdf/06.pdf" class="image fit">成像**和行为（成像、方法）</a>**
 
-二、神经系统**细胞**的细胞生物学和分子生物学（ [细胞](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#cell) ）<span id="cell"></span>
+二、神经系统**细胞**的细胞生物学和分子生物学（[细胞](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#cell) ）<span id="cell"></span>
 
 7.<a href="pdf/07.pdf" class="image fit">神经系统的**细胞**</a>
 
@@ -39,7 +39,7 @@ title: 主页
 10.<a href="pdf/10.pdf" class="image fit">传播信号：**动作电位**</a>
 
 
-三、突触（ [关系](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#cell) ）<span id="transmission"></span>
+三、突触（[关系](https://github.com/OpenHUTB/onion/blob/master/model_repository.md#cell) ）<span id="transmission"></span>
 
 11.<a href="pdf/11.pdf" class="image fit">突触传递概述（化学、电）</a>
 
@@ -170,6 +170,12 @@ title: 主页
 
 
 ## 其他
+
+符号主义：细胞；
+
+连接主义：连接
+
+行为主义：感知（连接）、规划（符号）、控制
 
 * [页面添加PDF](https://stackoverflow.com/questions/69237778/how-to-embed-a-local-pdf-file-in-mkdocs-generated-website-on-github-pages)
 * [书籍内容的建议反馈和修改](https://github.com/OpenHUTB/neuro/issues)
