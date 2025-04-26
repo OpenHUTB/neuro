@@ -162,7 +162,10 @@
 64. 大脑**老化**（衰老）
 
 
-## 约定
+## 贡献指南
+在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 文档，翻译方法请参考[链接](https://github.com/OpenHUTB/bazaar/blob/master/translation.md) 。参考电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
+
+### 约定
 * 化学符号参考[chemfig.sty](https://ctan.org/pkg/chemfig) 包，苯的使用方法请参考[有机物化学式的写法](https://zhuanlan.zhihu.com/p/163532914) 。
 * 专有名词使用其他字体显示，用`\textit{}`圈起来，并在中英文对照表中列出来，所有章节保持一致。
 * 为了对比方便，多句话不要在一行，尽量每句话都在一行。
@@ -173,18 +176,18 @@
 * 只有第一、第二、第三保留中文汉字，其余数字都用阿拉伯数字。
 * 名称的由来通过脚注`\footnote{}`来进行显示。
 
+### 操作技巧
+* Windows 下获取颜色的RGB值：按`Win+Shift+S`截图后通过画图工具打开，点击工具栏中的`颜色选取器`获得截图中想要知道的颜色，然后点击`编辑颜色`即可得到对应RGB值。
 
-## 实现
+### 实现
 * [计算神经科学模型](https://github.com/ModelDBRepository)
 * 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
 
-## 贡献指南
-在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 文档，翻译方法请参考[链接](https://github.com/OpenHUTB/bazaar/blob/master/translation.md) 。参考电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
 
 ### 部署
 页面部署和PDF文件处理请查看 [链接](./docs/deploy.md)。
 
-## 翻译参考
+### 翻译参考
 * [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
 * 03 [大脑如何处理视觉信息？](https://zhuanlan.zhihu.com/p/273189834?utm_id=0)
 * 04 [神经回路介导行为的神经解剖学基础](https://blog.csdn.net/qq_39318443/article/details/106892674)
