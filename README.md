@@ -165,6 +165,12 @@
 ## 贡献指南
 在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 文档，翻译方法请参考[链接](https://github.com/OpenHUTB/bazaar/blob/master/translation.md) 。参考电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
 
+### 部署
+
+如果仓库历史记录过大，则可以删除 gh-deploy 分支（后面会重新生成），并且克隆时添加`-b main --single-branch`参数。
+
+页面部署和PDF文件处理请查看 [链接](./docs/deploy.md)。 
+
 ### 约定
 * 化学符号参考[chemfig.sty](https://ctan.org/pkg/chemfig) 包，苯的使用方法请参考[有机物化学式的写法](https://zhuanlan.zhihu.com/p/163532914) 。
 * 专有名词使用其他字体显示，用`\textit{}`圈起来，并在中英文对照表中列出来，所有章节保持一致。
@@ -184,8 +190,6 @@
 * 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
 
 
-### 部署
-页面部署和PDF文件处理请查看 [链接](./docs/deploy.md)。
 
 ### 翻译参考
 * [神经科学术语表](https://zhuanlan.zhihu.com/p/273186198?utm_id=0)
