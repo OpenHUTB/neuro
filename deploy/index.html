@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Deploy - 神经科学原理</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link href="../extra.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Deploy";
+        var mkdocs_page_input_path = "deploy.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> 神经科学原理
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="" href="#content">框架</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#perspective">一、总论</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#cell">二、细胞</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#transmission">三、突触</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#perception">四、感知</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#control">五、控制</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#planning">六、规划</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#development">七、发育</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#learning">八、学习</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="#desease">九、疾病</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">神经科学原理</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">Deploy</li>
+    <li class="wy-breadcrumbs-aside">
+          <a href="https://github.com/OpenHUTB/neuro/edit/main/docs/deploy.md" class="icon icon-github"> Edit on GitHub</a>
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <div><h2 id="_1">网页部署</h2>
+<ol>
+<li>生成 neuro.pdf 后，运行脚本 <code>src/split_pdf_with_index.py</code> 将在 <code>docs/pdf</code>目录下生成每个章节的 PDF 文件。</li>
+<li>编译并本地部署网页：</li>
+</ol>
+<pre><code class="language-shell">mkdocs serve 
+</code></pre>
+<p>使用浏览器打开 <a href="http://127.0.0.1:8000">http://127.0.0.1:8000</a>，查看文档页面能否正常显示。</p>
+<ol>
+<li>部署到<code>github</code>（可选）：</li>
+</ol>
+<pre><code class="language-shell">mkdocs gh-deploy
+</code></pre>
+<p>该命令会自动将相应内容推送到项目的<code>gh-pages</code>分支上，然后在 <code>Github</code> 项目设置中选择好对应 <code>GitPage</code> 的分支，目录选择<code>/(root)</code>（注意不要是<code>/(docs)</code>，然后通过 <a href="https://openhutb.github.io/neuro/"><code>https://openhutb.github.io/neuro/</code></a> 访问即可。</p>
+<h3 id="pdfhtml">pdf转html（可选）</h3>
+<p>可以使页面打开每一章节的html文件，而不需要浏览器支持阅读PDF，但有些图片为黑色背景。</p>
+<pre><code class="language-text">1.[**大脑**与行为](html/01.html)（结构） &lt;span id="brain_behavior"&gt;&lt;/span&gt;
+</code></pre>
+<p>步骤：打开 <code>Microsoft Store</code>，搜索 Ubuntu，安装Ubuntu 20.04 子系统，然后配置环境：</p>
+<pre><code class="language-shell">wsl --set-default-version 2
+# 安装ssh服务，便于本地和 Ubuntu 子系统之间交互
+sudo apt-get install openssh-server
+sudo systemctl enalbe ssh.service
+# 解决：Failed to start OpenBSD Secure Shell server.
+sudo /etc/init.d/ssh start
+service sshd status
+# 解决不支持明码登陆：Disconnected: No supported authentication methods available (server sent: publickey)
+sudo vi /etc/ssh/sshd_config
+# 将PasswordAuthentication no 修改为 PasswordAuthentication yes
+sudo systemctl restart sshd.service
+</code></pre>
+<p>编译安装pdf2htmlEX：</p>
+<pre><code class="language-shell">git clone https://github.com/pdf2htmlEX/pdf2htmlEX.git
+# 将 pdf2htmlEX 安装到 /usr/local/bin
+cd pdf2htmlEX
+./buildScripts/buildInstallLocallyApt
+
+# 下载测试文件
+# https://sbel.wiscweb.wisc.edu/wp-content/uploads/sites/569/2018/06/TR-2017-08.pdf
+wget https://github.com/OpenHUTB/neuro/releases/download/v5.0/neuro.pdf
+# 生成pdf所对应的html文件
+# --zoom 页面显示时缩放的倍数
+pdf2htmlEX --zoom 1.3 neuro.pdf
+# 每个页面存在一个单独的文件中（内容不显示）
+# pdf2htmlEX --embed cfijo --split-pages 1 --dest-dir out --page-filename test-%d.page neuro.pdf
+</code></pre>
+<p>将生成的html文件更新到gh-deploy分支：</p>
+<pre><code class="language-shell"># 新建孤儿分支
+git checkout --orphan gp-deploy
+# 清楚创建分支时拷贝过来的内容
+git rm -rf .
+git add .
+git commit -m 'init'
+git push
+</code></pre></div>
+              
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/OpenHUTB/neuro" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../extra.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
