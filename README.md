@@ -167,7 +167,8 @@
 
 ### 部署
 
-如果仓库历史记录过大，则可以删除 gh-deploy 分支（后面会重新生成），并且克隆时添加`-b main --single-branch`参数。
+如果仓库历史记录过大，则可以删除 `gh-deploy` 分支（后面会重新生成），并且克隆时添加`-b main --single-branch`参数。
+注意：删除部署分支后需要在项目的设置中再次从`gh-deploy`分支部署。
 
 页面部署和PDF文件处理请查看 [链接](./docs/deploy.md)。 
 
