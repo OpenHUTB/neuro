@@ -204,9 +204,7 @@
 
 * [pdf2html源代码编译](https://github.com/pdf2htmlEX/pdf2htmlEX/wiki/Building)
 
-## 贡献者列表
 
-[donghaiwang](https://github.com/donghaiwang) 、豆瓣用户Fantastic_tony、[baifeng66](https://github.com/baifeng66) 、[gzhatsb](https://github.com/gzhatsb) 、 [QJWSH](https://github.com/QJWSH) 、[ll274676399](https://github.com/ll274676399) 、[valerie-prog](https://github.com/valerie-prog) 、[kkkkkke6](https://github.com/kkkkkke6) 、 [zybbbbbbbbb](https://github.com/zybbbbbbbbb/) 、[peng2023-ai](https://github.com/peng2023-ai) 、[ChouBaoLiLi](https://github.com/ChouBaoLiLi/neuro) 、[iiarachel](https://github.com/iiarachel) 、[zhanghan217](https://github.com/zhanghan21) 、[jm-pan](https://github.com/jm-pan) 、[wubinq147](https://github.com/wubinq147) 、[forbruce](https://github.com/forbruce) 、[BookName123](https://github.com/BookName123) 、[fu293024](https://github.com/fu293024/neuro) 、[12oneway](https://github.com/12oneway/neuro) 、[srssrs0618](https://github.com/srssrs0618) 、[forbruce](https://github.com/forbruce) 、 [ruanriqing](https://github.com/ruanriqing?tab=repositories) 、[huduo0](https://github.com/huduo0/neuro) 、[Qqqqhl](https://github.com/Qqqqhl) 、[OopsCCK](https://github.com/OopsCCK) 、[YuenHing](https://github.com/YuenHin) 、[yanshuqiiii](https://github.com/yanshuqiiii/neuro/) 、[akicn](https://github.com/akicn) 、[qingfeng99-a11y](https://github.com/qingfeng99-a11y) 、 [guhaoz](https://github.com/guhaoz?tab=repositories) 、[huanglanfang](https://github.com/huanglanfang) 、[feicheng0909](https://github.com/feicheng0909) 、[fengying1107](https://github.com/fengying1107) 、[cooleqqq](https://github.com/cooleqqq) 、[OopsCCK](https://github.com/OopsCCK) 、[fighd](https://github.com/fighd) 。
 
 ## 许可证
 
