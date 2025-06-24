@@ -1420,6 +1420,9 @@
     \else
       \@restonecolfalse
     \fi
+    % 将目录加入到书签中
+    \phantomsection
+    \addcontentsline{toc}{chapter}{}
     \chapter*{\contentsname
         \@mkboth{%
            \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
