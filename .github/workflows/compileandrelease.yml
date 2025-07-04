@@ -14,7 +14,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: neuro.tex
-          texlive_version: 2023
+          texlive_version: 2025
           latexmk_use_xelatex: true
           
       - name: Release
