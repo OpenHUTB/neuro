@@ -1,4 +1,4 @@
-# 神经网络原理
+# 神经科学原理（第六版）
 
 ## 内容
 
@@ -7,6 +7,8 @@
 | **微观**  | [总论](#perspective) | [细胞](#cell)     | [连接](#transmission) |
 | **介观**  | [感知](#perception)  | [规划](#planning) | [控制](#control)      |
 | **宏观**  | [发育](#development) | [学习](#learning) | [衰老](#desease)      |
+
+**扩展内容**： [前额叶皮层（规划）](https://github.com/OpenHUTB/PFC) 、 [运动的生物力学（控制）](https://github.com/OpenHUTB/move) 。
 
 
 一、总论 <span id="perspective"></span>
@@ -110,8 +112,6 @@
 43. 动机、奖励和上瘾状态（**决策**：前额叶皮层的奖励）
 
 44. 睡眠和觉醒（节律）
-
-规划：[前额叶皮层](https://github.com/OpenHUTB/PFC)
 
 
 七、**发育**（成长） <span id="development"></span>
