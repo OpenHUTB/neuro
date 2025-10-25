@@ -25,6 +25,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
+      - name: Copy to deploy directory
+        run: |
+          cp neuro.pdf docs/neuro.pdf
+
+
       # 任务名称：设置Python环境
       - name: Set up Python
         # This is the version of the action for setting up Python, not the Python version.
