@@ -2,6 +2,10 @@ title: 主页
 
 # [神经科学原理（第六版）](https://github.com/OpenHUTB/neuro)
 
+
+完整版下载链接：<a href="./neuro.pdf" class="image fit">neuro.pdf</a> <span id="move_pdf"></span>
+
+
 ## <a href="pdf/00.pdf" class="image fit">内容</a> <span id="content"></span>
 
 | 0   | 1                  | 2               | 3                   |
