@@ -10,9 +10,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@v4
         with:
           root_file: neuro.tex
-          texlive_version: 2020
+          texlive_version: 2025
           latexmk_use_xelatex: true
           
