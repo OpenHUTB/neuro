@@ -1,4 +1,4 @@
-name: Compile Latex with 2020
+name: Compile Latex with 2025
 
 on: [push, pull_request]
     
