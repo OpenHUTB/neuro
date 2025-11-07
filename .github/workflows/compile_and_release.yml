@@ -1,5 +1,5 @@
 
-name: Compile Latex
+name: Compile Latex with 2024
 
 on: [push]
     
