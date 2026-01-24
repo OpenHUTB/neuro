@@ -409,7 +409,7 @@
   bibstyle=\ELEGANT@bibstyle]{biblatex}
 
 \ifdefstring{\ELEGANT@lang}{cn}{
-  \renewcommand{\baselinestretch}{1.3}
+  \renewcommand{\baselinestretch}{1.35}
   \renewcommand{\contentsname}{目录}
   \renewcommand{\figurename}{图}
   \renewcommand{\tablename}{表}
