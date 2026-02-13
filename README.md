@@ -167,22 +167,54 @@
 
 ### 环境搭建
 
-使用 xelatex 编译（使用之前安装 [latex](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/) ）：
+使用 xelatex 编译（使用之前安装 [latex](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/) ，并使用 [texstudio](https://www.texstudio.org/) 进行编辑）：
 ```shell
 xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
 ```
 
-创建虚拟环境
-```shell
-conda create -n neuro python=3.10 --yes
-conda activate neuro
-pip install -r requirements.txt
-cd src
-python split_pdf_with_index.py
-# conda deactivate neuro
-# 删除虚拟环境（慎重）
-# conda remove -n neuro --all
-```
+* [VSCode 中 Latex Workshop 插件设置 XeLatex 编译](https://blog.csdn.net/Haulyn5/article/details/124128533)
+
+    1. （先决条件）在 VSCode 中安装 [Latex Workshop](https://github.com/shinyypig/latex-vscode-config) 插件。
+
+    2. 切换到 XeLatex 引擎编译：在 Extention 列表中找到 Latex Workshop 插件，点选齿轮状图标，打开扩展设置（Extension Settings）。
+
+    3. 在新出现的页面中的搜索栏中输入 “ tools”（注意有空格，连在一起是搜索不出来的），找到第一个点击 “Edit in settings.json”
+
+    4. 将 "args" 部分的内容按照下面的内容进行修改：
+    ```json
+    "name": "latexmk",
+    "command": "latexmk",
+    // "args": [
+    //     "-synctex=1",
+    //     "-interaction=nonstopmode",
+    //     "-file-line-error",
+    //     "-pdf",
+    //     "-outdir=%OUTDIR%",
+    //     "%DOC%"
+    // ],
+    "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+    ],
+    "env": {}
+    ```
+     5. Ctrl+s 保存后，再点击 VSCode 中 `.text` 文件右上角的绿色运行按钮，这是应该就替换为使用 XeLatex 编译了。
+
+
+* 创建虚拟环境（用于按章节切分生成的 PDF 文件）
+    ```shell
+    conda create -n neuro python=3.10 --yes
+    conda activate neuro
+    pip install -r requirements.txt
+    cd src
+    python split_pdf_with_index.py
+    # conda deactivate neuro
+    # 删除虚拟环境（慎重）
+    # conda remove -n neuro --all
+    ```
 
 ### 页面部署
 
