@@ -203,6 +203,10 @@ xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
     ```
      5. Ctrl+s 保存后，再点击 VSCode 中 `.text` 文件右上角的绿色运行按钮，这是应该就替换为使用 XeLatex 编译了。
 
+     从 Latex 到 PDF：点击左侧命令行中的`Navigate, select, and edit -> SyncTeX from cursor`。或者选择“快捷键设置（Keyboard Shortcuts）”，搜索`SyncTeX from cursor`，设置快捷键（默认为 Ctrl+Alt+J ）。
+
+     从 PDF 到 Latex：按 Ctrl 的同时点击 PDF。
+
 
 * 创建虚拟环境（用于按章节切分生成的 PDF 文件）
     ```shell
