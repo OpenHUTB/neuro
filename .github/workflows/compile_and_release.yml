@@ -17,11 +17,22 @@ jobs:
           texlive_version: 2024
           latexmk_use_xelatex: true
           
+      - name: Get version and copy PDF with version
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          # GITHUB_REF_NAME 是 GitHub Actions 内置的环境变量，对于 refs/tags/v1.0.0 会得到 v1.0.0
+          # 版本号不需要 v 前缀，所以使用参数扩展去掉 v 前缀
+          VERSION=${GITHUB_REF_NAME#v}
+          # cp 保留原文件，不影响后续的 PDF 分割等步骤
+          cp neuro.pdf "neuro-${VERSION}.pdf"
+          # 新文件名通过 GITHUB_ENV 传递给 Release 步骤
+          echo "RELEASE_FILE=neuro-${VERSION}.pdf" >> $GITHUB_ENV
+
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: neuro.pdf
+          files: ${{ env.RELEASE_FILE }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
