@@ -285,21 +285,6 @@ xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
 }
 ```
 
-```
-@article{WANG202216,
-    title = {BTN: Neuroanatomical aligning between visual object tracking in deep neural network and smooth pursuit in brain},
-    journal = {Neurocomputing},
-    volume = {486},
-    pages = {16-26},
-    year = {2022},
-    issn = {0925-2312},
-    doi = {https://doi.org/10.1016/j.neucom.2022.02.031},
-    url = {https://www.sciencedirect.com/science/article/pii/S0925231222001886},
-    author = {Haidong Wang and Zhiyong Li and Ke Nai and Jin Yuan and Shutao Li and Xianghua Li},
-    keywords = {Visual object tracking, Deep neural network, Neuroscience, Smooth pursuit}
-}
-```
-
 该工作基于 CC-BY-NC 4.0 License 或者更新的许可证进行发布，该许可证仅允许个人和研究使用。
 
 
