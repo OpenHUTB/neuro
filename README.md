@@ -1,4 +1,12 @@
-# 神经科学原理（第六版）
+<h1 align="center">神经科学原理（第六版）</h1>
+
+<div align="center">
+
+认识你自己。
+
+—— 古希腊德尔斐神庙墙上镌刻的箴言 
+
+</div>
 
 ## 内容
 
@@ -274,21 +282,6 @@ xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
   author={Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum},
   publisher={McGraw Hill / Medical},
   year={2021},
-}
-```
-
-```
-@article{WANG202216,
-    title = {BTN: Neuroanatomical aligning between visual object tracking in deep neural network and smooth pursuit in brain},
-    journal = {Neurocomputing},
-    volume = {486},
-    pages = {16-26},
-    year = {2022},
-    issn = {0925-2312},
-    doi = {https://doi.org/10.1016/j.neucom.2022.02.031},
-    url = {https://www.sciencedirect.com/science/article/pii/S0925231222001886},
-    author = {Haidong Wang and Zhiyong Li and Ke Nai and Jin Yuan and Shutao Li and Xianghua Li},
-    keywords = {Visual object tracking, Deep neural network, Neuroscience, Smooth pursuit}
 }
 ```
 
