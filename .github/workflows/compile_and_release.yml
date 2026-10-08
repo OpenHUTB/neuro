@@ -1,5 +1,5 @@
 
-name: Compile Latex with 2024
+name: Compile and Release Latex with 2024
 
 on: [push]
     
@@ -52,7 +52,7 @@ jobs:
 
 
       - name: Build
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: OpenHUTB/actions-mkdocs@main
         with:
           mkdocs_version: 'latest' # option
           #mkdocs_version: '1.1' # option
