@@ -41,7 +41,7 @@ jobs:
         # This is the version of the action for setting up Python, not the Python version.
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # 指定python版本
+          python-version: '3.9' # 指定python版本
           # Optional - x64 or x86 architecture, defaults to x64
           architecture: 'x64'
       - name: Install Python dependencies
@@ -52,7 +52,7 @@ jobs:
 
 
       - name: Build
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: OpenHUTB/actions-mkdocs@main
         with:
           mkdocs_version: 'latest' # option
           #mkdocs_version: '1.1' # option
