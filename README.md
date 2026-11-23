@@ -1,14 +1,22 @@
-# 神经科学原理（第六版）
+<h1 align="center">神经科学原理（第六版）</h1>
+
+<div align="center">
+
+认识你自己。
+
+—— 古希腊德尔斐神庙墙上镌刻的箴言 
+
+</div>
 
 ## 内容
 
 | 0   | 1                  | 2               | 3                   |
 |-----|--------------------|-----------------|---------------------|
 | **微观**  | [总论](#perspective) | [细胞](#cell)     | [连接](#transmission) |
-| **介观**  | [感知](#perception)  | [规划](#planning) | [控制](#control)      |
+| **介观**  | [**感知**](#perception)  | [**规划**](#planning) | [**控制**](#control)      |
 | **宏观**  | [发育](#development) | [学习](#learning) | [衰老](#desease)      |
 
-**扩展内容**： [前额叶皮层（规划）](https://github.com/OpenHUTB/PFC) 、 [运动的生物力学（控制）](https://github.com/OpenHUTB/move) 。
+内容细化： **规划**（[《前额叶皮层》](https://github.com/OpenHUTB/PFC)）、**控制**（[《运动的生物力学》](https://github.com/OpenHUTB/move)）。
 
 
 一、总论 <span id="perspective"></span>
@@ -115,6 +123,8 @@
 
 
 七、行为的**发育**和出现（成长） <span id="development"></span>
+
+扩展：[《前额叶皮层》](https://github.com/OpenHUTB/PFC)第二章-进化
 
 45. 神经系统的**塑造**
 
@@ -245,6 +255,7 @@ xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
 ### 实现
 * [计算神经科学模型](https://github.com/ModelDBRepository)
 * 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
+* 45 [关键初始化](https://mp.weixin.qq.com/s/9xdnUxQ4d6MPkH6mZadDLw) - [验证](https://github.com/mouseland/critical_init)
 
 
 
@@ -262,7 +273,17 @@ xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
 
 
 
-## 许可证
+## 参考和许可证
+
+
+```
+@book{2021PRINCIPLES,
+  title={Principles of Neural Science, Sixth Edition},
+  author={Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum},
+  publisher={McGraw Hill / Medical},
+  year={2021},
+}
+```
 
 该工作基于 CC-BY-NC 4.0 License 或者更新的许可证进行发布，该许可证仅允许个人和研究使用。
 
