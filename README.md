@@ -254,6 +254,7 @@ xelatex.exe -synctex=1 -interaction=nonstopmode neuro.tex
 
 ### 实现
 * [计算神经科学模型](https://github.com/ModelDBRepository)
+* [计算神经课程](https://github.com/NeuromatchAcademy/course-content)
 * 33 [基于物理的移动](https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion)
 * 45 [关键初始化](https://mp.weixin.qq.com/s/9xdnUxQ4d6MPkH6mZadDLw) - [验证](https://github.com/mouseland/critical_init)
 
